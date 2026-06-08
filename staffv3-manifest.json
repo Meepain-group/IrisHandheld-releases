@@ -1,10 +1,10 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/latest/download/app-staffV3-debug.apk",
-  "sha256": "2e04bc4a60a695c672627d77f96a4db5f1b5e69e6b8cb9c822091bfbedc87f92",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v10/app-staffV3-debug.apk",
+  "sha256": "92a8c37d24777e3cb3c11009bd5ba3debb67d8713800d1e9c7a57a7d89056378",
   "minSupportedVersionCode": 1,
-  "mandatory": true,
-  "changelog": "• ทดสอบ force update (บังคับอัปเดต)"
+  "mandatory": false,
+  "changelog": "• ดาวน์โหลดทนต่อ 504 (retry) + apkUrl แบบ tagged"
 }
