@@ -1,10 +1,10 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
   "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/latest/download/app-staffV3-debug.apk",
-  "sha256": "4d6c0cab6d4c02b649015d93c06eec1b3e70bf1c2a6cb66eb620f74d14aac44d",
+  "sha256": "9ec55d3ed86495e1c0dd4189a93df992125815584c1499e3c2b9562ee1e42017",
   "minSupportedVersionCode": 1,
   "mandatory": false,
-  "changelog": "• ทดสอบการอัปเดตผ่าน OTA (v4 → v5)"
+  "changelog": "• สตรีมการดาวน์โหลด (แก้ OOM)"
 }
