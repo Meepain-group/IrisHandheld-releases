@@ -1,0 +1,10 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2",
+  "applicationId": "com.aboutyoucnx.irishandheld.staff",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/latest/download/app-staffV3-debug.apk",
+  "sha256": "49f818801b91658ce2590749b68a02ef10c1c98735dc67225167e0b1e03ed499",
+  "minSupportedVersionCode": 1,
+  "mandatory": false,
+  "changelog": "• ทำให้การเช็กอัปเดตเสถียรขึ้น (manifest ผ่าน raw CDN + retry)\n• ฐานระบบ OTA"
+}
