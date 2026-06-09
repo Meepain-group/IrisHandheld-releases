@@ -1,10 +1,10 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
+  "versionCode": 12,
+  "versionName": "1.11",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v11/app-staffV3-debug.apk",
-  "sha256": "bc7c98b1b0d0acebbe66472fcb251cf8294b2441282488c296602cfef4e1d0dd",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v12/app-staffV3-debug.apk",
+  "sha256": "88211c2598eff6fe90072bcf32af7f6f14fe9f44438f36c6311fc73e94ce1983",
   "minSupportedVersionCode": 1,
   "mandatory": false,
-  "changelog": "• OTA เช็กผ่าน cloud (รองรับบังคับอัปเดตจาก backoffice) + fallback GitHub"
+  "changelog": "• ใบเสร็จลูกค้า: QR สแกนด้วยกล้องมือถือได้ — เปิดใน LINE แล้ว claim งานเข้าสมาชิก + ดูสถานะ WDF (iris-project#235)\n• ใบงาน (staff) คงเดิม"
 }
