@@ -1,10 +1,10 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
+  "versionCode": 13,
+  "versionName": "1.12",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v12/app-staffV3-debug.apk",
-  "sha256": "88211c2598eff6fe90072bcf32af7f6f14fe9f44438f36c6311fc73e94ce1983",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v13/app-staffV3-debug.apk",
+  "sha256": "df5a9ad2b9133b1ff50ffc51ba13dd5ebda1a2ad6b2d8ea5dff131e124f45aad",
   "minSupportedVersionCode": 1,
   "mandatory": false,
-  "changelog": "• ใบเสร็จลูกค้า: QR สแกนด้วยกล้องมือถือได้ — เปิดใน LINE แล้ว claim งานเข้าสมาชิก + ดูสถานะ WDF (iris-project#235)\n• ใบงาน (staff) คงเดิม"
+  "changelog": "• ใบที่ปริ้น: เพิ่มเส้น "✂ ฉีกแบ่งตรงนี้" — ด้านบน=ใบเสร็จลูกค้า ด้านล่าง=ใบงานเก็บที่ร้าน (กันลูกค้าสแกน QR ผิดอัน)\n• แก้คำใต้ QR ใบเสร็จ → สแกนด้วยกล้องมือถือ เปิดใน LINE ดูสถานะ/เก็บเข้างานของฉัน"
 }
