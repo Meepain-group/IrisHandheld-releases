@@ -1,10 +1,10 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
+  "versionCode": 16,
+  "versionName": "0.1.0",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v15/app-staffV3-debug.apk",
-  "sha256": "040accaa696969bd9cfa144f879f1585bab83113c45689bb6f6cf6d2465a2172",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v16/app-staffV3-debug.apk",
+  "sha256": "08821cd34f7e70e0a10c0a88d805583a956b8dd3bd065a29901bf4688389b025",
   "minSupportedVersionCode": 1,
   "mandatory": false,
-  "changelog": "• แก้ปัญหาเงินสดค้างชำระ: บันทึกการชำระเงิน retry จนกว่าจะ sync สำเร็จ + sync อัตโนมัติทุก 15 นาที"
+  "changelog": "• แสดงเลขเวอร์ชันทุกหน้า (v0.1.0) + แก้เงินสดค้างชำระ: บันทึกชำระเงิน retry จนสำเร็จ + sync ทุก 15 นาที"
 }
