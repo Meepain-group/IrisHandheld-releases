@@ -6,6 +6,5 @@
   "sha256": "040accaa696969bd9cfa144f879f1585bab83113c45689bb6f6cf6d2465a2172",
   "minSupportedVersionCode": 1,
   "mandatory": false,
-  "changelog": "• แก้ปัญหาเงินสดค้างชำระ: บันทึกการชำระเงิน
-  retry จนกว่าจะ sync สำเร็จ + sync อัตโนมัติทุก 15 นาที"
+  "changelog": "• แก้ปัญหาเงินสดค้างชำระ: บันทึกการชำระเงิน retry จนกว่าจะ sync สำเร็จ + sync อัตโนมัติทุก 15 นาที"
 }
