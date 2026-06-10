@@ -1,10 +1,11 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
+  "versionCode": 15,
+  "versionName": "1.14",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v14/app-staffV3-debug.apk",
-  "sha256": "852cc2ff51b794d914c16756c8f79574bab7da1fbd8c1f76edb3d954343e0667",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v15/app-staffV3-debug.apk",
+  "sha256": "040accaa696969bd9cfa144f879f1585bab83113c45689bb6f6cf6d2465a2172",
   "minSupportedVersionCode": 1,
   "mandatory": false,
-  "changelog": "• ใบเสร็จลูกค้า: เปลี่ยนคำใต้ QR เป็น สแกนด้วย LINE เพื่อดูสถานะงาน + ปรับ tagline เป็น Smart laundry and Human care จัดกึ่งกลาง"
+  "changelog": "• แก้ปัญหาเงินสดค้างชำระ: บันทึกการชำระเงิน
+  retry จนกว่าจะ sync สำเร็จ + sync อัตโนมัติทุก 15 นาที"
 }
