@@ -1,10 +1,10 @@
 {
-  "versionCode": 16,
-  "versionName": "0.1.0",
+  "versionCode": 72,
+  "versionName": "0.1.72",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v16/app-staffV3-debug.apk",
-  "sha256": "08821cd34f7e70e0a10c0a88d805583a956b8dd3bd065a29901bf4688389b025",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v72/app-staffV3-debug.apk",
+  "sha256": "e0990222eaa88d0b11502650f1e95810caf01bd1f2bb8dfd026aa449c2c6248e",
   "minSupportedVersionCode": 1,
   "mandatory": false,
-  "changelog": "• แสดงเลขเวอร์ชันทุกหน้า (v0.1.0) + แก้เงินสดค้างชำระ: บันทึกชำระเงิน retry จนสำเร็จ + sync ทุก 15 นาที"
+  "changelog": "POC silent OTA - realtime auto-update (device owner). v72 USB-tested on 443278 first. Includes queue-018 progress fix."
 }
