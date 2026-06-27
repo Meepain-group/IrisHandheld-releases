@@ -1,10 +1,11 @@
 {
-  "versionCode": 72,
-  "versionName": "0.1.72",
+  "versionCode": 73,
+  "versionName": "0.1.73",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v72/app-staffV3-debug.apk",
-  "sha256": "e0990222eaa88d0b11502650f1e95810caf01bd1f2bb8dfd026aa449c2c6248e",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v73/app-staffV3-debug.apk",
+  "sha256": "c52a6d8d39a1f1ebc186540ba4391868b8ba9dcd28f340116cab5fb2f636f7a2",
   "minSupportedVersionCode": 1,
   "mandatory": false,
-  "changelog": "POC silent OTA - realtime auto-update (device owner). v72 USB-tested on 443278 first. Includes queue-018 progress fix."
+  "changelog": "• ผูกรอบเครื่องซัก/อบ (เงินสด·หยอดเหรียญ) ขึ้นระบบถูกต้อง · เห็นตรงกันทุกเครื่อง
+• แก้ปุ่ม 'ผูกรอบเครื่อง' + worklist 'รอผูก' ให้ใช้งานได้จริง"
 }
