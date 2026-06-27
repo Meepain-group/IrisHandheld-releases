@@ -5,7 +5,6 @@
   "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v73/app-staffV3-debug.apk",
   "sha256": "c52a6d8d39a1f1ebc186540ba4391868b8ba9dcd28f340116cab5fb2f636f7a2",
   "minSupportedVersionCode": 1,
-  "mandatory": false,
-  "changelog": "• ผูกรอบเครื่องซัก/อบ (เงินสด·หยอดเหรียญ) ขึ้นระบบถูกต้อง · เห็นตรงกันทุกเครื่อง
-• แก้ปุ่ม 'ผูกรอบเครื่อง' + worklist 'รอผูก' ให้ใช้งานได้จริง"
+  "mandatory": true,
+  "changelog": "• ผูกรอบเครื่องซัก/อบ ขึ้นระบบถูกต้อง · แก้ปุ่มผูกรอบเครื่อง + รอผูก ใช้งานได้จริง"
 }
