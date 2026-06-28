@@ -1,10 +1,11 @@
 {
-  "versionCode": 73,
-  "versionName": "0.1.73",
+  "versionCode": 76,
+  "versionName": "0.1.76",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v73/app-staffV3-debug.apk",
-  "sha256": "c52a6d8d39a1f1ebc186540ba4391868b8ba9dcd28f340116cab5fb2f636f7a2",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v76/app-staffV3-debug.apk",
+  "sha256": "d3f302f147d38bd69ede54ace0179b748a1b84686a5a3c9fbd5f455af6afda6c",
   "minSupportedVersionCode": 1,
-  "mandatory": true,
-  "changelog": "• ผูกรอบเครื่องซัก/อบ ขึ้นระบบถูกต้อง · แก้ปุ่มผูกรอบเครื่อง + รอผูก ใช้งานได้จริง"
+  "mandatory": false,
+  "allowDowngrade": false,
+  "changelog": "• แก้ self-load ผูกรอบเครื่องอัตโนมัติข้ามเครื่อง (label-match) + ระบบดักจับ crash และ diagnostics ทางไกล"
 }
