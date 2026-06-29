@@ -1,11 +1,11 @@
 {
-  "versionCode": 76,
-  "versionName": "0.1.76",
+  "versionCode": 77,
+  "versionName": "0.1.77",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v76/app-staffV3-debug.apk",
-  "sha256": "d3f302f147d38bd69ede54ace0179b748a1b84686a5a3c9fbd5f455af6afda6c",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v77/app-staffV3-debug.apk",
+  "sha256": "138bf9f324a909b92c9e690cc1dbac26f4c1e5e3f71e8aadcc06c338963171b3",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้ self-load ผูกรอบเครื่องอัตโนมัติข้ามเครื่อง (label-match) + ระบบดักจับ crash และ diagnostics ทางไกล"
+  "changelog": "• เครื่องเดียวใช้ได้หลายรอบใน order เดียว — แก้ปุ่มเลือกเครื่องที่หายไปหลังรอบแรกเสร็จ (อบ/ซัก ขนาดเดียวกันหลายรอบ)"
 }
