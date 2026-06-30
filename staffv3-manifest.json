@@ -1,11 +1,11 @@
 {
-  "versionCode": 85,
-  "versionName": "0.1.85",
+  "versionCode": 86,
+  "versionName": "0.1.86",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v85/app-staffV3-debug.apk",
-  "sha256": "62c3fd47893c90892944a1b280ddf6ab66c264ba3bd0d83040eb465971ce31ae",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v86/app-staffV3-debug.apk",
+  "sha256": "4d9444daeac6a13540618c58b17ef0433d257e64e6627365cf5d1e50bef18de9",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ใบเสร็จอิเล็กทรอนิกส์ทาง LINE สำหรับลูกค้าสมาชิก (auto) + แจ้งบนใบงาน"
+  "changelog": "• e-receipt LINE (auto) + badge สมาชิก LINE ในคิว + แจ้งบนใบงาน"
 }
