@@ -1,11 +1,11 @@
 {
-  "versionCode": 93,
-  "versionName": "0.1.93",
+  "versionCode": 94,
+  "versionName": "0.1.94",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v93/app-staffV3-debug.apk",
-  "sha256": "3a97b8110e0350e3e4367a002ec46a6c2dcf5a719df0151188387ef6fc5fb902",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v94/app-staffV3-debug.apk",
+  "sha256": "6921dad0c9267fe92560ba24887f69c3673c8fc785cb26f5d63bdce36e9761ad",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• UI: badge สถานะ/ดาวแนะนำเด่นขึ้น · progress bar สีตามซัก/อบ · โลโก้ LINE + เบอร์ลูกค้า"
+  "changelog": "• ชื่อ+เบอร์ลูกค้า walk-in ในคิว · ปรับ badge/ดาว/progress สี · sync เร็วขึ้น"
 }
