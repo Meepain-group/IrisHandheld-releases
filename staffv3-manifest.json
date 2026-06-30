@@ -1,11 +1,11 @@
 {
-  "versionCode": 87,
-  "versionName": "0.1.87",
+  "versionCode": 93,
+  "versionName": "0.1.93",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v87/app-staffV3-debug.apk",
-  "sha256": "3cc70be3ab84793c4937b34a3bb2f3a11c9e5655e1c6c509b67bc9c32a02b211",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v93/app-staffV3-debug.apk",
+  "sha256": "3a97b8110e0350e3e4367a002ec46a6c2dcf5a719df0151188387ef6fc5fb902",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• sync ข้ามเครื่องเร็วขึ้น (refresh 8 วิ) + badge สมาชิก LINE + e-receipt"
+  "changelog": "• UI: badge สถานะ/ดาวแนะนำเด่นขึ้น · progress bar สีตามซัก/อบ · โลโก้ LINE + เบอร์ลูกค้า"
 }
