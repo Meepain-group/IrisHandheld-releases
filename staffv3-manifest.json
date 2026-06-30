@@ -1,11 +1,11 @@
 {
-  "versionCode": 77,
-  "versionName": "0.1.77",
+  "versionCode": 84,
+  "versionName": "0.1.84",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v77/app-staffV3-debug.apk",
-  "sha256": "138bf9f324a909b92c9e690cc1dbac26f4c1e5e3f71e8aadcc06c338963171b3",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v84/app-staffV3-debug.apk",
+  "sha256": "42fcf590fae90909703508c917378739240b64ec69e32b3266e9dfeda7ef24b5",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เครื่องเดียวใช้ได้หลายรอบใน order เดียว — แก้ปุ่มเลือกเครื่องที่หายไปหลังรอบแรกเสร็จ (อบ/ซัก ขนาดเดียวกันหลายรอบ)"
+  "changelog": "• ใบเสร็จอิเล็กทรอนิกส์ทาง LINE สำหรับลูกค้าสมาชิก (auto)"
 }
