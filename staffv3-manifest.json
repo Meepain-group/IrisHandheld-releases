@@ -1,11 +1,11 @@
 {
-  "versionCode": 94,
-  "versionName": "0.1.94",
+  "versionCode": 114,
+  "versionName": "0.1.114",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v94/app-staffV3-debug.apk",
-  "sha256": "6921dad0c9267fe92560ba24887f69c3673c8fc785cb26f5d63bdce36e9761ad",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v114/app-staffV3-debug.apk",
+  "sha256": "5d929589a633291462bc91fcfc2cd4e21be2594075cff0b33b727875411bd915",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ชื่อ+เบอร์ลูกค้า walk-in ในคิว · ปรับ badge/ดาว/progress สี · sync เร็วขึ้น"
+  "changelog": "• แถบเตือนงานค้างข้ามวัน + หน้ารวมงานค้าง (รอรับ/รอคิว/กำลังทำ) • แก้ตัวเลข badge กำลัง ให้ตรงกับรายการ"
 }
