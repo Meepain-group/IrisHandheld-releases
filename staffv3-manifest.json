@@ -1,11 +1,11 @@
 {
-  "versionCode": 114,
-  "versionName": "0.1.114",
-  "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v114/app-staffV3-debug.apk",
-  "sha256": "5d929589a633291462bc91fcfc2cd4e21be2594075cff0b33b727875411bd915",
-  "minSupportedVersionCode": 1,
-  "mandatory": false,
-  "allowDowngrade": false,
-  "changelog": "• แถบเตือนงานค้างข้ามวัน + หน้ารวมงานค้าง (รอรับ/รอคิว/กำลังทำ) • แก้ตัวเลข badge กำลัง ให้ตรงกับรายการ"
+    "versionCode":  122,
+    "versionName":  "0.1.122",
+    "applicationId":  "com.aboutyoucnx.irishandheld.staff",
+    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v122/app-staffV3-debug.apk",
+    "sha256":  "5e9c60375146eb73e405ab701ce2a7dd401247fae1b1853c335530e65387d09e",
+    "minSupportedVersionCode":  1,
+    "mandatory":  false,
+    "allowDowngrade":  false,
+    "changelog":  "• ใช้นโยบาย WDF การชำระเงิน การพิมพ์ ราคา และเกณฑ์ dispatch จาก backoffice\n• รองรับ QR TTL และ status polling ตามสาขา\n• เมื่อ config ใช้ไม่ได้หรือ offline จะกลับไปใช้พฤติกรรมเดิม"
 }
