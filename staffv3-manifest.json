@@ -1,11 +1,11 @@
 {
-    "versionCode":  122,
-    "versionName":  "0.1.122",
+    "versionCode":  123,
+    "versionName":  "0.1.123",
     "applicationId":  "com.aboutyoucnx.irishandheld.staff",
-    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v122/app-staffV3-debug.apk",
-    "sha256":  "5e9c60375146eb73e405ab701ce2a7dd401247fae1b1853c335530e65387d09e",
+    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v123/app-staffV3-debug.apk",
+    "sha256":  "ccb436e2da8c12f3c78cb22c71db783ed0d0ca496bb270bb7f533b663c6022d4",
     "minSupportedVersionCode":  1,
     "mandatory":  false,
     "allowDowngrade":  false,
-    "changelog":  "• ใช้นโยบาย WDF การชำระเงิน การพิมพ์ ราคา และเกณฑ์ dispatch จาก backoffice\n• รองรับ QR TTL และ status polling ตามสาขา\n• เมื่อ config ใช้ไม่ได้หรือ offline จะกลับไปใช้พฤติกรรมเดิม"
+    "changelog":  "• แก้ WDF Flex คืนวงเงินอัตโนมัติเมื่อรายการสุดท้ายเสร็จ\n• ป้องกัน queue refresh เปลี่ยนสถานะและ sync ซ้ำ"
 }
