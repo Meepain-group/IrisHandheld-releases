@@ -1,11 +1,11 @@
 {
-    "versionCode":  123,
-    "versionName":  "0.1.123",
+    "versionCode":  124,
+    "versionName":  "0.1.124",
     "applicationId":  "com.aboutyoucnx.irishandheld.staff",
-    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v123/app-staffV3-debug.apk",
-    "sha256":  "ccb436e2da8c12f3c78cb22c71db783ed0d0ca496bb270bb7f533b663c6022d4",
+    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v124/app-staffV3-debug.apk",
+    "sha256":  "2e15720e26d7805d74149d93229c4253b033343c087fae1217446234b69efaec",
     "minSupportedVersionCode":  1,
     "mandatory":  false,
     "allowDowngrade":  false,
-    "changelog":  "• แก้ WDF Flex คืนวงเงินอัตโนมัติเมื่อรายการสุดท้ายเสร็จ\n• ป้องกัน queue refresh เปลี่ยนสถานะและ sync ซ้ำ"
+    "changelog":  "• แก้สถานะเครื่องซัก/อบค้างจาก session เก่าหลัง reconnect\n• ล้างและตรวจสอบ active machine sessions ใหม่จาก Pi"
 }
