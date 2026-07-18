@@ -1,11 +1,11 @@
 {
-  "versionCode": 129,
-  "versionName": "0.1.129-staffV3",
-  "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v129/app-staffV3-debug.apk",
-  "sha256": "8bfd597d07f3c1dfc4394c9ea4a32bbfa093a00478d0ea81fbb6eb540944fb50",
-  "minSupportedVersionCode": 1,
-  "mandatory": false,
-  "allowDowngrade": false,
-  "changelog": "WDF washer early-finish recovery controls and session-correlation safeguards. Recovery policy remains disabled until enabled in Backoffice."
+    "versionCode":  130,
+    "versionName":  "0.1.130-staffV3",
+    "applicationId":  "com.aboutyoucnx.irishandheld.staff",
+    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v130/app-staffV3-debug.apk",
+    "sha256":  "4a18cb0a9775707861cc1be333cedbf9ec06e1469a59fa992421e2ac44fe321f",
+    "minSupportedVersionCode":  1,
+    "mandatory":  false,
+    "allowDowngrade":  false,
+    "changelog":  "W1 READY verification: T1 ACK and read-back, T2 ACK, post-T2 state proof, and safe CHECKING reconciliation."
 }
