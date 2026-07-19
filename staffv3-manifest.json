@@ -1,11 +1,11 @@
 {
-  "versionCode": 135,
-  "versionName": "0.1.135-staffV3",
-  "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v135/app-staffV3-debug.apk",
-  "sha256": "3e26497f453dda85a46e0dd91bf45a513331d1f5ddc93b2ab016c026e13daffc",
-  "minSupportedVersionCode": 1,
-  "mandatory": false,
-  "allowDowngrade": false,
-  "changelog": "direct-machine-test"
+    "versionCode":  135,
+    "versionName":  "0.1.135-staffV3",
+    "applicationId":  "com.aboutyoucnx.irishandheld.staff",
+    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v135/app-staffV3-debug.apk",
+    "sha256":  "3e26497f453dda85a46e0dd91bf45a513331d1f5ddc93b2ab016c026e13daffc",
+    "minSupportedVersionCode":  1,
+    "mandatory":  false,
+    "allowDowngrade":  false,
+    "changelog":  "• กดจำนวนเครื่องว่าง ซัก/อบ จากหน้าเดิม\n• ดูรายการเดิมทั้งหมด แล้วกดค้างเฉพาะเครื่องว่างเพื่อเลือกสั่งงาน\n• เครื่องทำงาน, offline, สถานะค้าง หรือกำลังส่งคำสั่งจะถูกบล็อก\n• Clear/Reset Coin รอ edge-agent-x86_64 #3"
 }
