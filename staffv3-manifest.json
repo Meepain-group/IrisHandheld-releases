@@ -1,11 +1,11 @@
 {
-  "versionCode": 133,
-  "versionName": "0.1.133-staffV3",
-  "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v133/app-staffV3-debug.apk",
-  "sha256": "c1686f3799fb09b993a67045cdceabcc9f2f9b46691b9dab75e37aa828c5d169",
-  "minSupportedVersionCode": 1,
-  "mandatory": false,
-  "allowDowngrade": false,
-  "changelog": "•"
+    "versionCode":  133,
+    "versionName":  "0.1.133-staffV3",
+    "applicationId":  "com.aboutyoucnx.irishandheld.staff",
+    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v133/app-staffV3-debug.apk",
+    "sha256":  "c1686f3799fb09b993a67045cdceabcc9f2f9b46691b9dab75e37aa828c5d169",
+    "minSupportedVersionCode":  1,
+    "mandatory":  false,
+    "allowDowngrade":  false,
+    "changelog":  "• โหมดทดสอบเครื่อง: กดค้างที่เครื่องว่างเพื่อเลือกโปรแกรม\n• เครื่องอบทดสอบ 4 นาที\n• ล้างเหรียญค้าง: ยืนยันก่อนใช้ และรอการรองรับจาก edge-agent-x86_64"
 }
