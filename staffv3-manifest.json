@@ -1,11 +1,11 @@
 {
-  "versionCode": 132,
-  "versionName": "0.1.132-staffV3",
+  "versionCode": 133,
+  "versionName": "0.1.133-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v132/app-staffV3-debug.apk",
-  "sha256": "881452ef25feb3da4ac71b9a14c2569410aed5dd1c90e7d52612ef0eb095df82",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v133/app-staffV3-debug.apk",
+  "sha256": "c1686f3799fb09b993a67045cdceabcc9f2f9b46691b9dab75e37aa828c5d169",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "ปิด QR PromptPay จาก Backoffice ได้: Handheld แสดง QR หยุดใช้งานชั่วคราว และ Kiosk จะไม่เปิดรับรายการใหม่"
+  "changelog": "•"
 }
