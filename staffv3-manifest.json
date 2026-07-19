@@ -1,11 +1,11 @@
 {
-  "versionCode": 134,
-  "versionName": "0.1.134-staffV3",
-  "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v134/app-staffV3-debug.apk",
-  "sha256": "4befa9d742d8fe5289a69028926ac25e737d1cc3d37a63685dcc4c4196647f77",
-  "minSupportedVersionCode": 1,
-  "mandatory": false,
-  "allowDowngrade": false,
-  "changelog": "Machine"
+    "versionCode":  134,
+    "versionName":  "0.1.134-staffV3",
+    "applicationId":  "com.aboutyoucnx.irishandheld.staff",
+    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v134/app-staffV3-debug.apk",
+    "sha256":  "4befa9d742d8fe5289a69028926ac25e737d1cc3d37a63685dcc4c4196647f77",
+    "minSupportedVersionCode":  1,
+    "mandatory":  false,
+    "allowDowngrade":  false,
+    "changelog":  "• โหมดทดสอบเครื่อง: กดค้างที่เครื่องว่างเพื่อเลือกโปรแกรม\n• เครื่องอบทดสอบ 4 นาที\n• Clear Partial Coin จะเปิดเมื่อ edge-agent-x86_64 #3 พร้อม"
 }
