@@ -1,11 +1,11 @@
 {
-    "versionCode":  136,
-    "versionName":  "0.1.136-staffV3",
-    "applicationId":  "com.aboutyoucnx.irishandheld.staff",
-    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v136/app-staffV3-debug.apk",
-    "sha256":  "ea918dc95f81f0f92046e286780c5cbccaf8d3325db8e6b46b31a66d89a62af6",
-    "minSupportedVersionCode":  1,
-    "mandatory":  false,
-    "allowDowngrade":  false,
-    "changelog":  "WDF pricing now follows Cloud by machine size and promotion time. Payment waits for the live WDF quote."
+  "versionCode": 137,
+  "versionName": "0.1.137-staffV3",
+  "applicationId": "com.aboutyoucnx.irishandheld.staff",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v137/app-staffV3-debug.apk",
+  "sha256": "902f2941a061baad0bd674f91e47a3dc502a053f9670d1f393fe3cae418e8d73",
+  "minSupportedVersionCode": 1,
+  "mandatory": false,
+  "allowDowngrade": false,
+  "changelog": "WDF immutable paid attribution, physical-running reconciliation, release metadata consistency"
 }
