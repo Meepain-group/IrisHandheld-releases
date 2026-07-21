@@ -1,11 +1,11 @@
 {
-  "versionCode": 138,
-  "versionName": "0.1.138-staffV3",
+  "versionCode": 139,
+  "versionName": "0.1.139-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v138/app-staffV3-debug.apk",
-  "sha256": "2a7c13f9b582c0b8fae81ea64dbddb5d21246c69403f2d7c786e7b4166865113",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v139/app-staffV3-debug.apk",
+  "sha256": "94540ae16fb88ce9b66af553d5f47a4cff7a80bd221da2177eb5dee8888bad28",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "WDF session attribution and machine-state accuracy improvements."
+  "changelog": "WDF"
 }
