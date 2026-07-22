@@ -1,11 +1,11 @@
 {
-  "versionCode": 139,
-  "versionName": "0.1.139-staffV3",
+  "versionCode": 147,
+  "versionName": "0.1.147-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v139/app-staffV3-debug.apk",
-  "sha256": "94540ae16fb88ce9b66af553d5f47a4cff7a80bd221da2177eb5dee8888bad28",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v147/app-staffV3-debug.apk",
+  "sha256": "885a73d927d9c67956e7fd55eaccea2c86ad009117108cdbdc17ca8136525874",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "WDF"
+  "changelog": "WDF: ใช้ราคาปกติและโปรโมชั่นจาก Backoffice/Cloud"
 }
