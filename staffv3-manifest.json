@@ -1,11 +1,11 @@
 {
-  "versionCode": 152,
-  "versionName": "0.1.152-staffV3",
-  "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v152/app-staffV3-debug.apk",
-  "sha256": "c08b193f5587d1821e203c1903a6f057be2ab7be1288b0e3289a93be9572e803",
-  "minSupportedVersionCode": 1,
-  "mandatory": false,
-  "allowDowngrade": false,
-  "changelog": "•"
+    "versionCode":  152,
+    "versionName":  "0.1.152-staffV3",
+    "applicationId":  "com.aboutyoucnx.irishandheld.staff",
+    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v152/app-staffV3-debug.apk",
+    "sha256":  "c08b193f5587d1821e203c1903a6f057be2ab7be1288b0e3289a93be9572e803",
+    "minSupportedVersionCode":  1,
+    "mandatory":  false,
+    "allowDowngrade":  false,
+    "changelog":  "แก้ WDF dead-end และเพิ่ม exact reconciliation แบบ idempotent โดยไม่ replay คำสั่งเครื่อง"
 }
