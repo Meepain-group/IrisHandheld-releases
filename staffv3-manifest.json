@@ -1,11 +1,11 @@
 {
-    "versionCode":  152,
-    "versionName":  "0.1.152-staffV3",
-    "applicationId":  "com.aboutyoucnx.irishandheld.staff",
-    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v152/app-staffV3-debug.apk",
-    "sha256":  "c08b193f5587d1821e203c1903a6f057be2ab7be1288b0e3289a93be9572e803",
-    "minSupportedVersionCode":  1,
-    "mandatory":  false,
-    "allowDowngrade":  false,
-    "changelog":  "WDF operational continuity and exact reconciliation without command replay"
+  "versionCode": 153,
+  "versionName": "0.1.153-staffV3",
+  "applicationId": "com.aboutyoucnx.irishandheld.staff",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v153/app-staffV3-debug.apk",
+  "sha256": "51459ecd37f6ae012af4c216a5d6dfb6cffbce81b467b1f6f7981ecbdfcc7bd5",
+  "minSupportedVersionCode": 1,
+  "mandatory": false,
+  "allowDowngrade": false,
+  "changelog": "v153: WDF exact-session continuity and device-authorized no-start recovery. Non-mandatory; v152 retained as rollback."
 }
