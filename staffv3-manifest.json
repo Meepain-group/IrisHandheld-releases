@@ -7,5 +7,5 @@
     "minSupportedVersionCode":  1,
     "mandatory":  false,
     "allowDowngrade":  false,
-    "changelog":  "แก้ WDF dead-end และเพิ่ม exact reconciliation แบบ idempotent โดยไม่ replay คำสั่งเครื่อง"
+    "changelog":  "WDF operational continuity and exact reconciliation without command replay"
 }
