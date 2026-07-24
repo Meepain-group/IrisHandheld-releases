@@ -1,11 +1,11 @@
 {
-  "versionCode": 157,
-  "versionName": "0.1.157-staffV3",
+  "versionCode": 158,
+  "versionName": "0.1.158-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v157/app-staffV3-debug.apk",
-  "sha256": "043e074bc900056a5c8671aabe04a9b2156ac0c01b37295b6d29ac5ce0ff047d",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v158/app-staffV3-debug.apk",
+  "sha256": "92ee578af75037be84776a422f946e109c9747c556bff46cc60252c482c26224",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• WDF exact-session selection now uses the Edge-first durable claim path. • Cash/self-load recovery stays exact and fail-closed."
+  "changelog": "- Fix legacy cash session claim recovery without mutating durable identity.\n- Map cash selected after physical start to the one exact active session.\n- Keep ambiguous sessions fail-closed."
 }
