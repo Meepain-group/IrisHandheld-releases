@@ -1,11 +1,11 @@
 {
-  "versionCode": 156,
-  "versionName": "0.1.156-staffV3",
+  "versionCode": 157,
+  "versionName": "0.1.157-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v156/app-staffV3-debug.apk",
-  "sha256": "e11f8379a9f8b9fdb9165a98b8a9060e2306f4490f62e5a694533baeaca9fed5",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v157/app-staffV3-debug.apk",
+  "sha256": "043e074bc900056a5c8671aabe04a9b2156ac0c01b37295b6d29ac5ce0ff047d",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "v156: Dryer no-start recovery now uses the existing exact Edge/Cloud reconciliation path. No automatic command retry."
+  "changelog": "• WDF exact-session selection now uses the Edge-first durable claim path. • Cash/self-load recovery stays exact and fail-closed."
 }
