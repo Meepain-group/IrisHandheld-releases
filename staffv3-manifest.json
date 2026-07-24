@@ -1,11 +1,11 @@
 {
-  "versionCode": 159,
-  "versionName": "0.1.159-staffV3",
-  "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v159/app-staffV3-debug.apk",
-  "sha256": "7ba889375d51d09ce674566c7914a3acb22af4625dbee314782d7e72b53a3a95",
-  "minSupportedVersionCode": 1,
-  "mandatory": false,
-  "allowDowngrade": false,
-  "changelog": "-"
+    "versionCode":  159,
+    "versionName":  "0.1.159-staffV3",
+    "applicationId":  "com.aboutyoucnx.irishandheld.staff",
+    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v159/app-staffV3-debug.apk",
+    "sha256":  "7ba889375d51d09ce674566c7914a3acb22af4625dbee314782d7e72b53a3a95",
+    "minSupportedVersionCode":  1,
+    "mandatory":  false,
+    "allowDowngrade":  false,
+    "changelog":  "- Trace exact cash and self-load session claims end to end.\n- Preserve canonical correlation and typed binding outcomes for dead-end diagnosis.\n- Keep session attribution fail-closed; no machine-command behavior change."
 }
