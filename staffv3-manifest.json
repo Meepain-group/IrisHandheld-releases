@@ -1,11 +1,11 @@
 {
-    "versionCode":  159,
-    "versionName":  "0.1.159-staffV3",
-    "applicationId":  "com.aboutyoucnx.irishandheld.staff",
-    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v159/app-staffV3-debug.apk",
-    "sha256":  "7ba889375d51d09ce674566c7914a3acb22af4625dbee314782d7e72b53a3a95",
-    "minSupportedVersionCode":  1,
-    "mandatory":  false,
-    "allowDowngrade":  false,
-    "changelog":  "- Trace exact cash and self-load session claims end to end.\n- Preserve canonical correlation and typed binding outcomes for dead-end diagnosis.\n- Keep session attribution fail-closed; no machine-command behavior change."
+  "versionCode": 160,
+  "versionName": "0.1.160-staffV3",
+  "applicationId": "com.aboutyoucnx.irishandheld.staff",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v160/app-staffV3-debug.apk",
+  "sha256": "652f2a0673a724e4032cb5155698c55df7ce2a2741d66ad83ef603837ec15563",
+  "minSupportedVersionCode": 1,
+  "mandatory": false,
+  "allowDowngrade": false,
+  "changelog": "- Add selectable dryer test duration in Machine List.\n- D1-D8 start at 28 minutes with 6-minute steps; D9 uses 5-minute steps."
 }
