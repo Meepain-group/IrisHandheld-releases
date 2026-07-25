@@ -1,11 +1,11 @@
 {
-  "versionCode": 161,
-  "versionName": "0.1.161-staffV3",
+  "versionCode": 162,
+  "versionName": "0.1.162-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v161/app-staffV3-debug.apk",
-  "sha256": "354e6b66baaa09c1bad0720852c050787c1e77a8c96518f628b47db1401a443c",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v162/app-staffV3-debug.apk",
+  "sha256": "ed3c78fdd05b1260ab7c60ab855c16ec99f4640548c670b52f84e44d5ea3789e",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "Preserve Edge-issued exact-session snapshots for cash and self-load mapping; keep claim ID and evidence mode immutable; show evidence-unavailable without guessing."
+  "changelog": "-"
 }
