@@ -1,9 +1,9 @@
 {
-    "versionCode":  162,
-    "versionName":  "0.1.162-staffV3",
+    "versionCode":  163,
+    "versionName":  "0.1.163-staffV3",
     "applicationId":  "com.aboutyoucnx.irishandheld.staff",
-    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v162/app-staffV3-debug.apk",
-    "sha256":  "ed3c78fdd05b1260ab7c60ab855c16ec99f4640548c670b52f84e44d5ea3789e",
+    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v163/app-staffV3-debug.apk",
+    "sha256":  "da51315cac580b9c7c1adff9a56ada1429a4fc44836d2c21bd2851addbdefa4b",
     "minSupportedVersionCode":  1,
     "mandatory":  false,
     "allowDowngrade":  false,
