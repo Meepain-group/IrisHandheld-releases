@@ -1,11 +1,11 @@
 {
-    "versionCode":  164,
-    "versionName":  "0.1.164-staffV3",
-    "applicationId":  "com.aboutyoucnx.irishandheld.staff",
-    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v164/app-staffV3-debug.apk",
-    "sha256":  "5c486edb4e170de8675e8bc0fb7c8b196187fb9e4ede1ecb6454c87dab2fcdb8",
-    "minSupportedVersionCode":  1,
-    "mandatory":  false,
-    "allowDowngrade":  false,
-    "changelog":  "แก้ WDF legacy/orphan dead end; สถานะตรงกันทุก Handheld/Backoffice; แยก READY จาก RUNNING; เพิ่ม Incident trace"
+  "versionCode": 165,
+  "versionName": "0.1.165-staffV3",
+  "applicationId": "com.aboutyoucnx.irishandheld.staff",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v165/app-staffV3-debug.apk",
+  "sha256": "ced1cfff6772168a0b3b3f74accc004298450b0099af3056ce18e37efc18451b",
+  "minSupportedVersionCode": 1,
+  "mandatory": false,
+  "allowDowngrade": false,
+  "changelog": "• บันทึกหลักฐานการเลือกเครื่องเงินสดแบบ durable หลัง claim สำเร็จ\\n• ใช้ claimId เป็น correlation หลักเพียงค่าเดียว\\n• รองรับ WDF Operation Trace และการตรวจ physical session แบบ exact"
 }
