@@ -1,11 +1,11 @@
 {
-    "versionCode":  166,
-    "versionName":  "0.1.166-staffV3",
+    "versionCode":  167,
+    "versionName":  "0.1.167-staffV3",
     "applicationId":  "com.aboutyoucnx.irishandheld.staff",
-    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v166/app-staffV3-debug.apk",
-    "sha256":  "c26bfdff98bac4447dbb98245e0d1b376da2c68f3e9c985c5929219cc1e07c8d",
+    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v167/app-staffV3-debug.apk",
+    "sha256":  "63dbe017c790c3c698fe1426f08d2b0ff89ac3adc62d5d2ae69ee8e5941ba309",
     "minSupportedVersionCode":  1,
     "mandatory":  false,
     "allowDowngrade":  false,
-    "changelog":  "WDF Operation Trace coverage, delayed physical-start evidence checks, and canonical status parity diagnostics."
+    "changelog":  "Self-load session claim auto-seed: cash and self-load WDF items now resolve to an identifiable machine session with start and end times."
 }
