@@ -1,11 +1,11 @@
 {
-    "versionCode":  167,
-    "versionName":  "0.1.167-staffV3",
+    "versionCode":  168,
+    "versionName":  "0.1.168-staffV3",
     "applicationId":  "com.aboutyoucnx.irishandheld.staff",
-    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v167/app-staffV3-debug.apk",
-    "sha256":  "63dbe017c790c3c698fe1426f08d2b0ff89ac3adc62d5d2ae69ee8e5941ba309",
+    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v168/app-staffV3-debug.apk",
+    "sha256":  "d2fbb68a3c9eeb404fcc05512928f15f3b548773a5a0498b1f9950890be17598",
     "minSupportedVersionCode":  1,
     "mandatory":  false,
     "allowDowngrade":  false,
-    "changelog":  "Self-load session claim auto-seed: cash and self-load WDF items now resolve to an identifiable machine session with start and end times."
+    "changelog":  "Paid QR jobs blocked before the machine writer now recover their session automatically, and the on-device log no longer floods or grows without bound."
 }
