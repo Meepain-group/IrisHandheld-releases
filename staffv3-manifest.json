@@ -1,11 +1,11 @@
 {
-  "versionCode": 165,
-  "versionName": "0.1.165-staffV3",
-  "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v165/app-staffV3-debug.apk",
-  "sha256": "ced1cfff6772168a0b3b3f74accc004298450b0099af3056ce18e37efc18451b",
-  "minSupportedVersionCode": 1,
-  "mandatory": false,
-  "allowDowngrade": false,
-  "changelog": "• บันทึกหลักฐานการเลือกเครื่องเงินสดแบบ durable หลัง claim สำเร็จ\\n• ใช้ claimId เป็น correlation หลักเพียงค่าเดียว\\n• รองรับ WDF Operation Trace และการตรวจ physical session แบบ exact"
+    "versionCode":  166,
+    "versionName":  "0.1.166-staffV3",
+    "applicationId":  "com.aboutyoucnx.irishandheld.staff",
+    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v166/app-staffV3-debug.apk",
+    "sha256":  "c26bfdff98bac4447dbb98245e0d1b376da2c68f3e9c985c5929219cc1e07c8d",
+    "minSupportedVersionCode":  1,
+    "mandatory":  false,
+    "allowDowngrade":  false,
+    "changelog":  "WDF Operation Trace coverage, delayed physical-start evidence checks, and canonical status parity diagnostics."
 }
