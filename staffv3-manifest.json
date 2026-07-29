@@ -1,11 +1,11 @@
 {
-    "versionCode":  170,
-    "versionName":  "0.1.170-staffV3",
-    "applicationId":  "com.aboutyoucnx.irishandheld.staff",
-    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v170/app-staffV3-debug.apk",
-    "sha256":  "db77c3c476ec8b76fd827b936e63e45fc3aeb35e78f3dee614e66544de2f47ea",
-    "minSupportedVersionCode":  1,
-    "mandatory":  false,
-    "allowDowngrade":  false,
-    "changelog":  "งานเงินสด: เลือกเครื่องอบได้เลย ไม่ต้องรอผูกเครื่องซักก่อน · เครื่องที่อีกเครื่องสั่งไปแล้วจะขึ้นสถานะตรงกัน ไม่ต้องกลัวสั่งซ้ำ · ถ้ากดเลือกเครื่องไม่ได้ ระบบจะบอกเหตุผลและบอกว่าให้ทำอะไรต่อ แทนที่จะขึ้นแถบแดงแล้วตัน"
+  "versionCode": 176,
+  "versionName": "0.1.176-staffV3",
+  "applicationId": "com.aboutyoucnx.irishandheld.staff",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v176/app-staffV3-debug.apk",
+  "sha256": "42813529789639bdd01ffcea2542ebbc3d76de2aceb5dfb243004496eab8133d",
+  "minSupportedVersionCode": 1,
+  "mandatory": false,
+  "allowDowngrade": false,
+  "changelog": "งานเงินสด: ปุ่มเลือกเครื่องกลับมาแสดงสถานะครบเหมือนเดิม — เครื่องไหนกำลังใช้อยู่และเหลืออีกกี่นาที ใช้ไปกี่รอบวันนี้ และเครื่องที่แนะนำให้ใช้ก่อน (ติดดาว) · งานเปิดวงเงิน Flex จะขึ้นในช่อง \"รอคิว\" แล้ว เดิมมีตัวเลขขึ้นแต่กดเข้าไปไม่เจอรายการ · แก้แอปปิดตัวเองตอนเลื่อนดูคิวย้อนหลัง · ตอนรับเงินแล้วเน็ตสะดุด ระบบจะลองส่งซ้ำให้เองภายในไม่กี่วินาที ไม่ต้องรอนาน"
 }
