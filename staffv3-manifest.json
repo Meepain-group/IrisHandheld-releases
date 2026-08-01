@@ -1,11 +1,11 @@
 {
-  "versionCode": 178,
-  "versionName": "0.1.178-staffV3",
+  "versionCode": 179,
+  "versionName": "0.1.179-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v178/app-staffV3-debug.apk",
-  "sha256": "a2752095ccbed6c2e2fb4e5693f1b38a994e8ebd0aba068efda85d4a62c64e5f",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v179/app-staffV3-debug.apk",
+  "sha256": "a78f5e55a19ff83ddc3ff1145748fa7b36a04692ae7640106933f50902231604",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้ปัญหาเครื่องค้างระหว่าง dispatch ไม่มีทางออก (ตอนนี้ค้างเกิน 20 วิ ออกจากหน้าได้)\n• แก้ retry ค้างไม่จบเมื่อตรวจสอบ session ซ้ำไม่ผ่าน\n• ขยายช่วงเวลาค้นหาเครื่องซัก self-load ให้จับ session ได้แม่นยำขึ้น"
+  "changelog": "• แก้แจ้งเตือน \"ยังไม่ผูกเครื่อง\" ที่ขึ้นเตือนผิดก่อนถึงตาเครื่อง\\n• แก้ popup งานก่อนหน้าค้าง แม้งานจริงเสร็จแล้ว (ตรวจสอบกับ Cloud ทุกครั้งที่โหลดหน้าใหม่)\\n• แก้ banner \"session ขัดแย้ง\" ค้างถาวรแม้ข้อมูลจะนิ่งแล้ว"
 }
