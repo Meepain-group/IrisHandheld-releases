@@ -1,11 +1,11 @@
 {
-  "versionCode": 182,
-  "versionName": "0.1.182-staffV3",
+  "versionCode": 183,
+  "versionName": "0.1.183-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v182/app-staffV3-debug.apk",
-  "sha256": "cca979b079e72461b0692c66c7e7f32542be45104c85f422e20132ada39809e3",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v183/app-staffV3-debug.apk",
+  "sha256": "8b1063327166769a1c6f965d82edadc13edc64e625ad49c21a998e2d30d22497",
   "minSupportedVersionCode": 1,
-  "mandatory": false,
+  "mandatory": true,
   "allowDowngrade": false,
-  "changelog": "• แก้ปัญหา self-load ค้างรอ session จาก edge นานเกินไป (ลดจาก 20 นาที เหลือ 5 นาที)\n• เพิ่มความเสถียรของระบบ WDF แบบ offline (Edge-first)"
+  "changelog": "• แก้ไขด่วน: ราคาซัก/อบโหลดไม่ได้ (rollback กลับเวอร์ชันที่ใช้งานได้ปกติ)"
 }
