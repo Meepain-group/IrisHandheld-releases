@@ -1,11 +1,11 @@
 {
-  "versionCode": 181,
-  "versionName": "0.1.181-staffV3",
+  "versionCode": 182,
+  "versionName": "0.1.182-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v181/app-staffV3-debug.apk",
-  "sha256": "80c04a935ce0a1fc94967266b61dc662f6b0ee952389358eb7b0c202bc39a79c",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v182/app-staffV3-debug.apk",
+  "sha256": "cca979b079e72461b0692c66c7e7f32542be45104c85f422e20132ada39809e3",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้ปัญหา dispatch ผ่าน QR ไม่บันทึกลง cloud (SCHEMA_REJECTED) + ป้องกัน dialog ตรวจสอบคำสั่งก่อนหน้าค้าง\n• แก้ปัญหาข้อมูล phase=done หายถาวรเมื่อ sync กับ cloud ล้มเหลวซ้ำ"
+  "changelog": "• แก้ปัญหา self-load ค้างรอ session จาก edge นานเกินไป (ลดจาก 20 นาที เหลือ 5 นาที)\n• เพิ่มความเสถียรของระบบ WDF แบบ offline (Edge-first)"
 }
