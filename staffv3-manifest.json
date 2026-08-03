@@ -1,11 +1,11 @@
 {
-  "versionCode": 183,
-  "versionName": "0.1.183-staffV3",
+  "versionCode": 187,
+  "versionName": "0.1.187-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v183/app-staffV3-debug.apk",
-  "sha256": "8b1063327166769a1c6f965d82edadc13edc64e625ad49c21a998e2d30d22497",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v187/app-staffV3-debug.apk",
+  "sha256": "e50ae88d4ee7446c95c556b5594b9ceaa2f8a9eb384309429b2c2a99e16bfa3c",
   "minSupportedVersionCode": 1,
-  "mandatory": true,
+  "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้ไขด่วน: ราคาซัก/อบโหลดไม่ได้ (rollback กลับเวอร์ชันที่ใช้งานได้ปกติ)"
+  "changelog": "โ€ข เนเธเนเนเธเธเธฒเธฃเธชเนเธ self-load session claim เธชเธณเธซเธฃเธฑเธเธเธดเธฅ cash/QR เนเธฅเธฐเธฃเธฑเธเธฉเธฒเธเธงเธฒเธกเน€เธเนเธฒเธเธฑเธเนเธ”เนเธเธญเธเธฃเธฒเธขเธเธฒเธฃเน€เธ”เธดเธก"
 }
