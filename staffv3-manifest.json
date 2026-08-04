@@ -1,11 +1,11 @@
 {
-  "versionCode": 188,
-  "versionName": "0.1.188-staffV3",
+  "versionCode": 192,
+  "versionName": "0.1.192-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v188/app-staffV3-debug.apk",
-  "sha256": "bb7d2b427d35edaa0404ba1f950e30b2b0d8d3471e4cb799c7b4aedc548aa954",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v192/app-staffV3-debug.apk",
+  "sha256": "0ee4015ab3d29a9c5cf5b1ee6c9dbc75209df4eb03de4c9a9e291ac44411acaf",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "โ€ข เนเธเนเนเธเธเธฒเธฃเธชเนเธ self-load session claim เธชเธณเธซเธฃเธฑเธเธเธดเธฅ cash/QR เนเธฅเธฐเธฃเธฑเธเธฉเธฒเธเธงเธฒเธกเน€เธเนเธฒเธเธฑเธเนเธ”เนเธเธญเธเธฃเธฒเธขเธเธฒเธฃเน€เธ”เธดเธก"
+  "changelog": "WDF dead-end hardening: park unavailable Edge delegation safely and prefer IPv4 LAN Edge discovery. Tested on Sunmi .20; optional update for remaining v188 devices."
 }
