@@ -1,11 +1,11 @@
 {
-  "versionCode": 192,
-  "versionName": "0.1.192-staffV3",
+  "versionCode": 194,
+  "versionName": "0.1.194-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v192/app-staffV3-debug.apk",
-  "sha256": "0ee4015ab3d29a9c5cf5b1ee6c9dbc75209df4eb03de4c9a9e291ac44411acaf",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v194/app-staffV3-debug.apk",
+  "sha256": "8866158a4dc62cfa4c5edb504cd2400a8bace6760bf08988d0e37492f96c5ecb",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "WDF dead-end hardening: park unavailable Edge delegation safely and prefer IPv4 LAN Edge discovery. Tested on Sunmi .20; optional update for remaining v188 devices."
+  "changelog": "• เพิ่มปุ่ม \"ยืนยันเครื่องเสร็จเอง\" สำหรับงานซัก/อบเงินสดที่หาข้อมูลเครื่องอัตโนมัติไม่เจอ กดแล้วปิดงานต่อได้ทันที ไม่ต้องรอ\\n• กันปัญหาปิดงานไม่ได้เมื่อระบบค้างสถานะเครื่อง"
 }
