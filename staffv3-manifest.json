@@ -1,11 +1,11 @@
 {
-  "versionCode": 196,
-  "versionName": "0.1.196-staffV3",
+  "versionCode": 197,
+  "versionName": "0.1.197-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v196/app-staffV3-debug.apk",
-  "sha256": "4d63afa06e7a731c6b9c719f5233d603ec5f31e3ec83e95cebd5dec5ca4d3e93",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v197/app-staffV3-debug.apk",
+  "sha256": "7c7a399f07d219c0004d67622e9c19068512db7e0d53e723344d0f660286fdb7",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้บั๊ก: ถ้าแอปถูกปิด/สลับหน้าจอระหว่างรอสิทธิ์เข้าถึงเครื่องข้ามอุปกรณ์ (เช่น เริ่มซักจากเครื่องหนึ่ง แล้วไปกดอบที่อีกเครื่อง) ระบบจะลองใหม่ให้อัตโนมัติทุกครั้งที่เปิดแอป/เชื่อมต่อเน็ตใหม่ ไม่ค้างรอ recheck เอง"
+  "changelog": "• แก้บั๊ก: เลือกเครื่องซัก/อบข้ามอุปกรณ์บางครั้งค้าง ไม่ขยับ แม้ว่าระบบจะอนุมัติสิทธิ์ให้แล้วก็ตาม ตอนนี้แก้แล้ว เลือกเครื่องได้ทันที ไม่ต้องรอ"
 }
