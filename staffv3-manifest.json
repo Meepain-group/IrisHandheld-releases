@@ -1,11 +1,11 @@
 {
-  "versionCode": 195,
-  "versionName": "0.1.195-staffV3",
+  "versionCode": 196,
+  "versionName": "0.1.196-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v195/app-staffV3-debug.apk",
-  "sha256": "af6863949d609cf21ce82bdd5a2b34beb24bd7f50432b5e8d5cd93338fb1ff9f",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v196/app-staffV3-debug.apk",
+  "sha256": "4d63afa06e7a731c6b9c719f5233d603ec5f31e3ec83e95cebd5dec5ca4d3e93",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้บั๊ก: การเลือกเครื่องส่งไป Edge แล้วเงียบหาย ตอนนี้ระบบยืนยันว่า Edge ได้รับข้อมูลจริง และลองส่งซ้ำอัตโนมัติหากไม่สำเร็จ ไม่ต้องให้พนักงานกด \"ตรวจสอบใหม่\" เอง\n• เริ่มงานต่อจากเครื่อง handheld อีกเครื่องได้อัตโนมัติ (ไม่ต้องรอผู้จัดการ)\n• ปุ่ม \"จบงานเอง\" (force-complete): แสดงผลแยกจากเครื่องที่จบงานจริงชัดเจนขึ้น บันทึกเวลาเริ่ม/จบจริง และปลดล็อกขั้นตอนถัดไปทันที\n• แก้การแจ้งเตือนเครื่องซักไม่ทำงานซ้ำสองครั้งโดยไม่จำเป็น"
+  "changelog": "• แก้บั๊ก: ถ้าแอปถูกปิด/สลับหน้าจอระหว่างรอสิทธิ์เข้าถึงเครื่องข้ามอุปกรณ์ (เช่น เริ่มซักจากเครื่องหนึ่ง แล้วไปกดอบที่อีกเครื่อง) ระบบจะลองใหม่ให้อัตโนมัติทุกครั้งที่เปิดแอป/เชื่อมต่อเน็ตใหม่ ไม่ค้างรอ recheck เอง"
 }
