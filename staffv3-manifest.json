@@ -1,11 +1,11 @@
 {
-  "versionCode": 198,
-  "versionName": "0.1.198-staffV3",
+  "versionCode": 199,
+  "versionName": "0.1.199-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v198/app-staffV3-debug.apk",
-  "sha256": "eb74220fc7956fd97c23543f2d266b02b611a10dc43cf9ab60f10d97430b8951",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v199/app-staffV3-debug.apk",
+  "sha256": "40eceee5bb9a00a99cfb1d5f299fef9a4958922c8008263562140ab108ea31cc",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้ปัญหาป้ายสถานะเครื่องไม่ว่างค้าง (false busy badge) จากคำสั่ง SQL แก้ไขข้อมูลย้อนหลัง — sync กับ Cloud ทุก 6 ชม."
+  "changelog": "• ปุ่มปิดงานเมื่อระบบหาเซสชันเครื่องไม่พบ ขึ้นบนการ์ดจริงแล้ว กดยืนยันครั้งเดียวก็ปิดงานต่อได้ เดิมปุ่มนี้มีอยู่แต่ไม่เคยขึ้นบนจอ\n• แถวที่ถูกล็อก กดได้แล้ว (ยังไม่ปลดล็อก ล็อกคลายเองตามเวลา) เพื่อให้ระบบรู้ว่ามีคนต้องการใช้เครื่องนั้นจริง"
 }
