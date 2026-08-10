@@ -1,11 +1,11 @@
 {
-  "versionCode": 200,
-  "versionName": "0.1.200-staffV3",
-  "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v200/app-staffV3-debug.apk",
-  "sha256": "06f9c3ffd974028ff253bb8721a9441bdc01a4f81a9465134b69c6cfb28c6cb5",
-  "minSupportedVersionCode": 1,
-  "mandatory": false,
-  "allowDowngrade": false,
-  "changelog": "• ปุ่มปิดงานเมื่อระบบหาเซสชันเครื่องไม่พบ ขึ้นบนการ์ดจริงแล้ว กดยืนยันครั้งเดียวก็ปิดงานต่อได้ เดิมปุ่มนี้มีอยู่แต่ไม่เคยขึ้นบนจอ\n• แถวที่ถูกล็อก กดได้แล้ว (ยังไม่ปลดล็อก ล็อกคลายเองตามเวลา) เพื่อให้ระบบรู้ว่ามีคนต้องการใช้เครื่องนั้นจริง"
+    "mandatory":  false,
+    "minSupportedVersionCode":  1,
+    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v211/app-staffV3-debug.apk",
+    "allowDowngrade":  false,
+    "applicationId":  "com.aboutyoucnx.irishandheld.staff",
+    "sha256":  "8aa2fbac2b8cc47bf7c5545b942b4023cb8791986f440650e0b2398c43a6f282",
+    "versionName":  "0.1.211-staffV3",
+    "versionCode":  211,
+    "changelog":  "• แก้เลขคิวบนสลิป ที่บางครั้งพิมพ์เป็นเลขของบิลอื่น ตอนนี้สลิปใช้เลขจากระบบเท่านั้น\n• หน้าจอรายการซัก/อบ ไม่ค้างว่ายังไม่ได้สั่งเครื่องอีกแล้ว เครื่องจำสิ่งที่เห็นเองได้ทันที แม้เน็ตมีปัญหาชั่วคราว"
 }
