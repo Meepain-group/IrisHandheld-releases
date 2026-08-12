@@ -1,11 +1,11 @@
 {
-    "versionCode":  213,
-    "versionName":  "0.1.213-staffV3",
-    "applicationId":  "com.aboutyoucnx.irishandheld.staff",
-    "apkUrl":  "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v213/app-staffV3-debug.apk",
-    "sha256":  "0f6edd4a910c189791a6b2a3c8611c753fc64024c2447817c61111844df6cf03",
-    "minSupportedVersionCode":  1,
-    "mandatory":  false,
-    "allowDowngrade":  false,
-    "changelog":  "โ€ข เน€เธฅเธทเธญเธเน€เธเธฃเธทเนเธญเธเธเธฒเธเธฃเธฒเธขเธเธฒเธฃเธ—เธตเนเธฃเธฐเธเธเน€เธซเนเธเธงเนเธฒเธเธณเธฅเธฑเธเธ—เธณเธเธฒเธเธญเธขเธนเน เนเธกเนเธ•เนเธญเธเธเธถเธเน€เธญเธเธงเนเธฒเธเนเธฒเธญเธขเธนเนเน€เธเธฃเธทเนเธญเธเนเธซเธ\nโ€ข เธซเธเนเธฒเธเนเธฒเธขเธเธฒเธเนเธกเนเธฅเนเธฒเธเธเธญเธ—เธธเธเธเธฃเธฑเนเธเธ—เธตเนเธญเธฑเธเน€เธ”เธ•เนเธฅเนเธง เธเนเธญเธกเธนเธฅเน€เธเธฅเธตเนเธขเธเธญเธขเธนเนเธเธฑเธเธ—เธตเน\nโ€ข เธซเธเนเธฒเธเธญเธเธฐเนเธกเนเธเธขเธฑเธ เนเธฅเธฐเธเธฐเนเธกเนเน€เธ”เนเธเธเธฅเนเธญเธเธขเธทเธเธขเธฑเธเธเธถเนเธเธกเธฒเน€เธญเธเธ•เธญเธเธเธณเธฅเธฑเธเธเธฐเธเธ”"
+  "versionCode": 213,
+  "versionName": "0.1.213-staffV3",
+  "applicationId": "com.aboutyoucnx.irishandheld.staff",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v213/app-staffV3-debug.apk",
+  "sha256": "0f6edd4a910c189791a6b2a3c8611c753fc64024c2447817c61111844df6cf03",
+  "minSupportedVersionCode": 1,
+  "mandatory": false,
+  "allowDowngrade": false,
+  "changelog": "• เลือกเครื่องจากรายการที่ระบบเห็นว่ากำลังทำงานอยู่ ไม่ต้องนึกเองว่าผ้าอยู่เครื่องไหน\n• หน้าจ่ายงานไม่ล้างจอทุกครั้งที่อัปเดตแล้ว ข้อมูลเปลี่ยนอยู่กับที่\n• หน้าจอจะไม่ขยับ และจะไม่เด้งกล่องยืนยันขึ้นมาเองตอนกำลังจะกด"
 }
