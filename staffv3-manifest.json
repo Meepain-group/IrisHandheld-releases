@@ -1,11 +1,11 @@
 {
-  "versionCode": 213,
-  "versionName": "0.1.213-staffV3",
+  "versionCode": 227,
+  "versionName": "0.1.227-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v213/app-staffV3-debug.apk",
-  "sha256": "0f6edd4a910c189791a6b2a3c8611c753fc64024c2447817c61111844df6cf03",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v227/app-staffV3-debug.apk",
+  "sha256": "b9e97dc791a70f4eb138abe03e637b81283fa4e3ea6aff2abada50d738472773",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เลือกเครื่องจากรายการที่ระบบเห็นว่ากำลังทำงานอยู่ ไม่ต้องนึกเองว่าผ้าอยู่เครื่องไหน\n• หน้าจ่ายงานไม่ล้างจอทุกครั้งที่อัปเดตแล้ว ข้อมูลเปลี่ยนอยู่กับที่\n• หน้าจอจะไม่ขยับ และจะไม่เด้งกล่องยืนยันขึ้นมาเองตอนกำลังจะกด"
+  "changelog": "• สแกน QR บน \"ใบชำระเงิน\" ที่ตู้พิมพ์ให้ลูกค้า เพื่อรับเงินสด แล้วออกเลขคิว + ใบเสร็จ + ใบงาน ให้ในครั้งเดียว\n• สแกนใบเดิมซ้ำ จะไม่เก็บเงินซ้ำ ระบบจะบอกว่ารับไปแล้ว\n• ยอดที่ต้องเก็บมาจากระบบ ไม่ได้มาจาก QR บนกระดาษ\n• แก้: กดยืนยันข้อมูลสมาชิกแล้ว ถือว่าจบขั้นตอนลูกค้า ไม่ต้องกดซ้ำ"
 }
