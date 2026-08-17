@@ -1,0 +1,11 @@
+{
+  "versionCode": 231,
+  "versionName": "0.1.231-posD3",
+  "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v231/app-posD3-debug.apk",
+  "sha256": "47ae804027a9fb7c4949fa2de84d03d971ba8e8c133d130cf00e10b03e19def7",
+  "minSupportedVersionCode": 1,
+  "mandatory": false,
+  "allowDowngrade": false,
+  "changelog": "• ตู้รับผ้าอัปเดตเองได้แล้ว ไม่ต้องต่อสายเข้าเครื่อง\n• หน้าเลือกเครื่อง: เครื่องที่กำลังทำงานอยู่ขึ้นก่อน หาเครื่องของตัวเองได้เร็วขึ้น\n• หน้าตะกร้าอ่านง่ายขึ้น มีไอคอนเครื่องซัก-อบ และช่องหมายเหตุจุดเดียว\n• ถ้าสร้าง QR ไม่สำเร็จ จะบอกชัดว่ายังไม่มีการตัดเงิน"
+}
