@@ -1,11 +1,11 @@
 {
-  "versionCode": 227,
-  "versionName": "0.1.227-staffV3",
+  "versionCode": 229,
+  "versionName": "0.1.229-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v227/app-staffV3-debug.apk",
-  "sha256": "b9e97dc791a70f4eb138abe03e637b81283fa4e3ea6aff2abada50d738472773",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v229/app-staffV3-debug.apk",
+  "sha256": "b192675d8557182202cff053f1171f79be175d0608019495a4bbd37ecdd2a14c",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• สแกน QR บน \"ใบชำระเงิน\" ที่ตู้พิมพ์ให้ลูกค้า เพื่อรับเงินสด แล้วออกเลขคิว + ใบเสร็จ + ใบงาน ให้ในครั้งเดียว\n• สแกนใบเดิมซ้ำ จะไม่เก็บเงินซ้ำ ระบบจะบอกว่ารับไปแล้ว\n• ยอดที่ต้องเก็บมาจากระบบ ไม่ได้มาจาก QR บนกระดาษ\n• แก้: กดยืนยันข้อมูลสมาชิกแล้ว ถือว่าจบขั้นตอนลูกค้า ไม่ต้องกดซ้ำ"
+  "changelog": "• เครื่องที่ระบบติดต่อไม่ได้ จะขึ้นว่า ออฟไลน์ แทนที่จะขึ้นว่าง\n• เครื่องที่ออฟไลน์ จะสั่งงานไม่ได้ เพราะคำสั่งไปไม่ถึงตัวเครื่อง\n• ช่องเลือกเครื่องตอนสั่งงาน จะไม่เสนอเครื่องที่ออฟไลน์\n• ช่องบันทึกเครื่องที่ลูกค้าหยอดเหรียญเอง ยังเลือกได้ แต่มีป้ายกำกับไว้"
 }
