@@ -1,11 +1,11 @@
 {
-  "versionCode": 233,
-  "versionName": "0.1.233",
+  "versionCode": 234,
+  "versionName": "0.1.234",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v233/app-staffV3-debug.apk",
-  "sha256": "f2f46e49529afda3322d67b8c88cb4d5ef0716a66095a2f0ac45c170c2b451bf",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v234/app-staffV3-debug.apk",
+  "sha256": "059c51c4eb9cb9d5c8fc699196a8921a0d2628d2a6dd13fc42b2b7dc4fe56c3d",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "สแกน QR ใบชำระเงินสดจากตู้คีออสก์ได้แล้ว และถ้าสแกนไม่ผ่านจะขึ้นข้อความบอกทันที ไม่เงียบเหมือนเดิม"
+  "changelog": "คืนหน้าจอเลือกเครื่องและช่องหมายเหตุกลับเป็นแบบเดิมของเครื่องพนักงาน หลังจากรุ่นก่อนเผลอเอาหน้าตาของตู้คีออสก์มาใช้"
 }
