@@ -1,11 +1,11 @@
 {
-  "versionCode": 229,
-  "versionName": "0.1.229-staffV3",
+  "versionCode": 233,
+  "versionName": "0.1.233",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v229/app-staffV3-debug.apk",
-  "sha256": "b192675d8557182202cff053f1171f79be175d0608019495a4bbd37ecdd2a14c",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v233/app-staffV3-debug.apk",
+  "sha256": "f2f46e49529afda3322d67b8c88cb4d5ef0716a66095a2f0ac45c170c2b451bf",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เครื่องที่ระบบติดต่อไม่ได้ จะขึ้นว่า ออฟไลน์ แทนที่จะขึ้นว่าง\n• เครื่องที่ออฟไลน์ จะสั่งงานไม่ได้ เพราะคำสั่งไปไม่ถึงตัวเครื่อง\n• ช่องเลือกเครื่องตอนสั่งงาน จะไม่เสนอเครื่องที่ออฟไลน์\n• ช่องบันทึกเครื่องที่ลูกค้าหยอดเหรียญเอง ยังเลือกได้ แต่มีป้ายกำกับไว้"
+  "changelog": "สแกน QR ใบชำระเงินสดจากตู้คีออสก์ได้แล้ว และถ้าสแกนไม่ผ่านจะขึ้นข้อความบอกทันที ไม่เงียบเหมือนเดิม"
 }
