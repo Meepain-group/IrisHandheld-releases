@@ -1,11 +1,11 @@
 {
-  "versionCode": 235,
-  "versionName": "0.1.235",
+  "versionCode": 236,
+  "versionName": "0.1.236",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v235/app-staffV3-debug.apk",
-  "sha256": "8cdd21ee2a92ea9855bd4d84ecd304438fbc9e2413852f65cbfa892dc365fe31",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v236/app-staffV3-debug.apk",
+  "sha256": "05392c37c01f9b1bd26930e11e258d5042d8fab3ab15730fba205bde9dc44c42",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "สแกนใบชำระเงินสดจากตู้แล้วกดรับเงิน ระบบจะพิมพ์ใบเสร็จให้ทันที และพิมพ์ใบงานพร้อมเลขคิวเมื่อระบบออกเลขให้แล้ว"
+  "changelog": "ปรับปรุงการบันทึกเครื่องที่ลูกค้าใส่ผ้าเอง ให้ระบบผูกเครื่องกับงานได้แม่นยำขึ้น การใช้งานของพนักงานเหมือนเดิมทุกอย่าง"
 }
