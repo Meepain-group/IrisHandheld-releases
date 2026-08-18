@@ -1,11 +1,11 @@
 {
-  "versionCode": 234,
-  "versionName": "0.1.234",
+  "versionCode": 235,
+  "versionName": "0.1.235",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v234/app-staffV3-debug.apk",
-  "sha256": "059c51c4eb9cb9d5c8fc699196a8921a0d2628d2a6dd13fc42b2b7dc4fe56c3d",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v235/app-staffV3-debug.apk",
+  "sha256": "8cdd21ee2a92ea9855bd4d84ecd304438fbc9e2413852f65cbfa892dc365fe31",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "คืนหน้าจอเลือกเครื่องและช่องหมายเหตุกลับเป็นแบบเดิมของเครื่องพนักงาน หลังจากรุ่นก่อนเผลอเอาหน้าตาของตู้คีออสก์มาใช้"
+  "changelog": "สแกนใบชำระเงินสดจากตู้แล้วกดรับเงิน ระบบจะพิมพ์ใบเสร็จให้ทันที และพิมพ์ใบงานพร้อมเลขคิวเมื่อระบบออกเลขให้แล้ว"
 }
