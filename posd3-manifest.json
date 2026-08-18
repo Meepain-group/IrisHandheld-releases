@@ -1,11 +1,11 @@
 {
-  "versionCode": 233,
-  "versionName": "0.1.233",
+  "versionCode": 234,
+  "versionName": "0.1.234",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v233/app-posD3-debug.apk",
-  "sha256": "d87a5cad7d189ceb08054b023ad01027d4153294f4ccca4be92afff6b81c2183",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v234/app-posD3-debug.apk",
+  "sha256": "9c1f510bb58c0cfed037b17bcdcaf1a8ba1ff6c71a4e6e50a2062f315b36ac4a",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "ตู้แจ้งการชำระเงินผ่าน QR ให้ระบบได้แล้ว ออร์เดอร์ที่จ่ายเงินแล้วจะได้รับเลขคิวทุกครั้ง"
+  "changelog": "ปรับหน้าจอกลับเป็นแบบเดิมชั่วคราว การออกแบบของตู้จะกลับมาใหม่โดยแยกตามชนิดเครื่อง ไม่ใช่ตามความกว้างจอ"
 }
