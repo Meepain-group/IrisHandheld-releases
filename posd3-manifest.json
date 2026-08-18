@@ -1,11 +1,11 @@
 {
-  "versionCode": 234,
-  "versionName": "0.1.234",
+  "versionCode": 235,
+  "versionName": "0.1.235",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v234/app-posD3-debug.apk",
-  "sha256": "9c1f510bb58c0cfed037b17bcdcaf1a8ba1ff6c71a4e6e50a2062f315b36ac4a",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v235/app-posD3-debug.apk",
+  "sha256": "c4b707eb6d2ebf05d2a4014ae4d2d9595d877ba2dea3607f1e442eddd03d582f",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "ปรับหน้าจอกลับเป็นแบบเดิมชั่วคราว การออกแบบของตู้จะกลับมาใหม่โดยแยกตามชนิดเครื่อง ไม่ใช่ตามความกว้างจอ"
+  "changelog": "รุ่นนี้ไม่มีการเปลี่ยนแปลงฝั่งตู้ ออกเลขให้ตรงกันกับเครื่องพนักงานเท่านั้น"
 }
