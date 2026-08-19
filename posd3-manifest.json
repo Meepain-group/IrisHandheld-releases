@@ -1,11 +1,11 @@
 {
-  "versionCode": 236,
-  "versionName": "0.1.236",
+  "versionCode": 237,
+  "versionName": "0.1.237-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v236/app-posD3-debug.apk",
-  "sha256": "59d133549d3018dbcb14ab5d64798d0e49685b98e446770c593994db81a45021",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v237/app-posD3-debug.apk",
+  "sha256": "c775e4a9fa3944753f7144b942585a5f20ff920560f5b4ff41f8bbcf1f7aeeea",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "ตู้จะไม่จองเครื่องแทนพนักงานอีกต่อไป และหน้าจอสำหรับพนักงานถูกแยกออกจากเครื่องตู้แล้ว"
+  "changelog": "ตู้จะแจ้งเครื่องที่ลูกค้าใส่ผ้าเองให้ระบบหน้าร้านทราบ เพื่อให้ผูกรอบการทำงานกับใบงานได้ถูกต้อง การใช้งานของลูกค้าเหมือนเดิมทุกอย่าง"
 }
