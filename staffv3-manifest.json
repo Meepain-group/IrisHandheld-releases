@@ -1,11 +1,11 @@
 {
-  "versionCode": 238,
-  "versionName": "0.1.238",
+  "versionCode": 242,
+  "versionName": "0.1.242",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v238/app-staffV3-debug.apk",
-  "sha256": "d5de6321412935644bce3abf8469377fe21a95c0256092d19485d77b8b75913c",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v242/app-staffV3-debug.apk",
+  "sha256": "447665382d5319ba4d2be0abb681c84519970e17e44f265cba0bef27894c2f69",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "แก้ปัญหาที่เครื่องส่งข้อมูลการชำระเงินซ้ำไม่หยุด หลังจากระบบหลังบ้านปฏิเสธรายการนั้นไปแล้ว การใช้งานเหมือนเดิมทุกอย่าง"
+  "changelog": "ใบเสร็จจะพิมพ์ออกก่อนใบงานเสมอ · เมื่อรับเงินสดเรียบร้อยแล้ว ปุ่มรับเงินจะหายไปและเข้าสู่ขั้นตอนผูกเครื่องทันที · ระบุเครื่องเองได้เมื่อระบบยังไม่พบรอบเครื่อง · รายการงานแสดงเฉพาะของวันนั้น"
 }
