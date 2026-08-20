@@ -1,11 +1,11 @@
 {
-  "versionCode": 242,
-  "versionName": "0.1.242",
+  "versionCode": 245,
+  "versionName": "0.1.245-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v242/app-staffV3-debug.apk",
-  "sha256": "447665382d5319ba4d2be0abb681c84519970e17e44f265cba0bef27894c2f69",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v245/app-staffV3-debug.apk",
+  "sha256": "3d9c93583565a3b40ed489661e0f1ddf09d5e580744c74c12468539feb0f343e",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "ใบเสร็จจะพิมพ์ออกก่อนใบงานเสมอ · เมื่อรับเงินสดเรียบร้อยแล้ว ปุ่มรับเงินจะหายไปและเข้าสู่ขั้นตอนผูกเครื่องทันที · ระบุเครื่องเองได้เมื่อระบบยังไม่พบรอบเครื่อง · รายการงานแสดงเฉพาะของวันนั้น"
+  "changelog": "• การ์ดเลือกเครื่องแสดงหมายเลขคิวของรอบที่กำลังทำงานอยู่ และหายไปเองเมื่อรอบนั้นจบ • เมื่อยังไม่ได้รับสถานะเครื่องจากระบบหน้าร้าน จอจะบอกตรงๆ แทนที่จะบอกว่าไม่มีเครื่องว่าง • แยกข้อความให้ชัดระหว่าง เครื่องไม่ว่าง กับ สาขาไม่มีเครื่องขนาดนั้น"
 }
