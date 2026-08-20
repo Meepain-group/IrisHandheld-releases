@@ -1,11 +1,11 @@
 {
-  "versionCode": 237,
-  "versionName": "0.1.237-posD3",
+  "versionCode": 238,
+  "versionName": "0.1.238-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v237/app-posD3-debug.apk",
-  "sha256": "c775e4a9fa3944753f7144b942585a5f20ff920560f5b4ff41f8bbcf1f7aeeea",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v238/app-posD3-debug.apk",
+  "sha256": "c09d2c1378e823a8f209ea51bcb6786dc233402a25418ea9e3c0f3d919fcc139",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "ตู้จะแจ้งเครื่องที่ลูกค้าใส่ผ้าเองให้ระบบหน้าร้านทราบ เพื่อให้ผูกรอบการทำงานกับใบงานได้ถูกต้อง การใช้งานของลูกค้าเหมือนเดิมทุกอย่าง"
+  "changelog": "แก้ปัญหาที่ตู้ส่งข้อมูลการชำระเงินซ้ำไม่หยุด หลังจากระบบหลังบ้านปฏิเสธรายการนั้นไปแล้ว การใช้งานของลูกค้าเหมือนเดิมทุกอย่าง"
 }
