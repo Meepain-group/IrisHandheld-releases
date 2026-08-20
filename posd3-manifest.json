@@ -1,11 +1,11 @@
 {
-  "versionCode": 242,
-  "versionName": "0.1.242-posD3",
+  "versionCode": 245,
+  "versionName": "0.1.245-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v242/app-posD3-debug.apk",
-  "sha256": "68a54b1059265d4ede2f3174d2774dedffdd1784db722c10ee48a0d08b85794b",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v245/app-posD3-debug.apk",
+  "sha256": "6c854e41ce80470394181c58f2c97121682d7ddde39d2b072d3b71974bbf5359",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "ปรับหน้าจอฝากผ้าให้เข้าใจง่ายขึ้น · เลือกขนาดเครื่องได้เฉพาะที่ร้านมีจริง · ใส่หมายเหตุได้ครั้งเดียวต่อหนึ่งออร์เดอร์ · หน้าจ่ายเงินสดบอกชัดว่าให้นำใบแจ้งยอดไปชำระกับพนักงาน"
+  "changelog": "• การ์ดเครื่องซักและเครื่องอบมีไอคอนประกอบ เห็นความต่างได้จากระยะยืน • ปุ่มเพิ่มเครื่องและปุ่มยืนยันใช้รูปแบบเดียวกันทั้งหน้าจอ • หน้ายืนยันเริ่มเครื่องเองแสดงหมายเลขเครื่องตัวใหญ่กลางจอ • ปุ่มเพิ่ม-ลดเวลาอบใหญ่ขึ้น กดง่ายขึ้นขณะยืน"
 }
