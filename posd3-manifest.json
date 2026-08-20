@@ -1,11 +1,11 @@
 {
-  "versionCode": 238,
-  "versionName": "0.1.238-posD3",
+  "versionCode": 242,
+  "versionName": "0.1.242-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v238/app-posD3-debug.apk",
-  "sha256": "c09d2c1378e823a8f209ea51bcb6786dc233402a25418ea9e3c0f3d919fcc139",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v242/app-posD3-debug.apk",
+  "sha256": "68a54b1059265d4ede2f3174d2774dedffdd1784db722c10ee48a0d08b85794b",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "แก้ปัญหาที่ตู้ส่งข้อมูลการชำระเงินซ้ำไม่หยุด หลังจากระบบหลังบ้านปฏิเสธรายการนั้นไปแล้ว การใช้งานของลูกค้าเหมือนเดิมทุกอย่าง"
+  "changelog": "ปรับหน้าจอฝากผ้าให้เข้าใจง่ายขึ้น · เลือกขนาดเครื่องได้เฉพาะที่ร้านมีจริง · ใส่หมายเหตุได้ครั้งเดียวต่อหนึ่งออร์เดอร์ · หน้าจ่ายเงินสดบอกชัดว่าให้นำใบแจ้งยอดไปชำระกับพนักงาน"
 }
