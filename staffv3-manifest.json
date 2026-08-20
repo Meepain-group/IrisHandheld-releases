@@ -1,11 +1,11 @@
 {
-  "versionCode": 236,
-  "versionName": "0.1.236",
+  "versionCode": 238,
+  "versionName": "0.1.238",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v236/app-staffV3-debug.apk",
-  "sha256": "05392c37c01f9b1bd26930e11e258d5042d8fab3ab15730fba205bde9dc44c42",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v238/app-staffV3-debug.apk",
+  "sha256": "d5de6321412935644bce3abf8469377fe21a95c0256092d19485d77b8b75913c",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "ปรับปรุงการบันทึกเครื่องที่ลูกค้าใส่ผ้าเอง ให้ระบบผูกเครื่องกับงานได้แม่นยำขึ้น การใช้งานของพนักงานเหมือนเดิมทุกอย่าง"
+  "changelog": "แก้ปัญหาที่เครื่องส่งข้อมูลการชำระเงินซ้ำไม่หยุด หลังจากระบบหลังบ้านปฏิเสธรายการนั้นไปแล้ว การใช้งานเหมือนเดิมทุกอย่าง"
 }
