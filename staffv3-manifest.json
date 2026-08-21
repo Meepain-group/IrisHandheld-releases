@@ -1,11 +1,11 @@
 {
-  "versionCode": 248,
-  "versionName": "0.1.248-staffV3",
+  "versionCode": 249,
+  "versionName": "0.1.249-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v248/app-staffV3-debug.apk",
-  "sha256": "7f4f4baa86a64770b9aad062cb147beaf312ce5bbf375c6c157d73f4f4d46c03",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v249/app-staffV3-debug.apk",
+  "sha256": "32087866c691bb59e83cd27dea847a81a61de728d9d3e5f68547b48003c4d203",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• การ์ดงานซัก-อบแสดงสถานะเครื่องจริงตลอดรอบ — แก้อาการค้างที่ 'รอกด Start' ทั้งที่เครื่องทำงานแล้ว • เพิ่มแถบความคืบหน้าของรอบเครื่องบนการ์ดงาน พร้อมเวลาที่เหลือ • แก้ปุ่มสตาร์ทเครื่องในหน้ารายการเครื่องที่แจ้งว่าไม่สำเร็จทั้งที่เครื่องเริ่มทำงานแล้ว เพื่อกันการกดซ้ำ"
+  "changelog": "• หน้าคิวมีช่อง \"รอชำระเงิน\" แยกออกมา — งานที่ยังไม่ได้เก็บเงินจะไม่ปนกับงานที่จ่ายแล้วอีก ส่วนช่อง \"รอคิว\" คืองานที่จ่ายแล้วแต่ลูกค้ายังไม่ได้เอาผ้ามาส่ง • ปุ่มพิมพ์ซ้ำจะไม่ออกใบเสร็จให้บิลที่ยังไม่ได้เก็บเงิน แต่จะพิมพ์ใบแจ้งหนี้ซ้ำแทน • แก้ปัญหาเครื่องคีออสก์ส่งคำขอผูกงานซ้ำๆ ที่ระบบปฏิเสธอยู่แล้ว"
 }
