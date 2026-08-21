@@ -1,11 +1,11 @@
 {
-  "versionCode": 249,
-  "versionName": "0.1.249-staffV3",
+  "versionCode": 250,
+  "versionName": "0.1.250-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v249/app-staffV3-debug.apk",
-  "sha256": "32087866c691bb59e83cd27dea847a81a61de728d9d3e5f68547b48003c4d203",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v250/app-staffV3-debug.apk",
+  "sha256": "84e3233f57218451513d6a2735e2aca13724c76d6792b34169a972d30e8a6ef1",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• หน้าคิวมีช่อง \"รอชำระเงิน\" แยกออกมา — งานที่ยังไม่ได้เก็บเงินจะไม่ปนกับงานที่จ่ายแล้วอีก ส่วนช่อง \"รอคิว\" คืองานที่จ่ายแล้วแต่ลูกค้ายังไม่ได้เอาผ้ามาส่ง • ปุ่มพิมพ์ซ้ำจะไม่ออกใบเสร็จให้บิลที่ยังไม่ได้เก็บเงิน แต่จะพิมพ์ใบแจ้งหนี้ซ้ำแทน • แก้ปัญหาเครื่องคีออสก์ส่งคำขอผูกงานซ้ำๆ ที่ระบบปฏิเสธอยู่แล้ว"
+  "changelog": "• บิลที่ยังไม่ได้เก็บเงินจะไม่ถูกส่งซ้ำวนไม่หยุดอีก — เดิมระบบเข้าใจว่ายังซิงค์ไม่เสร็จ ทั้งที่เลขคิวจะออกก็ต่อเมื่อเก็บเงินแล้ว • รองรับการแสดงผลเมื่อลูกค้าแจ้งเครื่องที่ใช้เองจากตู้ D3 โดยระบุชัดว่าเป็นคำแจ้งของลูกค้า ยังไม่ใช่หลักฐานว่าเครื่องทำงาน"
 }
