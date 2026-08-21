@@ -1,11 +1,11 @@
 {
-  "versionCode": 245,
-  "versionName": "0.1.245-posD3",
+  "versionCode": 247,
+  "versionName": "0.1.247-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v245/app-posD3-debug.apk",
-  "sha256": "6c854e41ce80470394181c58f2c97121682d7ddde39d2b072d3b71974bbf5359",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v247/app-posD3-debug.apk",
+  "sha256": "d246d5d458962868340c0a745026f357120b474018481c35d928ea803534a55c",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• การ์ดเครื่องซักและเครื่องอบมีไอคอนประกอบ เห็นความต่างได้จากระยะยืน • ปุ่มเพิ่มเครื่องและปุ่มยืนยันใช้รูปแบบเดียวกันทั้งหน้าจอ • หน้ายืนยันเริ่มเครื่องเองแสดงหมายเลขเครื่องตัวใหญ่กลางจอ • ปุ่มเพิ่ม-ลดเวลาอบใหญ่ขึ้น กดง่ายขึ้นขณะยืน"
+  "changelog": "• แป้นกดเบอร์โทรตอบสนองทันทีที่แตะ ไม่ต้องรอ • สภาพอากาศอัปเดตถี่ขึ้น • การ์ดเครื่องซักและเครื่องอบมีไอคอนประกอบ เห็นความต่างได้จากระยะยืน • หน้ายืนยันเริ่มเครื่องเองแสดงหมายเลขเครื่องตัวใหญ่กลางจอ • ปุ่มเพิ่ม-ลดเวลาอบใหญ่ขึ้น • แก้ปัญหาจอค้างเมื่อสแกน QR บางกรณี"
 }
