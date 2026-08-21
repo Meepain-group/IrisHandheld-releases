@@ -1,11 +1,11 @@
 {
-  "versionCode": 249,
-  "versionName": "0.1.249-posD3",
+  "versionCode": 250,
+  "versionName": "0.1.250-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v249/app-posD3-debug.apk",
-  "sha256": "6f7bb189c7065e3fd05eccee7c55640af53fc1315ba212bb6e23910b434c5c7e",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v250/app-posD3-debug.apk",
+  "sha256": "ee3e5ca8895b26c6bdfe663c66ba7331877f7a3118a3fde4da52d69a35f91760",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ปุ่มพิมพ์ซ้ำจะไม่ออกใบเสร็จให้รายการที่ยังไม่ได้ชำระเงิน แต่จะพิมพ์ใบแจ้งหนี้ซ้ำให้แทน • ลดการส่งข้อมูลซ้ำที่ระบบหลังบ้านปฏิเสธอยู่แล้ว ทำให้เครื่องทำงานเบาลง"
+  "changelog": "• หยุดการส่งข้อมูลซ้ำวนไม่หยุดสำหรับบิลที่ยังไม่ได้เก็บเงิน ทำให้เครื่องทำงานเบาลง • รองรับการแจ้งเครื่องที่ลูกค้าใช้เอง"
 }
