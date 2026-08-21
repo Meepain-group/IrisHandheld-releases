@@ -1,11 +1,11 @@
 {
-  "versionCode": 245,
-  "versionName": "0.1.245-staffV3",
+  "versionCode": 247,
+  "versionName": "0.1.247-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v245/app-staffV3-debug.apk",
-  "sha256": "3d9c93583565a3b40ed489661e0f1ddf09d5e580744c74c12468539feb0f343e",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v247/app-staffV3-debug.apk",
+  "sha256": "421defc0dd540ae53ebb02b6f94a146f5c9877659bcf2e54937e7de592e4d6d8",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• การ์ดเลือกเครื่องแสดงหมายเลขคิวของรอบที่กำลังทำงานอยู่ และหายไปเองเมื่อรอบนั้นจบ • เมื่อยังไม่ได้รับสถานะเครื่องจากระบบหน้าร้าน จอจะบอกตรงๆ แทนที่จะบอกว่าไม่มีเครื่องว่าง • แยกข้อความให้ชัดระหว่าง เครื่องไม่ว่าง กับ สาขาไม่มีเครื่องขนาดนั้น"
+  "changelog": "• การ์ดเลือกเครื่องแสดงหมายเลขคิวของรอบที่กำลังทำงานอยู่ และหายไปเองเมื่อรอบนั้นจบ • เมื่อยังไม่ได้รับสถานะเครื่องจากระบบหน้าร้าน จอจะบอกตรงๆ แทนที่จะบอกว่าไม่มีเครื่องว่าง • แยกข้อความให้ชัดว่าติดที่การชำระเงิน หรือสาขาไม่มีเครื่องขนาดนั้น หรือเครื่องถูกใช้กับรายการอื่นของคิวเดียวกัน • แก้ปัญหาจอค้างเมื่อสแกนใบงานบางกรณี"
 }
