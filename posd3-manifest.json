@@ -1,11 +1,11 @@
 {
-  "versionCode": 247,
-  "versionName": "0.1.247-posD3",
+  "versionCode": 249,
+  "versionName": "0.1.249-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v247/app-posD3-debug.apk",
-  "sha256": "d246d5d458962868340c0a745026f357120b474018481c35d928ea803534a55c",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v249/app-posD3-debug.apk",
+  "sha256": "6f7bb189c7065e3fd05eccee7c55640af53fc1315ba212bb6e23910b434c5c7e",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แป้นกดเบอร์โทรตอบสนองทันทีที่แตะ ไม่ต้องรอ • สภาพอากาศอัปเดตถี่ขึ้น • การ์ดเครื่องซักและเครื่องอบมีไอคอนประกอบ เห็นความต่างได้จากระยะยืน • หน้ายืนยันเริ่มเครื่องเองแสดงหมายเลขเครื่องตัวใหญ่กลางจอ • ปุ่มเพิ่ม-ลดเวลาอบใหญ่ขึ้น • แก้ปัญหาจอค้างเมื่อสแกน QR บางกรณี"
+  "changelog": "• ปุ่มพิมพ์ซ้ำจะไม่ออกใบเสร็จให้รายการที่ยังไม่ได้ชำระเงิน แต่จะพิมพ์ใบแจ้งหนี้ซ้ำให้แทน • ลดการส่งข้อมูลซ้ำที่ระบบหลังบ้านปฏิเสธอยู่แล้ว ทำให้เครื่องทำงานเบาลง"
 }
