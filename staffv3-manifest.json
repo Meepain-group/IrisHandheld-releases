@@ -1,11 +1,11 @@
 {
-  "versionCode": 247,
-  "versionName": "0.1.247-staffV3",
+  "versionCode": 248,
+  "versionName": "0.1.248-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v247/app-staffV3-debug.apk",
-  "sha256": "421defc0dd540ae53ebb02b6f94a146f5c9877659bcf2e54937e7de592e4d6d8",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v248/app-staffV3-debug.apk",
+  "sha256": "7f4f4baa86a64770b9aad062cb147beaf312ce5bbf375c6c157d73f4f4d46c03",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• การ์ดเลือกเครื่องแสดงหมายเลขคิวของรอบที่กำลังทำงานอยู่ และหายไปเองเมื่อรอบนั้นจบ • เมื่อยังไม่ได้รับสถานะเครื่องจากระบบหน้าร้าน จอจะบอกตรงๆ แทนที่จะบอกว่าไม่มีเครื่องว่าง • แยกข้อความให้ชัดว่าติดที่การชำระเงิน หรือสาขาไม่มีเครื่องขนาดนั้น หรือเครื่องถูกใช้กับรายการอื่นของคิวเดียวกัน • แก้ปัญหาจอค้างเมื่อสแกนใบงานบางกรณี"
+  "changelog": "• การ์ดงานซัก-อบแสดงสถานะเครื่องจริงตลอดรอบ — แก้อาการค้างที่ 'รอกด Start' ทั้งที่เครื่องทำงานแล้ว • เพิ่มแถบความคืบหน้าของรอบเครื่องบนการ์ดงาน พร้อมเวลาที่เหลือ • แก้ปุ่มสตาร์ทเครื่องในหน้ารายการเครื่องที่แจ้งว่าไม่สำเร็จทั้งที่เครื่องเริ่มทำงานแล้ว เพื่อกันการกดซ้ำ"
 }
