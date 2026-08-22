@@ -1,11 +1,11 @@
 {
-  "versionCode": 250,
-  "versionName": "0.1.250-posD3",
+  "versionCode": 251,
+  "versionName": "0.1.251-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v250/app-posD3-debug.apk",
-  "sha256": "ee3e5ca8895b26c6bdfe663c66ba7331877f7a3118a3fde4da52d69a35f91760",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v251/app-posD3-debug.apk",
+  "sha256": "baae0a2b8be490ccdbdb177edcdb28dd04158ca67329be3fe464afe7133180ae",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• หยุดการส่งข้อมูลซ้ำวนไม่หยุดสำหรับบิลที่ยังไม่ได้เก็บเงิน ทำให้เครื่องทำงานเบาลง • รองรับการแจ้งเครื่องที่ลูกค้าใช้เอง"
+  "changelog": "• ตู้บันทึกเครื่องที่ลูกค้าใช้เองได้ทันทีที่กด ไม่ต้องรอพนักงาน • เลขคิวตามมาถึงเครื่องหลังชำระเงิน • แก้บันทึกการพิมพ์ที่หายไป"
 }
