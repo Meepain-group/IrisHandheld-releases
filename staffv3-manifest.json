@@ -1,11 +1,11 @@
 {
-  "versionCode": 255,
-  "versionName": "0.1.255-staffV3",
+  "versionCode": 256,
+  "versionName": "0.1.256-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v255/app-staffV3-debug.apk",
-  "sha256": "283e16cb184ee245e4d4826e2bae2e71841b0c23020def3d80d87c7acf0207bd",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v256/app-staffV3-debug.apk",
+  "sha256": "5933a1cab5a83b5aa5b4655f202d15d2a04accfbf1084305c246bda6e57c957a",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• หน้าบันทึกเครื่องแสดงเครื่องครบทุกตัวอีกครั้ง ถ้าลูกค้าใช้เครื่องคนละขนาดกับใบงาน ก็ยังบันทึกได้ โดยมีคำเตือนบอกว่าระบบจะผูกรอบให้อัตโนมัติไม่ได้ • ออกจากหน้าใบงานระหว่างโหลด ไม่ขึ้นว่าโหลดล้มเหลวอีกต่อไป • แก้การบันทึกการรับเงินที่อาจตกหล่นเมื่อออกจากหน้าจอกลางคัน"
+  "changelog": "• สั่งงานเครื่องแล้วหน้าจอไม่แจ้งว่าล้มเหลวอีกต่อไป ถ้าเครื่องตั้งโปรแกรมและจ่ายเงินเรียบร้อยแล้ว หน้าจอจะบอกให้ไปกดปุ่ม Start ที่หน้าเครื่อง พร้อมบอกชื่อเครื่อง ไม่ต้องสั่งซ้ำ"
 }
