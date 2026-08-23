@@ -1,11 +1,11 @@
 {
-  "versionCode": 253,
-  "versionName": "0.1.253-staffV3",
+  "versionCode": 254,
+  "versionName": "0.1.254-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v253/app-staffV3-debug.apk",
-  "sha256": "186a4ab39a66ba833c98680dcdbf2992393cc2c108eb84533e963158a47009b5",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v254/app-staffV3-debug.apk",
+  "sha256": "ec4be3cb04c8040a25c8116a3c1c134fe750b87a5bef4d334b4276aec59efc5c",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• กล่องแนะนำเครื่องจะเสนอเฉพาะเครื่องขนาดที่ตรงกับรายการ ที่ผ่านมาบางครั้งเสนอเครื่องผิดขนาด ทำให้ระบบหารอบเครื่องไม่เจอ และต้องปิดงานเอง • ถ้าระบบไม่แน่ใจขนาดของรายการ จะไม่เสนอเครื่องให้ ให้เลือกเองจากหน้าเลือกเครื่องตามปกติ"
+  "changelog": "• หยุดการลองซ้ำที่วนไม่จบของรายการที่ลูกค้าใช้เครื่องเอง ซึ่งเดิมหยุดไม่ได้เลยจนกว่าจะอัปเดต • เมื่อระบบตอบว่ารายการนี้จองไว้แล้ว เครื่องจะไปอ่านของเดิมแทนการจองซ้ำ • ออกจากหน้าใบงานระหว่างโหลด ไม่ขึ้นว่าโหลดล้มเหลวอีกต่อไป"
 }
