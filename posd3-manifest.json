@@ -1,11 +1,11 @@
 {
-  "versionCode": 251,
-  "versionName": "0.1.251-posD3",
+  "versionCode": 255,
+  "versionName": "0.1.255-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v251/app-posD3-debug.apk",
-  "sha256": "baae0a2b8be490ccdbdb177edcdb28dd04158ca67329be3fe464afe7133180ae",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v255/app-posD3-debug.apk",
+  "sha256": "6884f323f90492464709b83c1a238c5ffed233ebbe0de9716af0f5953c6deb52",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ตู้บันทึกเครื่องที่ลูกค้าใช้เองได้ทันทีที่กด ไม่ต้องรอพนักงาน • เลขคิวตามมาถึงเครื่องหลังชำระเงิน • แก้บันทึกการพิมพ์ที่หายไป"
+  "changelog": "• หยุดการลองจองรอบซ้ำที่วนไม่จบ ซึ่งเดิมหยุดไม่ได้จนกว่าจะอัปเดต • เมื่อระบบตอบว่ารายการนี้จองไว้แล้ว เครื่องจะไปอ่านของเดิมแทนการจองซ้ำ • แก้การบันทึกการรับเงินที่อาจตกหล่นเมื่อจอถูกปิดกลางคัน • สัญญาณเตือนภายในเลิกรายงานตัวเลขที่ไม่มีอยู่จริง"
 }
