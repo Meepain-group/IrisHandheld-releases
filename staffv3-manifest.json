@@ -1,11 +1,11 @@
 {
-  "versionCode": 250,
-  "versionName": "0.1.250-staffV3",
+  "versionCode": 252,
+  "versionName": "0.1.252-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v250/app-staffV3-debug.apk",
-  "sha256": "84e3233f57218451513d6a2735e2aca13724c76d6792b34169a972d30e8a6ef1",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v252/app-staffV3-debug.apk",
+  "sha256": "a0a36609abc0f95abd98f9c4e739ff2f78690044dd4536e36f26c26fee917aa5",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• บิลที่ยังไม่ได้เก็บเงินจะไม่ถูกส่งซ้ำวนไม่หยุดอีก — เดิมระบบเข้าใจว่ายังซิงค์ไม่เสร็จ ทั้งที่เลขคิวจะออกก็ต่อเมื่อเก็บเงินแล้ว • รองรับการแสดงผลเมื่อลูกค้าแจ้งเครื่องที่ใช้เองจากตู้ D3 โดยระบุชัดว่าเป็นคำแจ้งของลูกค้า ยังไม่ใช่หลักฐานว่าเครื่องทำงาน"
+  "changelog": "• เลขคิวตามมาถึงเครื่องหลังลูกค้าชำระเงิน ไม่ต้องรอเปิดใบงานใหม่ • แก้บันทึกการพิมพ์ที่หายไปตอนกดออกจากหน้าจอเร็ว"
 }
