@@ -1,11 +1,11 @@
 {
-  "versionCode": 257,
-  "versionName": "0.1.257-staffV3",
+  "versionCode": 258,
+  "versionName": "0.1.258-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v257/app-staffV3-debug.apk",
-  "sha256": "3a68448b7c6b1fba0666c6404446867f92b6b0273c6b2ce0b6a637fc9edb99ae",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v258/app-staffV3-debug.apk",
+  "sha256": "f56955ebe1c23a482b5a5392523089f98d305968454563f9bff3e445d09fc611",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• หน้าจอจะบอกชื่อเครื่องที่จ่ายเงินและตั้งโปรแกรมไว้แล้ว ให้ไปกดปุ่ม Start ที่หน้าเครื่อง แทนที่จะขึ้นว่าสั่งไม่สำเร็จ"
+  "changelog": "• ถ้าเครื่องถูกสั่งงานจากหน้าเครื่อง (launcher) แล้วยังไม่มีใบงานผูก ตอนนี้กดผูกเข้ากับใบงานได้เลย ระบบยืนยันให้เองว่าเป็นรอบที่เครื่องนี้สั่ง • เครื่องที่ระบบไม่ได้รับสัญญาณ ยังกดสั่งงานได้ ไม่ถูกปิดปุ่มอีกต่อไป"
 }
