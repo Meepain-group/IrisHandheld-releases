@@ -1,11 +1,11 @@
 {
-  "versionCode": 258,
-  "versionName": "0.1.258-staffV3",
+  "versionCode": 259,
+  "versionName": "0.1.259-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v258/app-staffV3-debug.apk",
-  "sha256": "f56955ebe1c23a482b5a5392523089f98d305968454563f9bff3e445d09fc611",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v259/app-staffV3-debug.apk",
+  "sha256": "d86c69dfd15a52b3e0a8bfd822ba3c634bd9f4345be755ce65c7109439335027",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ถ้าเครื่องถูกสั่งงานจากหน้าเครื่อง (launcher) แล้วยังไม่มีใบงานผูก ตอนนี้กดผูกเข้ากับใบงานได้เลย ระบบยืนยันให้เองว่าเป็นรอบที่เครื่องนี้สั่ง • เครื่องที่ระบบไม่ได้รับสัญญาณ ยังกดสั่งงานได้ ไม่ถูกปิดปุ่มอีกต่อไป"
+  "changelog": "• แถบแดง \"ซิงค์ไม่สำเร็จ\" จะไม่ขึ้นอีก ถ้าระบบแค่รอส่งข้อมูลตามปกติ — จะขึ้นเฉพาะตอนที่ต้องมีคนเข้าไปแก้จริง งานที่ยังรอส่งยังเห็นเป็นตัวเลขเหมือนเดิม\n• ตอนผูกรอบเครื่องไม่สำเร็จ ระบบจะบอกเลขคิวที่ต้องไปดูให้เลย แทนที่จะบอกแค่ว่าไม่สำเร็จ\n• งานที่รอผูกเครื่องนานผิดปกติ จะแจ้งซ้ำพร้อมบอกว่ารอมากี่นาที และแจ้งด้วยเมื่อมันหายเอง"
 }
