@@ -1,11 +1,11 @@
 {
-  "versionCode": 260,
-  "versionName": "0.1.260-staffV3",
+  "versionCode": 261,
+  "versionName": "0.1.261-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v260/app-staffV3-debug.apk",
-  "sha256": "e9028c3ceb342a59605519c7b4eaf9c1dc3cd94643957cd42c260f37cc48e502",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v261/app-staffV3-debug.apk",
+  "sha256": "d63ea8c945ac901cb28087fb89ea17dc265b8530c75a5d3248b747d0901312fd",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• งานที่ระบุเครื่องไปแล้วแต่ระบบหารอบเครื่องไม่เจอ จะแสดงเวลาที่พนักงานกดระบุเครื่องไว้บนใบงาน พร้อมป้ายว่า \"บันทึกโดยพนักงาน\" เพื่อให้งานนั้นมีเวลาบันทึกไว้ ไม่หายไปเฉย ๆ\n• เวลานี้คือเวลาที่คนกด ไม่ใช่เวลาที่เครื่องเริ่มหรือหยุดจริง จึงไม่ได้เอาไปใช้ตัดสินว่าเครื่องว่างหรือไม่ และไม่ได้แสดงเป็นระยะเวลาที่ใช้ไป"
+  "changelog": "• รายการที่ยังไม่ได้เก็บเงิน จะค้างอยู่ในช่อง \"รอชำระเงิน\" จนกว่าจะเก็บเงินจริง แม้ลูกค้าจะเริ่มเครื่องไปแล้ว — เดิมรายการจะหลุดออกจากช่องนี้ทันทีที่เครื่องเริ่มทำงาน\n• กดรับเงินสดจากหน้ารายการได้เลย ไม่ต้องสแกนใบก่อน จึงยังเก็บเงินได้แม้ใบเรียกเก็บเงินจะพิมพ์ไม่ออก"
 }
