@@ -1,11 +1,11 @@
 {
-  "versionCode": 261,
-  "versionName": "0.1.261-staffV3",
+  "versionCode": 262,
+  "versionName": "0.1.262-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v261/app-staffV3-debug.apk",
-  "sha256": "d63ea8c945ac901cb28087fb89ea17dc265b8530c75a5d3248b747d0901312fd",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v262/app-staffV3-debug.apk",
+  "sha256": "b771b228a47c6fb43cf5713f0a35667e0762578171aeb597e2316d421abe32e8",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• รายการที่ยังไม่ได้เก็บเงิน จะค้างอยู่ในช่อง \"รอชำระเงิน\" จนกว่าจะเก็บเงินจริง แม้ลูกค้าจะเริ่มเครื่องไปแล้ว — เดิมรายการจะหลุดออกจากช่องนี้ทันทีที่เครื่องเริ่มทำงาน\n• กดรับเงินสดจากหน้ารายการได้เลย ไม่ต้องสแกนใบก่อน จึงยังเก็บเงินได้แม้ใบเรียกเก็บเงินจะพิมพ์ไม่ออก"
+  "changelog": "• ค้นหางานจากเบอร์โทรลูกค้าได้แล้ว พิมพ์อย่างน้อย 3 หลัก ค้นได้ทุกช่อง ใช้ได้ทั้งเบอร์สมาชิกและเบอร์ที่ลูกค้าให้ไว้ — ใช้ตอนลูกค้าไม่มีใบมาแสดง\n• ช่อง \"รอชำระเงิน\" เปลี่ยนชื่อเป็น \"รอจ่าย\" เพราะชื่อเดิมยาวเกินช่องจนถูกตัดจนอ่านไม่ออก ความหมายเหมือนเดิมทุกอย่าง"
 }
