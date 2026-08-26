@@ -1,11 +1,11 @@
 {
-  "versionCode": 263,
-  "versionName": "0.1.263-staffV3",
+  "versionCode": 264,
+  "versionName": "0.1.264-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v263/app-staffV3-debug.apk",
-  "sha256": "d650306d7a995d7cbea3d8fefe0451b6fed89e53a9532aaeb3c1df7040f83555",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v264/app-staffV3-debug.apk",
+  "sha256": "e812cccff2a468be3188a1f9d82ff5dfb0e3d942cb014f37e70a0c33449887c1",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ปรับปรุงภายใน: เมื่อระบบล้างรายการจองเครื่องไม่สำเร็จ ตอนนี้จะบันทึกเหตุผลไว้ด้วย ทำให้ตามหาต้นเหตุของอาการวนซ้ำได้จริง จากเดิมที่รู้แค่ว่าไม่สำเร็จ\n• รุ่นนี้ไม่มีการเปลี่ยนแปลงหน้าจอหรือขั้นตอนการทำงานใด ๆ สำหรับพนักงาน"
+  "changelog": "• เอาการ์ด \"ประวัติ\" ออกจากหน้ารายละเอียดงาน WDF แล้ว เดิมมันแสดงไทม์ไลน์การเปลี่ยนสถานะทั้งหมดต่อท้ายหน้า ต้องเลื่อนลงไปดูและไม่ได้ใช้ในงานประจำวัน\n• ไม่มีการเปลี่ยนแปลงอื่นในรุ่นนี้ ขั้นตอนการรับงาน คิด เงิน สั่งเครื่อง และปิดงาน เหมือนเดิมทุกอย่าง\n• รุ่นนี้ปล่อยเฉพาะเครื่องพนักงาน ตู้ลูกค้าไม่ได้รับ เพราะหน้าจอที่แก้เป็นหน้าที่ตู้เข้าไม่ถึงอยู่แล้ว"
 }
