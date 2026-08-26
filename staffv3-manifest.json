@@ -1,11 +1,11 @@
 {
-  "versionCode": 262,
-  "versionName": "0.1.262-staffV3",
+  "versionCode": 263,
+  "versionName": "0.1.263-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v262/app-staffV3-debug.apk",
-  "sha256": "b771b228a47c6fb43cf5713f0a35667e0762578171aeb597e2316d421abe32e8",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v263/app-staffV3-debug.apk",
+  "sha256": "d650306d7a995d7cbea3d8fefe0451b6fed89e53a9532aaeb3c1df7040f83555",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ค้นหางานจากเบอร์โทรลูกค้าได้แล้ว พิมพ์อย่างน้อย 3 หลัก ค้นได้ทุกช่อง ใช้ได้ทั้งเบอร์สมาชิกและเบอร์ที่ลูกค้าให้ไว้ — ใช้ตอนลูกค้าไม่มีใบมาแสดง\n• ช่อง \"รอชำระเงิน\" เปลี่ยนชื่อเป็น \"รอจ่าย\" เพราะชื่อเดิมยาวเกินช่องจนถูกตัดจนอ่านไม่ออก ความหมายเหมือนเดิมทุกอย่าง"
+  "changelog": "• ปรับปรุงภายใน: เมื่อระบบล้างรายการจองเครื่องไม่สำเร็จ ตอนนี้จะบันทึกเหตุผลไว้ด้วย ทำให้ตามหาต้นเหตุของอาการวนซ้ำได้จริง จากเดิมที่รู้แค่ว่าไม่สำเร็จ\n• รุ่นนี้ไม่มีการเปลี่ยนแปลงหน้าจอหรือขั้นตอนการทำงานใด ๆ สำหรับพนักงาน"
 }
