@@ -1,11 +1,11 @@
 {
-  "versionCode": 264,
-  "versionName": "0.1.264-staffV3",
+  "versionCode": 265,
+  "versionName": "0.1.265-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v264/app-staffV3-debug.apk",
-  "sha256": "e812cccff2a468be3188a1f9d82ff5dfb0e3d942cb014f37e70a0c33449887c1",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v265/app-staffV3-debug.apk",
+  "sha256": "079af9a46eaaa330d346b037b3ea35980a282f2d22251eb6d78de69f821bc11c",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เอาการ์ด \"ประวัติ\" ออกจากหน้ารายละเอียดงาน WDF แล้ว เดิมมันแสดงไทม์ไลน์การเปลี่ยนสถานะทั้งหมดต่อท้ายหน้า ต้องเลื่อนลงไปดูและไม่ได้ใช้ในงานประจำวัน\n• ไม่มีการเปลี่ยนแปลงอื่นในรุ่นนี้ ขั้นตอนการรับงาน คิด เงิน สั่งเครื่อง และปิดงาน เหมือนเดิมทุกอย่าง\n• รุ่นนี้ปล่อยเฉพาะเครื่องพนักงาน ตู้ลูกค้าไม่ได้รับ เพราะหน้าจอที่แก้เป็นหน้าที่ตู้เข้าไม่ถึงอยู่แล้ว"
+  "changelog": "• แก้อาการเบื้องหลัง: ระบบเคยพยายามกู้รายการจองเครื่องที่จบงานไปแล้วซ้ำ ๆ ทุก 16 วินาทีไม่มีที่สิ้นสุด ตอนนี้เมื่อไม่มีคำตอบให้รออีกแล้ว ระบบจะพักรายการนั้นไว้และหยุด โดยยังเก็บหลักฐานไว้ตรวจสอบได้\n• สัญญาณเตือน \"รายการนี้รอนานแล้ว\" เคยนับเวลาใหม่จากศูนย์ทุกครั้งที่แอปเปิดใหม่ ตอนนี้จำเวลาที่เริ่มรอได้จริง จึงบอกได้ว่ารอมานานเท่าไหร่\n• ไม่มีการเปลี่ยนแปลงหน้าจอหรือขั้นตอนการทำงานสำหรับพนักงาน"
 }
