@@ -1,11 +1,11 @@
 {
-  "versionCode": 262,
-  "versionName": "0.1.262-posD3",
+  "versionCode": 263,
+  "versionName": "0.1.263-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v262/app-posD3-debug.apk",
-  "sha256": "638af9f10743647ce4dd358404605c37c6a88034cbaf326cf60bdc752b322efd",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v263/app-posD3-debug.apk",
+  "sha256": "78eaf31b7bb052cac5a80e25b44f1ca9cb9be550185f76a7e8dcb1d60b720dd8",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้อาการที่เครื่องพยายามกู้รายการที่ทำงานจบไปแล้วซ้ำ ๆ ไม่มีที่สิ้นสุด ตอนนี้เมื่อรายการเดินไปแล้ว ระบบจะหยุดตามหาและบันทึกไว้หนึ่งครั้ง\n• ไม่กระทบการใช้งานของลูกค้า เป็นการลดงานเบื้องหลังที่ไม่จำเป็น"
+  "changelog": "• หน้าจอแรกบอกชัดเจนแล้วว่าเครื่องนี้ให้บริการ ฝาก ซัก อบ พับ และต้องแตะหน้าจอเพื่อเริ่มรายการ\n• ช่วงเวลาฝากผ้า จะบอกลูกค้าว่าทำรายการให้ครบและชำระเงิน แล้วแม่บ้านจะมาทำต่อให้เอง\n• นอกเวลาทำการ แสดงเวลาเปิด-ปิด และไม่ชวนให้ฝากผ้า\n• เอาการ์ดสภาพอากาศแบบเต็มออก เหลือเฉพาะคำแนะนำที่ทำอะไรได้จริง เช่น อากาศชื้นควรเพิ่มเวลาอบ ถ้าไม่มีคำแนะนำก็ไม่แสดงอะไรเลย\n• ย้ายนาฬิกาไปมุมซ้ายบน โลโก้ไปมุมขวาบน เอฟเฟกต์พื้นหลังตามสภาพอากาศยังอยู่เหมือนเดิม"
 }
