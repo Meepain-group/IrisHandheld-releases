@@ -1,11 +1,11 @@
 {
-  "versionCode": 265,
-  "versionName": "0.1.265-posD3",
+  "versionCode": 266,
+  "versionName": "0.1.266-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v265/app-posD3-debug.apk",
-  "sha256": "15a4bd5ddee27b407c58dacf53f619ca455a3211db0931a269fcfb20ac3825ab",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v266/app-posD3-debug.apk",
+  "sha256": "2dd6638d8fb0e3e777fa4e479ada0ae10ac331717d47e6c69e5f40974954d229",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• หน้าชำระเงิน QR ออกได้ 3 ทางเท่านั้น คือ กดปุ่มยกเลิกรายการ (มีให้ยืนยันอีกครั้ง), QR หมดเวลา, หรือชำระเงินสำเร็จ กดปุ่มย้อนกลับออกจากหน้านี้ไม่ได้แล้ว กันลูกค้าหลุดออกจากหน้าจอกลางคันโดยไม่ตั้งใจ\n• ใบชำระเงินสำหรับเงินสดสั้นลงมาก เหลือเพียงยอดเงินตัวใหญ่กับ QR ประหยัดกระดาษ แม่บ้านสแกน QR แล้วดูรายละเอียดงานทั้งหมดที่เครื่องพนักงานแทน\n• แก้อาการเบื้องหลังที่ตู้วนกู้รายการที่ทำงานจบไปแล้วซ้ำ ๆ ไม่มีที่สิ้นสุด"
+  "changelog": "• รุ่นนี้เพิ่มเฉพาะตัวบันทึกเบื้องหลัง เพื่อหาสาเหตุที่ตู้ยังกู้รายการเก่าซ้ำ ๆ อยู่\n• ไม่มีการเปลี่ยนแปลงหน้าจอหรือการใช้งานของลูกค้า จอ QR และใบชำระเงินเหมือนรุ่นก่อนทุกอย่าง"
 }
