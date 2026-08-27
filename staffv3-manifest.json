@@ -1,11 +1,11 @@
 {
-  "versionCode": 265,
-  "versionName": "0.1.265-staffV3",
+  "versionCode": 266,
+  "versionName": "0.1.266-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v265/app-staffV3-debug.apk",
-  "sha256": "079af9a46eaaa330d346b037b3ea35980a282f2d22251eb6d78de69f821bc11c",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v266/app-staffV3-debug.apk",
+  "sha256": "32a1520db7dfc5b6b579c153aa3e728945b89c4180f89a86322efbe1b5e369cf",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้อาการเบื้องหลัง: ระบบเคยพยายามกู้รายการจองเครื่องที่จบงานไปแล้วซ้ำ ๆ ทุก 16 วินาทีไม่มีที่สิ้นสุด ตอนนี้เมื่อไม่มีคำตอบให้รออีกแล้ว ระบบจะพักรายการนั้นไว้และหยุด โดยยังเก็บหลักฐานไว้ตรวจสอบได้\n• สัญญาณเตือน \"รายการนี้รอนานแล้ว\" เคยนับเวลาใหม่จากศูนย์ทุกครั้งที่แอปเปิดใหม่ ตอนนี้จำเวลาที่เริ่มรอได้จริง จึงบอกได้ว่ารอมานานเท่าไหร่\n• ไม่มีการเปลี่ยนแปลงหน้าจอหรือขั้นตอนการทำงานสำหรับพนักงาน"
+  "changelog": "• รุ่นนี้เพิ่มเฉพาะตัวบันทึกเบื้องหลัง เพื่อให้ระบุได้ว่าทำไมรายการจองเครื่องที่ค้างถึงพักไม่ได้\n• ไม่มีการเปลี่ยนแปลงหน้าจอ ขั้นตอนการทำงาน หรือพฤติกรรมของระบบใด ๆ ทั้งสิ้น"
 }
