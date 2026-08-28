@@ -1,11 +1,11 @@
 {
-  "versionCode": 271,
-  "versionName": "0.1.271-posD3",
+  "versionCode": 272,
+  "versionName": "0.1.272-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v271/app-posD3-debug.apk",
-  "sha256": "85c6635bcec57ad4b29bbebb52ccd2c1c8916b835f025355810e5b8c1391acbd",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v272/app-posD3-debug.apk",
+  "sha256": "71d55afec7e86678e00b3d2974df207265a22d00511a0ab7971ed4d7a17337e1",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "D3-idle-QR-preflight-safety"
+  "changelog": "D3: show Drop-off badge on the idle screen."
 }
