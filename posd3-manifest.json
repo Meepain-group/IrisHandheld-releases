@@ -1,11 +1,11 @@
 {
-  "versionCode": 269,
-  "versionName": "0.1.269-posD3",
+  "versionCode": 270,
+  "versionName": "0.1.270-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v269/app-posD3-debug.apk",
-  "sha256": "c90cda82223739e639067705951c7f86c1ba3531b6ed6b16a94aab50f1fb85ac",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v270/app-posD3-debug.apk",
+  "sha256": "6604b425fe052db27effcc2d0d3859c31402b9a33ecf79d4a96f877ca1688961",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "D3 QR recovery: restore PromptPay QR and safe unresolved-QR exit."
+  "changelog": "D3 QR TTL: return to main after unresolved expiry while retaining reconciliation."
 }
