@@ -1,11 +1,11 @@
 {
-  "versionCode": 267,
-  "versionName": "0.1.267-posD3",
+  "versionCode": 268,
+  "versionName": "0.1.268-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v267/app-posD3-debug.apk",
-  "sha256": "637e5a2ec1818e97285c89b86adcd1767c696dd451c8e9ac85c2342ddedcc58c",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v268/app-posD3-debug.apk",
+  "sha256": "264a505a2e3fe6d178b9ecafc38f51bd9f36040a8b347b2a34d54716f7b40f2d",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "ค้นสมาชิกจากเบอร์และใช้เครดิตได้เฉพาะสมาชิกที่เชื่อม LINE; คืนการชำระ PromptPay QR พร้อมยกเลิกและหมดอายุอย่างปลอดภัย; ยอด 0 บาทปิดงานและพิมพ์เอกสารได้"
+  "changelog": "Restore D3 PromptPay QR: sync Cloud order before QR mint; Zero-payable D3 checkout closes directly without payment-method picker; StaffV3 OTA lane unchanged"
 }
