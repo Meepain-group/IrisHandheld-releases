@@ -1,11 +1,11 @@
 {
-  "versionCode": 270,
-  "versionName": "0.1.270-posD3",
+  "versionCode": 271,
+  "versionName": "0.1.271-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v270/app-posD3-debug.apk",
-  "sha256": "6604b425fe052db27effcc2d0d3859c31402b9a33ecf79d4a96f877ca1688961",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v271/app-posD3-debug.apk",
+  "sha256": "85c6635bcec57ad4b29bbebb52ccd2c1c8916b835f025355810e5b8c1391acbd",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "D3 QR TTL: return to main after unresolved expiry while retaining reconciliation."
+  "changelog": "D3-idle-QR-preflight-safety"
 }
