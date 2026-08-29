@@ -1,11 +1,11 @@
 {
-  "versionCode": 272,
-  "versionName": "0.1.272-posD3",
+  "versionCode": 273,
+  "versionName": "0.1.273-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v272/app-posD3-debug.apk",
-  "sha256": "71d55afec7e86678e00b3d2974df207265a22d00511a0ab7971ed4d7a17337e1",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v273/app-posD3-debug.apk",
+  "sha256": "17fae99b556ce72d6a68610f806e2713283b7766bb42f3fa80b894b8faa806f4",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "D3: show Drop-off badge on the idle screen."
+  "changelog": "• ป้องกัน D3 idle timeout ยกเลิกงานเงินสดที่ StaffV3 รับแล้ว\n• คงเส้นทาง PromptPay QR และ QR timeout/reconcile\n• OTA นี้สำหรับ Kiosk D3 เท่านั้น"
 }
