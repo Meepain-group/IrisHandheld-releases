@@ -1,11 +1,11 @@
 {
-  "versionCode": 273,
-  "versionName": "0.1.273-posD3",
+  "versionCode": 274,
+  "versionName": "0.1.274-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v273/app-posD3-debug.apk",
-  "sha256": "17fae99b556ce72d6a68610f806e2713283b7766bb42f3fa80b894b8faa806f4",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v274/app-posD3-debug.apk",
+  "sha256": "96c7564925891567c58bdd349d3b684173c5a8cc5151321e55dc44b6c761fe05",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ป้องกัน D3 idle timeout ยกเลิกงานเงินสดที่ StaffV3 รับแล้ว\n• คงเส้นทาง PromptPay QR และ QR timeout/reconcile\n• OTA นี้สำหรับ Kiosk D3 เท่านั้น"
+  "changelog": "Fix D3 zero-baht queue completion, cash-status projection, and PromptPay QR compatibility."
 }
