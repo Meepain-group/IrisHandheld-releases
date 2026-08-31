@@ -1,11 +1,11 @@
 {
-  "versionCode": 275,
-  "versionName": "0.1.275-posD3",
+  "versionCode": 276,
+  "versionName": "0.1.276-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v275/app-posD3-debug.apk",
-  "sha256": "be857a3e022f16b8b3039efb209b92da2bb64ee83dd7d8e892dbb3a0a9897e7f",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v276/app-posD3-debug.apk",
+  "sha256": "54884466a2dd46e61083ebf725146787a0972477f165b340c0984cd2bc50a1eb",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• Fix D3 zero-baht Fold flow and Cloud-backed queue completion.\\n• D3 QR admission is prepared before this OTA manifest."
+  "changelog": ""
 }
