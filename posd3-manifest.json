@@ -1,11 +1,11 @@
 {
-  "versionCode": 276,
-  "versionName": "0.1.276-posD3",
+  "versionCode": 277,
+  "versionName": "0.1.277-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v276/app-posD3-debug.apk",
-  "sha256": "54884466a2dd46e61083ebf725146787a0972477f165b340c0984cd2bc50a1eb",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v277/app-posD3-debug.apk",
+  "sha256": "254f89c797586ee8a6a932a30817430c38a094558d2fc75dff6a7e359ed2ad9c",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": ""
+  "changelog": "• Fix terminal unpaid PromptPay QR exit; unresolved payments remain protected."
 }
