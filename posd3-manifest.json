@@ -1,11 +1,11 @@
 {
-  "versionCode": 278,
-  "versionName": "0.1.278-posD3",
+  "versionCode": 279,
+  "versionName": "0.1.279-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v278/app-posD3-debug.apk",
-  "sha256": "66bc7446d013dabb2210df2c3a382b992905d7657054333002206672a77073e7",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v279/app-posD3-debug.apk",
+  "sha256": "fbcb907f16afb77d4ba384cea01407dc2581fc41d4fb0bac99fd3e8369abc81c",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ปรับขั้นตอนรับผ้า self-load ให้เลือกเครื่องซักและเครื่องอบได้ในหน้าเดียว\n• บริการพับเป็นคำขอ ร้านจะยืนยันก่อนคิดค่าบริการ"
+  "changelog": "• ยอดสุทธิ 0 บาท ออกคิวและพิมพ์งานได้ทันที โดยไม่เลือกช่องทางชำระเงิน"
 }
