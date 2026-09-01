@@ -1,11 +1,11 @@
 {
-  "versionCode": 277,
-  "versionName": "0.1.277-posD3",
+  "versionCode": 278,
+  "versionName": "0.1.278-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v277/app-posD3-debug.apk",
-  "sha256": "254f89c797586ee8a6a932a30817430c38a094558d2fc75dff6a7e359ed2ad9c",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v278/app-posD3-debug.apk",
+  "sha256": "66bc7446d013dabb2210df2c3a382b992905d7657054333002206672a77073e7",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• Fix terminal unpaid PromptPay QR exit; unresolved payments remain protected."
+  "changelog": "• ปรับขั้นตอนรับผ้า self-load ให้เลือกเครื่องซักและเครื่องอบได้ในหน้าเดียว`n• บริการพับเป็นคำขอ ร้านจะยืนยันก่อนคิดค่าบริการ"
 }
