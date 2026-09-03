@@ -1,11 +1,11 @@
 {
-  "versionCode": 297,
-  "versionName": "0.1.297-posD3",
+  "versionCode": 298,
+  "versionName": "0.1.298-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v297/app-posD3-debug.apk",
-  "sha256": "9d5733eb4328f8e154dd4ca58e1072e9eb7d565d1e670dadcd7c52ead19bab91",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v298/app-posD3-debug.apk",
+  "sha256": "cb8ec0ee6ad9ef28ccc7f55f5b93940f9c3e26d721f68a348bdf1e3fcf31ec4e",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ปิด flow ยกเลิก PromptPay QR อย่างปลอดภัย\n• D3 v297 ผ่านการตรวจ allowlist และทดสอบบนเครื่องจริง"
+  "changelog": ""
 }
