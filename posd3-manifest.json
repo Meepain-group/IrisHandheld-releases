@@ -1,11 +1,11 @@
 {
-  "versionCode": 279,
-  "versionName": "0.1.279-posD3",
+  "versionCode": 297,
+  "versionName": "0.1.297-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v279/app-posD3-debug.apk",
-  "sha256": "fbcb907f16afb77d4ba384cea01407dc2581fc41d4fb0bac99fd3e8369abc81c",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v297/app-posD3-debug.apk",
+  "sha256": "9d5733eb4328f8e154dd4ca58e1072e9eb7d565d1e670dadcd7c52ead19bab91",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ยอดสุทธิ 0 บาท ออกคิวและพิมพ์งานได้ทันที โดยไม่เลือกช่องทางชำระเงิน"
+  "changelog": "• ปิด flow ยกเลิก PromptPay QR อย่างปลอดภัย\n• D3 v297 ผ่านการตรวจ allowlist และทดสอบบนเครื่องจริง"
 }
