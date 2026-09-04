@@ -1,1 +1,11 @@
-{"versionCode":299,"versionName":"0.1.299-posD3","applicationId":"com.aboutyoucnx.irishandheld.kiosk.d3","apkUrl":"https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v299/app-posD3-debug.apk","sha256":"5f0d2a0b92561108f14bf5a58ab9eee7161c336c49beb8e2c9e4c471c3de1446","minSupportedVersionCode":1,"mandatory":false,"allowDowngrade":false,"changelog":"- Continue QR-only checkout after accepting terms."}
+{
+  "versionCode": 300,
+  "versionName": "0.1.300-posD3",
+  "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v300/app-posD3-debug.apk",
+  "sha256": "915f7abc7db6dec64507f119b7885c0a56cf76ed7d87402c34c5d47416d7669b",
+  "minSupportedVersionCode": 1,
+  "mandatory": false,
+  "allowDowngrade": false,
+  "changelog": "• แก้การสร้างและยกเลิก PromptPay QR บน D3\n• รองรับ self-load ฿0 พร้อมพิมพ์ใบเสร็จและใบงาน\n• รองรับใบแจ้งยอดเงินสดเมื่อพนักงานเปิดกะ"
+}
