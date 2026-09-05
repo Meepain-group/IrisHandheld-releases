@@ -1,11 +1,11 @@
 {
-  "versionCode": 301,
-  "versionName": "0.1.301-staffV3",
+  "versionCode": 302,
+  "versionName": "0.1.302-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v301/app-staffV3-debug.apk",
-  "sha256": "647cdb5e91be539911f753dea2312a84ad66e5d2f85aa5cd02d052b06f915046",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v302/app-staffV3-debug.apk",
+  "sha256": "32ae3c4f6470cd677c31f3ace73f0c4b1513ab8ffb88685ecbd9d8906523b15e",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• StaffV3: persist Cloud-confirmed queue before work-order printing\n• StaffV3 OTA lane only; no D3 kiosk release"
+  "changelog": "StaffV3: persist the authoritative paid D3 cash queue before work-order printing. Kiosk D3 unchanged."
 }
