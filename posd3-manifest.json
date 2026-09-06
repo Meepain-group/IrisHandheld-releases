@@ -1,11 +1,11 @@
 {
-  "versionCode": 301,
-  "versionName": "0.1.301-posD3",
+  "versionCode": 302,
+  "versionName": "0.1.302-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v301/app-posD3-debug.apk",
-  "sha256": "23f0366eaa7c71cc00b03ec84079c3337b6c2e61bdaec2233e581a036121c0b4",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v302/app-posD3-debug.apk",
+  "sha256": "12e26a24c2d816ed26bc5db409352393f0ab34d15276b0ef2edb488546594a7c",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• D3 v301: verified QR create and customer cancel flow.\\n• Paired V2 QR and durable admission released for the field D3."
+  "changelog": "• D3 QR create-outcome recovery and durable telemetry.\n• Field D3 v302 QR admission is prepared before OTA."
 }
