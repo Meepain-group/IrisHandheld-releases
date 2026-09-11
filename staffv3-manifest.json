@@ -1,11 +1,11 @@
 {
-  "versionCode": 310,
-  "versionName": "0.1.310-staffV3",
+  "versionCode": 311,
+  "versionName": "0.1.311-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v310/app-staffV3-debug.apk",
-  "sha256": "18c8a82a05d4fc10d7e22f1873ec1e80b9f924c44b91980c0180f788107fc33d",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v311/app-staffV3-debug.apk",
+  "sha256": "783d15995b0f4551a2d77558558b7cb85d35fc0d8c4184b9cd6debce9a69f618",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "StaffV3: preserve exact per-item FOLD and parent-close gates before work-order close (#529)."
+  "changelog": "• LINE LIFF WDF stays paid but waits for confirmed physical intake before queue creation."
 }
