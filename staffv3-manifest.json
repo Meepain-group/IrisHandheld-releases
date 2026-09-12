@@ -1,11 +1,11 @@
 {
-  "versionCode": 311,
-  "versionName": "0.1.311-staffV3",
+  "versionCode": 315,
+  "versionName": "0.1.315-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v311/app-staffV3-debug.apk",
-  "sha256": "783d15995b0f4551a2d77558558b7cb85d35fc0d8c4184b9cd6debce9a69f618",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v315/app-staffV3-debug.apk",
+  "sha256": "5900db0d306de27e0710cbd3e36373d80e70da140a30a877e57763cbe99371d5",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• LINE LIFF WDF stays paid but waits for confirmed physical intake before queue creation."
+  "changelog": "• WDF work area now separates LINE pickup and completed work; the Processing badge counts active work only."
 }
