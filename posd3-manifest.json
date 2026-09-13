@@ -1,11 +1,11 @@
 {
-  "versionCode": 320,
-  "versionName": "0.1.320-posD3",
+  "versionCode": 321,
+  "versionName": "0.1.321-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v320/app-posD3-debug.apk",
-  "sha256": "6b6b663f76283ddd47c1c62a136a5c45cbf962b9e4bb724da6d75233e027cb55",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v321/app-posD3-debug.apk",
+  "sha256": "aa1e04a682567a1ee65577e48543150193c1caeaeb8fb4a27e89bd9b4a9a62f4",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ปรับ UX/UI D3 สำหรับขนาดเครื่อง ราคา และหมายเลขเครื่องให้ชัดเจน\n• แสดง LINE profile และยอดคงเหลือตามข้อมูลที่มี\n• แก้การเลือกพับผ้าและข้อความคำแนะนำระหว่างซัก/อบ\n• เปิด QR PromptPay สำหรับ D3 v320 ผ่าน exact-device allowlist"
+  "changelog": "• ปรับ UX/UI เลือกขนาดเครื่องและหมายเลขเครื่องให้ชัดเจน\n• แสดง LINE profile และยอดคงเหลือครบถ้วน\n• ปรับ flow พับผ้าและข้อความแนะนำผ้าอยู่ในเครื่อง\n• เพิ่มช่องทางติดต่อ LINE @aboutyou.wash ในใบเสร็จ"
 }
