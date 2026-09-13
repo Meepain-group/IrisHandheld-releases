@@ -7,5 +7,5 @@
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ปรับ UX/UI D3 สำหรับขนาดเครื่อง ราคา และหมายเลขเครื่องให้ชัดเจน\\n• แสดง LINE profile และยอดคงเหลือตามข้อมูลที่มี\\n• แก้การเลือกพับผ้าและข้อความคำแนะนำระหว่างซัก/อบ\\n• เปิด QR PromptPay สำหรับ D3 v320 ผ่าน exact-device allowlist"
+  "changelog": "• ปรับ UX/UI D3 สำหรับขนาดเครื่อง ราคา และหมายเลขเครื่องให้ชัดเจน\n• แสดง LINE profile และยอดคงเหลือตามข้อมูลที่มี\n• แก้การเลือกพับผ้าและข้อความคำแนะนำระหว่างซัก/อบ\n• เปิด QR PromptPay สำหรับ D3 v320 ผ่าน exact-device allowlist"
 }
