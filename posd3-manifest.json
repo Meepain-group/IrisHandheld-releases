@@ -1,11 +1,11 @@
 {
-  "versionCode": 310,
-  "versionName": "0.1.310-posD3",
+  "versionCode": 319,
+  "versionName": "0.1.319-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v310/app-posD3-debug.apk",
-  "sha256": "d18e02cd025f404938fde5c0d744c9c325c57f0302467b60693f63fc74648af4",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v319/app-posD3-debug.apk",
+  "sha256": "7c49aa211e5f6ecdca420d606b83906ba1b2c548f5cb2316aa2f6536491b2c8d",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• D3 v310 admission readiness and safe diagnostic improvements."
+  "changelog": "• ปรับหน้า D3 ให้แสดงรูปและชื่อ LINE แบบเต็ม พร้อมยอด Wallet/Credit เมื่อมียอด\n• ปรับข้อความ ราคา ขนาด และหมายเลขเครื่องให้ชัดเจน\n• แก้การโหลดรูปโปรไฟล์ LINE และรองรับ QR PromptPay บน v319"
 }
