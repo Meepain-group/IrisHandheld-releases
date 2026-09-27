@@ -1,11 +1,11 @@
 {
-  "versionCode": 323,
-  "versionName": "0.1.323-posD3",
+  "versionCode": 352,
+  "versionName": "0.1.352-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v323/app-posD3-debug.apk",
-  "sha256": "674501af2842cbc58c96a8ff10d9278df00f4b7463ae919ef4d7bfbe5ce5ea4f",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v352/app-posD3-debug.apk",
+  "sha256": "bd06245926835c98a9b3b28594431f4a2418d93a9428373c6496d525e3f8e54a",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• กรอกเบอร์แล้วกดถัดไป ระบบจึงตรวจสอบสมาชิก LINE\n• เบอร์ที่ยังไม่ผูก LINE ทำรายการแบบ Walk-in ได้\n• แสดงขนาด ราคา และหมายเลขเครื่องซักชัดเจน\n• ทดสอบสร้าง PromptPay QR บน D3 แล้ว"
+  "changelog": "• ปิดบิล QR ส่งซ้ำอัตโนมัติเมื่อผลไม่แน่ชัด (ลูกค้าจ่ายแล้วได้คิวแน่นอน)\\n• หน้ารอชำระเงินสดแสดง ชำระเงินแล้ว + เลขคิว หลังพนักงานยืนยัน\\n• หยุดถาม Edge ซ้ำสำหรับออร์เดอร์ที่ปิดแล้ว + ส่งออร์เดอร์ QR/0 บาทเข้า Edge หลังพิมพ์\\n• ซ่อนปุ่มเปลี่ยนเป็น QR ชั่วคราว"
 }
