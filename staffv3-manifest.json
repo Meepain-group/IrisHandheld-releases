@@ -1,11 +1,11 @@
 {
-  "versionCode": 321,
-  "versionName": "0.1.321-staffV3",
+  "versionCode": 351,
+  "versionName": "0.1.351-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v321/app-staffV3-debug.apk",
-  "sha256": "5f63e575d3e399e52fc26059ed3c24f346a630824b87c4c826c7c74e0b251eec",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v351/app-staffV3-debug.apk",
+  "sha256": "019d57a3552963f5455e0b3253b1aa39f3381325eb5b72d3089e23bb25158726",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เพิ่มช่องทางติดต่อ LINE @aboutyou.wash ในใบเสร็จ\n• รวมการปรับปรุง StaffV3 จาก canonical v321"
+  "changelog": "• ใบเสร็จ/ใบงานเงินสดออกเร็วขึ้น (#1379)\n• QR ผ่าน Payment Gateway V2 + ใบเสร็จ LINE สำหรับสมาชิก\n• รองรับเลขคิวจากผลชำระ QR"
 }
