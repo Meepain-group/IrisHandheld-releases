@@ -1,11 +1,11 @@
 {
-  "versionCode": 353,
-  "versionName": "0.1.353-staffV3",
+  "versionCode": 355,
+  "versionName": "0.1.355-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v353/app-staffV3-debug.apk",
-  "sha256": "e7770d183d9b74414e751e7bae284ae134adffe50501ab271702bc2831603fdd",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v355/app-staffV3-debug.apk",
+  "sha256": "0ba7b4ae6d99b1da381e34f354c7f3f798ca88a747baef5c96ceea3bdfeedd9a",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• หยุดส่งสถานะซ้ำให้ออเดอร์ที่ Cloud ปิดแล้ว (#631)\n• บันทึกสาเหตุเมื่อผูกเครื่องไม่สำเร็จให้ชัดขึ้น\n• รองรับ posD3 v352"
+  "changelog": "• เปลี่ยนสถานะเป็นยกเลิกตาม Cloud เมื่อ backoffice ยกเลิกออเดอร์ (#636)\n• log ละเอียดเมื่อเรียก Cloud/Edge ไม่สำเร็จ และผลการส่งบันทึกงาน (#637)"
 }
