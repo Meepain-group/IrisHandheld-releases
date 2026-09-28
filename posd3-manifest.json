@@ -1,11 +1,11 @@
 {
-  "versionCode": 352,
-  "versionName": "0.1.352-posD3",
+  "versionCode": 358,
+  "versionName": "0.1.358-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v352/app-posD3-debug.apk",
-  "sha256": "bd06245926835c98a9b3b28594431f4a2418d93a9428373c6496d525e3f8e54a",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v358/app-posD3-debug.apk",
+  "sha256": "90eff9f00a154fc1f31efae3850ac3dcb8d0da2a2777b2d4fb53785a3e3daed7",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ปิดบิล QR ส่งซ้ำอัตโนมัติเมื่อผลไม่แน่ชัด (ลูกค้าจ่ายแล้วได้คิวแน่นอน)\n• หน้ารอชำระเงินสดแสดง ชำระเงินแล้ว + เลขคิว หลังพนักงานยืนยัน\n• หยุดถาม Edge ซ้ำสำหรับออร์เดอร์ที่ปิดแล้ว + ส่งออร์เดอร์ QR/0 บาทเข้า Edge หลังพิมพ์\n• ซ่อนปุ่มเปลี่ยนเป็น QR ชั่วคราว"
+  "changelog": "• ใบแจ้งยอดเงินสดออกเร็วขึ้น และ QR ใหญ่เท่าใบเสร็จ อ่านง่ายขึ้น\n• เพิ่มตะกร้าขนาดเดิมได้ด้วยปุ่ม + พร้อมหน้ายืนยัน หน้ารายการเต็มจอ\n• เตือนทุกครั้งว่าเครื่อง self-load ต้องกำลังทำงานอยู่ + ไอคอน/สีแยกเครื่องซักและอบ\n• ส่งเวลาสร้างออร์เดอร์จาก Cloud ให้ Edge"
 }
