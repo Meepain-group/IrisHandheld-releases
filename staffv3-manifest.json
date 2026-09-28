@@ -1,11 +1,11 @@
 {
-  "versionCode": 355,
-  "versionName": "0.1.355-staffV3",
+  "versionCode": 357,
+  "versionName": "0.1.357-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v355/app-staffV3-debug.apk",
-  "sha256": "0ba7b4ae6d99b1da381e34f354c7f3f798ca88a747baef5c96ceea3bdfeedd9a",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v357/app-staffV3-debug.apk",
+  "sha256": "93767ae9789511bc3d7b3d874c164ebbe41f343a34e846e430c7e507bf206124",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เปลี่ยนสถานะเป็นยกเลิกตาม Cloud เมื่อ backoffice ยกเลิกออเดอร์ (#636)\n• log ละเอียดเมื่อเรียก Cloud/Edge ไม่สำเร็จ และผลการส่งบันทึกงาน (#637)"
+  "changelog": "• งานบนออเดอร์จากตู้ไม่ค้างเมื่อตู้ถือ claim เครื่องอยู่ (#642 #646)\n• ไม่บันทึก ERROR ผิดเมื่อเครื่องซักของตู้ทำงานจบ (#644)"
 }
