@@ -1,11 +1,11 @@
 {
-  "versionCode": 360,
-  "versionName": "0.1.360-staffV3",
+  "versionCode": 362,
+  "versionName": "0.1.362-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v360/app-staffV3-debug.apk",
-  "sha256": "a2afa31b23d8144e53da5459cfa9c52b41bf841fdb9afb812524efae5456c215",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v362/app-staffV3-debug.apk",
+  "sha256": "bb7438e08d436acdc04c4ef9cf9307dccfebd7868ebaee48e739ba5ab89a8421",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เครื่องที่ออฟไลน์เลือกไม่ได้ในหน้าสั่งเครื่องและหน้าบันทึกเครื่อง (ถ้าออฟไลน์พร้อมกันเกินครึ่งร้านจะแค่เตือน) (#653)"
+  "changelog": "• ลดคำขอที่ไม่จำเป็นไป Cloud เมื่อตู้ถือ claim เครื่องอยู่แล้ว (#656)"
 }
