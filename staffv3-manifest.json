@@ -1,11 +1,11 @@
 {
-  "versionCode": 362,
-  "versionName": "0.1.362-staffV3",
+  "versionCode": 364,
+  "versionName": "0.1.364-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v362/app-staffV3-debug.apk",
-  "sha256": "bb7438e08d436acdc04c4ef9cf9307dccfebd7868ebaee48e739ba5ab89a8421",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v364/app-staffV3-debug.apk",
+  "sha256": "53eeb5d64433266ef4fecbf9a2917f2f892c9b9636f3098d237e3ca607906686",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ลดคำขอที่ไม่จำเป็นไป Cloud เมื่อตู้ถือ claim เครื่องอยู่แล้ว (#656)"
+  "changelog": "• รองรับ QR รับเงินสดที่แสดงบนจอตู้ เมื่อสแกนจากจอตู้ ตู้จะพิมพ์ใบเสร็จและใบงานเอง (#659)\n• log บอกชัดเมื่อเครื่องออฟไลน์ (#658)"
 }
