@@ -1,11 +1,11 @@
 {
-  "versionCode": 364,
-  "versionName": "0.1.364-staffV3",
+  "versionCode": 366,
+  "versionName": "0.1.366-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v364/app-staffV3-debug.apk",
-  "sha256": "53eeb5d64433266ef4fecbf9a2917f2f892c9b9636f3098d237e3ca607906686",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v366/app-staffV3-debug.apk",
+  "sha256": "40fc704a3e0ff069b43211e4eaa741dd1a8327fa0c947eecac6070140e6354c2",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• รองรับ QR รับเงินสดที่แสดงบนจอตู้ เมื่อสแกนจากจอตู้ ตู้จะพิมพ์ใบเสร็จและใบงานเอง (#659)\n• log บอกชัดเมื่อเครื่องออฟไลน์ (#658)"
+  "changelog": "• แท็บรอจ่ายเงินสด: badge ตรงกับรายการจริง (#661)\n• หน้างานที่กำลังทำ: แถบ 3 กลุ่มติดบน เรียงตามเลขคิว (#664)\n• สั่งเครื่องโดยตรง: เลือกคิวจาก dropdown เลข 3 หลัก (#666)\n• แตะเลือกเครื่องยังไม่บันทึกจนกดยืนยัน + ปุ่มสั่งเครื่องต่อสำหรับงานที่ค้าง (#667)"
 }
