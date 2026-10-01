@@ -1,11 +1,11 @@
 {
-  "versionCode": 368,
-  "versionName": "0.1.368-staffV3",
+  "versionCode": 369,
+  "versionName": "0.1.369-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v368/app-staffV3-debug.apk",
-  "sha256": "1337557faa96f6d6d083d32c05ce42d0ccba0a070c70717f18380207b9a1fbdc",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v369/app-staffV3-debug.apk",
+  "sha256": "1d02ea10955a979cd4f1dfc150e93494a562ad92e3ff27b28e05576a0950b5c0",
   "minSupportedVersionCode": 1,
-  "mandatory": false,
+  "mandatory": true,
   "allowDowngrade": false,
-  "changelog": "• แนะนำผูกเครื่องให้งานเงินสด/โหลดเองที่ยังไม่ผูก — เด้งเองครั้งเดียวเมื่อไม่ได้ใช้งาน 20 วินาที ไม่เด้งระหว่างรับเงิน แตะแถบด้านบนเพื่อดู (#669)"
+  "changelog": "• แก้แอปเด้งปิดเมื่อเปิดหน้างาน (ย้อนกลับเป็นเวอร์ชันที่ใช้งานได้)"
 }
