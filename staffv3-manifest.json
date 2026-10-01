@@ -1,11 +1,11 @@
 {
-  "versionCode": 366,
-  "versionName": "0.1.366-staffV3",
+  "versionCode": 368,
+  "versionName": "0.1.368-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v366/app-staffV3-debug.apk",
-  "sha256": "40fc704a3e0ff069b43211e4eaa741dd1a8327fa0c947eecac6070140e6354c2",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v368/app-staffV3-debug.apk",
+  "sha256": "1337557faa96f6d6d083d32c05ce42d0ccba0a070c70717f18380207b9a1fbdc",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แท็บรอจ่ายเงินสด: badge ตรงกับรายการจริง (#661)\n• หน้างานที่กำลังทำ: แถบ 3 กลุ่มติดบน เรียงตามเลขคิว (#664)\n• สั่งเครื่องโดยตรง: เลือกคิวจาก dropdown เลข 3 หลัก (#666)\n• แตะเลือกเครื่องยังไม่บันทึกจนกดยืนยัน + ปุ่มสั่งเครื่องต่อสำหรับงานที่ค้าง (#667)"
+  "changelog": "• แนะนำผูกเครื่องให้งานเงินสด/โหลดเองที่ยังไม่ผูก — เด้งเองครั้งเดียวเมื่อไม่ได้ใช้งาน 20 วินาที ไม่เด้งระหว่างรับเงิน แตะแถบด้านบนเพื่อดู (#669)"
 }
