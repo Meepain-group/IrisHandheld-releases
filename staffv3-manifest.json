@@ -1,11 +1,11 @@
 {
-  "versionCode": 370,
-  "versionName": "0.1.370-staffV3",
+  "versionCode": 372,
+  "versionName": "0.1.372-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v370/app-staffV3-debug.apk",
-  "sha256": "2ef34cba719fa8b2253e21821a47b2636f4422e92a3dc9562620c43050671823",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v372/app-staffV3-debug.apk",
+  "sha256": "9f0dffe96b5c364640f5508ae66d00f95abf02207995f7fd72a2aa90755602fc",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แนะนำผูกเครื่องให้งานเงินสด/โหลดเอง เด้งเองครั้งเดียวเมื่อไม่ได้ใช้งาน ไม่เด้งระหว่างรับเงิน\n• งาน QR: แสดงเฉพาะเครื่องที่ว่าง\n• แถบ sync ค้างของออเดอร์ที่ปิดแล้วหายเอง"
+  "changelog": "• ปิดงาน Flex ตัดยอดจริงและคืนส่วนที่เหลือให้ลูกค้า\n• สั่งเครื่องไม่สำเร็จไม่ค้าง กดสั่งใหม่ได้ และปิดงานไม่ได้ถ้ายังไม่เคยสั่งเครื่อง\n• ผลการสั่งเครื่องไม่หายเมื่อออกจากหน้า"
 }
