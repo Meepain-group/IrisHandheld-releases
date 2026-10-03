@@ -1,11 +1,11 @@
 {
-  "versionCode": 376,
-  "versionName": "0.1.376-staffV3",
+  "versionCode": 378,
+  "versionName": "0.1.378-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v376/app-staffV3-debug.apk",
-  "sha256": "96b96e71adc687f28eabbad7b931842d43c39688eb2b0bd9c68cd417b2397a5c",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v378/app-staffV3-debug.apk",
+  "sha256": "62b0a15648e7180e4a85b05cd148b3bc5212203d56527c4af220ea682b28653c",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้สั่งเครื่องไม่ได้เมื่อออเดอร์มีซักหลายชิ้น\n• เดินเครื่องให้บิลนี้ ใช้ได้แล้ว\n• ถ้าระบบติด สั่งเครื่องแบบไม่เก็บเงินได้ (ออเดอร์จ่ายแล้ว เครื่องว่าง)"
+  "changelog": "• แนะนำผูกเครื่องเด้งได้จริงแล้ว หน้าตาใหม่ แตะเลขคิวครั้งเดียวจบ\n• รอบที่กดไม่สนใจแล้ว จะไม่ถูกเสนออีก"
 }
