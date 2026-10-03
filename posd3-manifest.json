@@ -1,11 +1,11 @@
 {
-  "versionCode": 365,
-  "versionName": "0.1.365-posD3",
+  "versionCode": 373,
+  "versionName": "0.1.373-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v365/app-posD3-debug.apk",
-  "sha256": "afe390e2f2beb5a74b5c1e4ebffdc5dbcab6320af064897cc399ddd6389f2f7a",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v373/app-posD3-debug.apk",
+  "sha256": "fb8085f811316f79b31179a9584d13b3a55e8c6828ffcbbaf38bc64f58d27a16",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• หน้าตาตู้แบบใหม่ทั้งระบบ\n• เมนูด่วน: การใช้งานครั้งล่าสุด / การใช้งานที่ใช้ประจำ\n• แม่บ้านรับเงินสดที่ตู้: กรอก PIN หรือสแกน QR ด้วยเครื่องแม่บ้าน"
+  "changelog": "• ตู้แสดงสถานะกำลังโหลดเมนูด่วนหลังกรอกเบอร์\n• สร้าง QR ชำระเงินลองใหม่อัตโนมัติเมื่อระบบยังไม่พร้อม\n• เครื่องพิมพ์ลองพิมพ์ซ้ำเมื่อพิมพ์ไม่ออก\n• แก้รายการที่ถูกยกเลิกแล้วค้างวนซ้ำ"
 }
