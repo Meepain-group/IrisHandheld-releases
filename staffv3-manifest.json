@@ -1,11 +1,11 @@
 {
-  "versionCode": 374,
-  "versionName": "0.1.374-staffV3",
+  "versionCode": 376,
+  "versionName": "0.1.376-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v374/app-staffV3-debug.apk",
-  "sha256": "8bcf539602e00224f062592e69f0a4fa647ff70cae71cece09a3c11e3b2df13d",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v376/app-staffV3-debug.apk",
+  "sha256": "96b96e71adc687f28eabbad7b931842d43c39688eb2b0bd9c68cd417b2397a5c",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ปิดกะได้ ไม่ติดงานที่แม่บ้านปิดงานไปแล้ว\n• กดต่อเวลาแล้วส่งขึ้นระบบทันที ตู้รับเงินสดต่อได้ตามเวลาที่ต่อ"
+  "changelog": "• แก้สั่งเครื่องไม่ได้เมื่อออเดอร์มีซักหลายชิ้น\n• เดินเครื่องให้บิลนี้ ใช้ได้แล้ว\n• ถ้าระบบติด สั่งเครื่องแบบไม่เก็บเงินได้ (ออเดอร์จ่ายแล้ว เครื่องว่าง)"
 }
