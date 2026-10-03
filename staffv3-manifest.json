@@ -1,11 +1,11 @@
 {
-  "versionCode": 372,
-  "versionName": "0.1.372-staffV3",
+  "versionCode": 374,
+  "versionName": "0.1.374-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v372/app-staffV3-debug.apk",
-  "sha256": "9f0dffe96b5c364640f5508ae66d00f95abf02207995f7fd72a2aa90755602fc",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v374/app-staffV3-debug.apk",
+  "sha256": "8bcf539602e00224f062592e69f0a4fa647ff70cae71cece09a3c11e3b2df13d",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ปิดงาน Flex ตัดยอดจริงและคืนส่วนที่เหลือให้ลูกค้า\n• สั่งเครื่องไม่สำเร็จไม่ค้าง กดสั่งใหม่ได้ และปิดงานไม่ได้ถ้ายังไม่เคยสั่งเครื่อง\n• ผลการสั่งเครื่องไม่หายเมื่อออกจากหน้า"
+  "changelog": "• ปิดกะได้ ไม่ติดงานที่แม่บ้านปิดงานไปแล้ว\n• กดต่อเวลาแล้วส่งขึ้นระบบทันที ตู้รับเงินสดต่อได้ตามเวลาที่ต่อ"
 }
