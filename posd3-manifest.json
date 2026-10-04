@@ -1,11 +1,11 @@
 {
-  "versionCode": 379,
-  "versionName": "0.1.379-posD3",
+  "versionCode": 383,
+  "versionName": "0.1.383-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v379/app-posD3-debug.apk",
-  "sha256": "40dfe39a10b9e1ce4c438a6b9bfbcf25c3817fbde139bd4b58840829f6af8cd8",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v383/app-posD3-debug.apk",
+  "sha256": "14dfcda79f2f704a944416f0b116735e3fad14b689a3a525cc89e93d2b6ecc88",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ใบงานแยกป้ายตามตะกร้าเมื่อฝากผ้า (ตะกร้า i/N + ขนาดเครื่อง)\n• สมาชิก LINE ได้รับใบเสร็จอิเล็กทรอนิกส์ผ่าน LINE แทนกระดาษ\n• ปรับข้อความบนหน้าจอให้อ่านง่ายขึ้น"
+  "changelog": "• เช็กกระดาษก่อนเริ่มรายการและก่อนชำระ แจ้งให้เรียกพนักงานเมื่อกระดาษหมด\n• แก้กรณีระบบจองเครื่องซ้อนจนลูกค้าชำระต่อไม่ได้\n• ปรับข้อความบนหน้าจอให้อ่านง่ายขึ้น"
 }
