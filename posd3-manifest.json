@@ -1,11 +1,11 @@
 {
-  "versionCode": 373,
-  "versionName": "0.1.373-posD3",
+  "versionCode": 379,
+  "versionName": "0.1.379-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v373/app-posD3-debug.apk",
-  "sha256": "fb8085f811316f79b31179a9584d13b3a55e8c6828ffcbbaf38bc64f58d27a16",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v379/app-posD3-debug.apk",
+  "sha256": "40dfe39a10b9e1ce4c438a6b9bfbcf25c3817fbde139bd4b58840829f6af8cd8",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ตู้แสดงสถานะกำลังโหลดเมนูด่วนหลังกรอกเบอร์\n• สร้าง QR ชำระเงินลองใหม่อัตโนมัติเมื่อระบบยังไม่พร้อม\n• เครื่องพิมพ์ลองพิมพ์ซ้ำเมื่อพิมพ์ไม่ออก\n• แก้รายการที่ถูกยกเลิกแล้วค้างวนซ้ำ"
+  "changelog": "• ใบงานแยกป้ายตามตะกร้าเมื่อฝากผ้า (ตะกร้า i/N + ขนาดเครื่อง)\n• สมาชิก LINE ได้รับใบเสร็จอิเล็กทรอนิกส์ผ่าน LINE แทนกระดาษ\n• ปรับข้อความบนหน้าจอให้อ่านง่ายขึ้น"
 }
