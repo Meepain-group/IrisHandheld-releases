@@ -1,11 +1,11 @@
 {
-  "versionCode": 380,
-  "versionName": "0.1.380-staffV3",
+  "versionCode": 382,
+  "versionName": "0.1.382-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v380/app-staffV3-debug.apk",
-  "sha256": "223dee0c14c5f5b171087f290b5bec48434c7e4391914c2ef5b018139586374e",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v382/app-staffV3-debug.apk",
+  "sha256": "9917670df4d9fa19ed0a317f49478edb7e167818eba6185cca5d3571cdcedf75",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ลูกค้าสมาชิกได้ใบเสร็จทาง LINE แล้ว จะขึ้นข้อความบอกแม่บ้าน และไม่พิมพ์ใบเสร็จกระดาษ"
+  "changelog": "• พิมพ์ใบงานซ้ำจากหน้ารายละเอียดออเดอร์ได้ทุกออเดอร์ที่จ่ายแล้ว (รวมออเดอร์จากตู้ที่จ่าย QR)"
 }
