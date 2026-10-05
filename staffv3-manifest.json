@@ -1,11 +1,11 @@
 {
-  "versionCode": 386,
-  "versionName": "0.1.386-staffV3",
+  "versionCode": 388,
+  "versionName": "0.1.388-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v386/app-staffV3-debug.apk",
-  "sha256": "88f30865aba72302075baf2f6f52769580d604bc9a29e11f93b9fa670a48e007",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v388/app-staffV3-debug.apk",
+  "sha256": "d6db6345006d1e20cdfad355b491c865503af1c487135295bfe7a48629a5a1fe",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แจ้งเตือน \"ระบบเครื่องไม่ตอบ\" ไม่ขึ้นผิดตอนเครื่องเพิ่งเปิดจอจากการพัก"
+  "changelog": "• เครื่องไม่หลุดเน็ตตอนพักหน้าจอ: ขออนุญาตทำงานเบื้องหลัง (กด \"อนุญาต\" ครั้งเดียว)"
 }
