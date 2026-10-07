@@ -1,11 +1,11 @@
 {
-  "versionCode": 383,
-  "versionName": "0.1.383-posD3",
+  "versionCode": 391,
+  "versionName": "0.1.391-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v383/app-posD3-debug.apk",
-  "sha256": "14dfcda79f2f704a944416f0b116735e3fad14b689a3a525cc89e93d2b6ecc88",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v391/app-posD3-debug.apk",
+  "sha256": "eaa44265989d4fbabce3b91bed2a062344855d2ea10d43a3238adbfc36f1800f",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เช็กกระดาษก่อนเริ่มรายการและก่อนชำระ แจ้งให้เรียกพนักงานเมื่อกระดาษหมด\n• แก้กรณีระบบจองเครื่องซ้อนจนลูกค้าชำระต่อไม่ได้\n• ปรับข้อความบนหน้าจอให้อ่านง่ายขึ้น"
+  "changelog": "• ใบแปะตะกร้าแบบย่อ บอกขนาดเครื่องซัก เครื่องอบ และอบรวม\n• สมาชิก LINE รับใบเสร็จทาง LINE แทนกระดาษ\n• ชวนเพิ่มเพื่อน LINE พร้อม QR บนหน้าจอและท้ายใบเสร็จ"
 }
