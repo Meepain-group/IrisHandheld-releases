@@ -1,11 +1,11 @@
 {
-  "versionCode": 390,
-  "versionName": "0.1.390-staffV3",
+  "versionCode": 392,
+  "versionName": "0.1.392-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v390/app-staffV3-debug.apk",
-  "sha256": "e6c10d4535b4de2e78761e571c76d980bb08daac95df75b1218e7db52fad2f8e",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v392/app-staffV3-debug.apk",
+  "sha256": "824aff46b8c7a41dc3571f4939b8718169adeca6d712624d55fb9b62aa2c3e5f",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• จ่ายด้วยเครดิต: แจ้งเตือนเป็นภาษาไทย และกันเก็บเงินซ้ำ"
+  "changelog": "• ปิดงานได้เมื่อพับผ้าไม่ทัน (เลือกเหตุผล + ใส่ PIN)"
 }
