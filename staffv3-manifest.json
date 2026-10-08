@@ -1,11 +1,11 @@
 {
-  "versionCode": 396,
-  "versionName": "0.1.396-staffV3",
+  "versionCode": 398,
+  "versionName": "0.1.398-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v396/app-staffV3-debug.apk",
-  "sha256": "0549487b069b98c524f248ef0fa517063051d7843be0463247dc8e8635ef6435",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v398/app-staffV3-debug.apk",
+  "sha256": "f3f3f2451471b7ba60406c9cb78f8f216ef8ac2f09751efb8279a3b1a0c0ecdf",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ผูกรอบเครื่องที่ลูกค้าหยอดเหรียญเองได้ (แสดงทุกเครื่อง)\n• แก้การส่งสถานะจ่ายเงินซ้ำ"
+  "changelog": "• จ่ายด้วยเครดิต: ส่งใบเสร็จ LINE แทนกระดาษเมื่อส่งสำเร็จ"
 }
