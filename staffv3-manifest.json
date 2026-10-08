@@ -1,11 +1,11 @@
 {
-  "versionCode": 394,
-  "versionName": "0.1.394-staffV3",
+  "versionCode": 396,
+  "versionName": "0.1.396-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v394/app-staffV3-debug.apk",
-  "sha256": "e72dc2b3c0bf81afa17019738c943a652627c8ed17ac7617293db85be79e2f7e",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v396/app-staffV3-debug.apk",
+  "sha256": "0549487b069b98c524f248ef0fa517063051d7843be0463247dc8e8635ef6435",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ใบเสร็จมีข้อความชวนสมัครสมาชิก LINE\n• ผูกเครื่องชนกัน ระบบจัดการให้เอง ไม่ต้องกดซ้ำ"
+  "changelog": "• ผูกรอบเครื่องที่ลูกค้าหยอดเหรียญเองได้ (แสดงทุกเครื่อง)\n• แก้การส่งสถานะจ่ายเงินซ้ำ"
 }
