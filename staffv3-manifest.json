@@ -1,11 +1,11 @@
 {
-  "versionCode": 400,
-  "versionName": "0.1.400-staffV3",
+  "versionCode": 402,
+  "versionName": "0.1.402-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v400/app-staffV3-debug.apk",
-  "sha256": "50e39853623b47be2218f89d544d7bb9c010e95c716769f384bcf064ec68ed15",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v402/app-staffV3-debug.apk",
+  "sha256": "a7b79f973f81803353646e274d7c27e55bc507f8b0671eab244a944b75c3b2c9",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เครื่องหยุดกลางรอบ (เช่นไฟดับ): ไม่แจ้งว่าเสร็จ และเตือนให้เดินซ้ำ"
+  "changelog": "• พิมพ์ใบงานซ้ำได้สำหรับออเดอร์ตู้แบบ 0 บาท"
 }
