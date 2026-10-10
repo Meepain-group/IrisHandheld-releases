@@ -1,11 +1,11 @@
 {
-  "versionCode": 402,
-  "versionName": "0.1.402-staffV3",
+  "versionCode": 404,
+  "versionName": "0.1.404-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v402/app-staffV3-debug.apk",
-  "sha256": "a7b79f973f81803353646e274d7c27e55bc507f8b0671eab244a944b75c3b2c9",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v404/app-staffV3-debug.apk",
+  "sha256": "27f24e7d57ed77457f181923470e50788792946126ca2d6b01dbc81ee3dd9549",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• พิมพ์ใบงานซ้ำได้สำหรับออเดอร์ตู้แบบ 0 บาท"
+  "changelog": "• Flex: ถามพับผ้าเมื่อมีเครื่องอบ, แสดงวงเงินบนการ์ดคิว, พิมพ์ใบงานหลังเปิดงาน"
 }
