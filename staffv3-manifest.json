@@ -1,11 +1,11 @@
 {
-  "versionCode": 404,
-  "versionName": "0.1.404-staffV3",
+  "versionCode": 406,
+  "versionName": "0.1.406-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v404/app-staffV3-debug.apk",
-  "sha256": "27f24e7d57ed77457f181923470e50788792946126ca2d6b01dbc81ee3dd9549",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v406/app-staffV3-debug.apk",
+  "sha256": "2fd4b009faddc1d71c0baf5fd5c8648cb10ae1a2448fc528ccedbe3fb1816bd3",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• Flex: ถามพับผ้าเมื่อมีเครื่องอบ, แสดงวงเงินบนการ์ดคิว, พิมพ์ใบงานหลังเปิดงาน"
+  "changelog": "• Flex: เพิ่ม/ลบรายการต้องใส่ PIN แม่บ้าน, ปิดงานแสดงยอดเก็บ/คืนก่อนยืนยัน (ปิดไม่ครบต้องใส่ PIN + เหตุผล), เอาปุ่มยกเลิกวงเงินออก"
 }
