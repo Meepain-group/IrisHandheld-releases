@@ -1,11 +1,11 @@
 {
-  "versionCode": 406,
-  "versionName": "0.1.406-staffV3",
+  "versionCode": 408,
+  "versionName": "0.1.408-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v406/app-staffV3-debug.apk",
-  "sha256": "2fd4b009faddc1d71c0baf5fd5c8648cb10ae1a2448fc528ccedbe3fb1816bd3",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v408/app-staffV3-debug.apk",
+  "sha256": "f5efc98e3c85f8a54dd7d8dc238aed9c76d0cf12e9d47610969fb8c362f384bf",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• Flex: เพิ่ม/ลบรายการต้องใส่ PIN แม่บ้าน, ปิดงานแสดงยอดเก็บ/คืนก่อนยืนยัน (ปิดไม่ครบต้องใส่ PIN + เหตุผล), เอาปุ่มยกเลิกวงเงินออก"
+  "changelog": "• เตรียมเมนู Service mode และเพิ่มเวลาเครื่องอบ (ยังไม่เปิดใช้)"
 }
