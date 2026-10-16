@@ -1,11 +1,11 @@
 {
-  "versionCode": 410,
-  "versionName": "0.1.410-staffV3",
+  "versionCode": 412,
+  "versionName": "0.1.412-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v410/app-staffV3-debug.apk",
-  "sha256": "cf46efbe5e5136bcafee5c5630d35a17961f786c56c9f906f8127607854b87a9",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v412/app-staffV3-debug.apk",
+  "sha256": "419b97a040203a27f33376b2722f0c94025e30615ad664691203a890244f6525",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เตือนเมื่อเครื่องจ่ายเงินแล้วแต่ยังไม่มีใครกด Start และกันไม่ให้บิลอื่นใช้เครื่องนั้น\n• เพิ่มปุ่มล้างเงินค้างในเครื่อง (ต้องใส่ PIN)"
+  "changelog": "• แก้แถบ \"ใช่คิวไหน\" ที่กดไม่ได้ หลังหน้าต่างผูกรอบหมดเวลา\n• สั่งเครื่องโดยตรงไม่สำเร็จ บอกเหตุผลเป็นภาษาไทย"
 }
