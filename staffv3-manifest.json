@@ -1,11 +1,11 @@
 {
-  "versionCode": 408,
-  "versionName": "0.1.408-staffV3",
+  "versionCode": 410,
+  "versionName": "0.1.410-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v408/app-staffV3-debug.apk",
-  "sha256": "f5efc98e3c85f8a54dd7d8dc238aed9c76d0cf12e9d47610969fb8c362f384bf",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v410/app-staffV3-debug.apk",
+  "sha256": "cf46efbe5e5136bcafee5c5630d35a17961f786c56c9f906f8127607854b87a9",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เตรียมเมนู Service mode และเพิ่มเวลาเครื่องอบ (ยังไม่เปิดใช้)"
+  "changelog": "• เตือนเมื่อเครื่องจ่ายเงินแล้วแต่ยังไม่มีใครกด Start และกันไม่ให้บิลอื่นใช้เครื่องนั้น\n• เพิ่มปุ่มล้างเงินค้างในเครื่อง (ต้องใส่ PIN)"
 }
