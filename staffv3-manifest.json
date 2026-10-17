@@ -1,11 +1,11 @@
 {
-  "versionCode": 412,
-  "versionName": "0.1.412-staffV3",
+  "versionCode": 415,
+  "versionName": "0.1.415-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v412/app-staffV3-debug.apk",
-  "sha256": "419b97a040203a27f33376b2722f0c94025e30615ad664691203a890244f6525",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v415/app-staffV3-debug.apk",
+  "sha256": "bad887956c08a6d3b42d24a5fbab44da1a6e289de40c62ec4424362f2b520282",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้แถบ \"ใช่คิวไหน\" ที่กดไม่ได้ หลังหน้าต่างผูกรอบหมดเวลา\n• สั่งเครื่องโดยตรงไม่สำเร็จ บอกเหตุผลเป็นภาษาไทย"
+  "changelog": "• สั่งงานเครื่องโดยตรง ต้องเลือกเหตุผลและใส่ PIN ประจำตัว\n• Service mode ซักซ้ำ/อบซ้ำ/เกินบิล ผูกกับบิลได้\n• ต่อเวลาอบเลือกได้ครั้งละ ฿10 สูงสุด 3 ครั้ง\n• ถามยืนยันก่อนปิดงาน ถ้ามีรายการที่จ่ายแล้วแต่เครื่องยังไม่เริ่ม\n• ผูกรอบเครื่องได้เฉพาะบิลที่ชำระแล้ว"
 }
