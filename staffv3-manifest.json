@@ -1,11 +1,11 @@
 {
-  "versionCode": 417,
-  "versionName": "0.1.417-staffV3",
+  "versionCode": 419,
+  "versionName": "0.1.419-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v417/app-staffV3-debug.apk",
-  "sha256": "21e09e849055bddaa25e7b487d34ffef8b37ae6f70be76b8c4bfd89e9c424b7e",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v419/app-staffV3-debug.apk",
+  "sha256": "9cc88de832496a9214b826363e4485683325265b548bfdb298ac576bd4e4a7db",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แนะนำผูกรอบเครื่องรวมเป็น popup เดียว พร้อมเสียงแจ้งเตือน\n• หน้ารายการงานกระชับขึ้น: แถบกรองงาน และปุ่มค้นหาด้านบน\n• หน้ารายละเอียดบิล: ปุ่มพิมพ์แถวเดียว ซ่อนใบเสร็จเมื่อเริ่มงานแล้ว\n• การ์ดลูกค้าแสดงวิธีชำระ ยอดที่ชำระ และป้าย LINE"
+  "changelog": "• บิล Flex แสดงวงเงินถูกต้องในการแจ้งเตือนและการ์ดลูกค้า\n• ใส่ PIN แล้วแสดง กำลังตรวจสอบ… ไม่ต้องใส่ซ้ำ เน็ตหลุดกดลองใหม่ได้โดยไม่ต้องพิมพ์ PIN ใหม่\n• ระบบขายสินค้า (เงินสด) พร้อมรูปสินค้า — ปุ่มจะแสดงเมื่อหลังบ้านลงทะเบียนสินค้าแล้ว"
 }
