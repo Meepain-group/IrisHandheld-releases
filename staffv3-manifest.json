@@ -1,11 +1,11 @@
 {
-  "versionCode": 415,
-  "versionName": "0.1.415-staffV3",
+  "versionCode": 417,
+  "versionName": "0.1.417-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v415/app-staffV3-debug.apk",
-  "sha256": "bad887956c08a6d3b42d24a5fbab44da1a6e289de40c62ec4424362f2b520282",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v417/app-staffV3-debug.apk",
+  "sha256": "21e09e849055bddaa25e7b487d34ffef8b37ae6f70be76b8c4bfd89e9c424b7e",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• สั่งงานเครื่องโดยตรง ต้องเลือกเหตุผลและใส่ PIN ประจำตัว\n• Service mode ซักซ้ำ/อบซ้ำ/เกินบิล ผูกกับบิลได้\n• ต่อเวลาอบเลือกได้ครั้งละ ฿10 สูงสุด 3 ครั้ง\n• ถามยืนยันก่อนปิดงาน ถ้ามีรายการที่จ่ายแล้วแต่เครื่องยังไม่เริ่ม\n• ผูกรอบเครื่องได้เฉพาะบิลที่ชำระแล้ว"
+  "changelog": "• แนะนำผูกรอบเครื่องรวมเป็น popup เดียว พร้อมเสียงแจ้งเตือน\n• หน้ารายการงานกระชับขึ้น: แถบกรองงาน และปุ่มค้นหาด้านบน\n• หน้ารายละเอียดบิล: ปุ่มพิมพ์แถวเดียว ซ่อนใบเสร็จเมื่อเริ่มงานแล้ว\n• การ์ดลูกค้าแสดงวิธีชำระ ยอดที่ชำระ และป้าย LINE"
 }
