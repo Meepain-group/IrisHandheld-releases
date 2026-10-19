@@ -1,11 +1,11 @@
 {
-  "versionCode": 425,
-  "versionName": "0.1.425-posD3",
+  "versionCode": 426,
+  "versionName": "0.1.426-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v425/app-posD3-debug.apk",
-  "sha256": "6a44d6e0c1fca806c42dd6eb84bd4e75e3109720632e2c21d0d364ed78923ad3",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v426/app-posD3-debug.apk",
+  "sha256": "bc8c9f76e621609ce0f835d3f013d6081c14fb4e3abdb77a2c55d6bc8d96ecfd",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เครื่องพิมพ์ใบเสร็จขัดข้อง: หน้าจอแสดงเลขคิว + QR เก็บใบเสร็จ ค้างไว้ 3 นาที\n• ใส่กระดาษกลับแล้ว ใบงานแม่บ้านพิมพ์ออกเองอัตโนมัติ"
+  "changelog": "• ลดการตรวจซ้ำเบื้องหลังที่ไม่จำเป็น ทำงานเบาลง"
 }
