@@ -1,11 +1,11 @@
 {
-  "versionCode": 427,
-  "versionName": "0.1.427-staffV3",
+  "versionCode": 428,
+  "versionName": "0.1.428-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v427/app-staffV3-debug.apk",
-  "sha256": "ddb7587f0d0458c2fd103fa4ed690f2fa5061dfcd95f7889d665aaa72cd73aa5",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v428/app-staffV3-debug.apk",
+  "sha256": "57ebe92371e7c2edccd101f811bd0263e16113a87603578c2505a6ba549e45e9",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ขายสินค้า: เลือกสินค้าจากรูปได้โดยไม่ต้องสแกน, QR ขึ้นเร็วขึ้น, ยกเลิกชำระแล้วยกเลิกรายการทันที\n• สั่งเครื่องโดยตรง: แตะเพื่อเปิด และบอกเหตุผลเมื่อปุ่มยืนยันกดไม่ได้\n• ผูกการทำงานเครื่องเร็วขึ้น และลดการโหลดหน้าสรุปซ้ำ"
+  "changelog": "• แก้หน้าขายสินค้าปิดตัวเองทันทีที่เปิด"
 }
