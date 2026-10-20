@@ -1,11 +1,11 @@
 {
-  "versionCode": 426,
-  "versionName": "0.1.426-posD3",
+  "versionCode": 430,
+  "versionName": "0.1.430-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v426/app-posD3-debug.apk",
-  "sha256": "bc8c9f76e621609ce0f835d3f013d6081c14fb4e3abdb77a2c55d6bc8d96ecfd",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v430/app-posD3-debug.apk",
+  "sha256": "1eb3f07e7e7ffe1139a582c95ac900af09ad2b5543832ce76bbfce12f914bb33",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ลดการตรวจซ้ำเบื้องหลังที่ไม่จำเป็น ทำงานเบาลง"
+  "changelog": "• ปรับปรุงการทำงานเบื้องหลังและการแจ้งเตือนกระดาษ"
 }
