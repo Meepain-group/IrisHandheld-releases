@@ -1,11 +1,11 @@
 {
-  "versionCode": 431,
-  "versionName": "0.1.431-posD3",
+  "versionCode": 432,
+  "versionName": "0.1.432-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v431/app-posD3-debug.apk",
-  "sha256": "33d77b4b866f65e70d1f6c747add310759ba285ab77bd86bef9aab5d1056709a",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v432/app-posD3-debug.apk",
+  "sha256": "99a1fd10047411b97bc656526edc9019a65b18c7b55954818dbd5dd6b0933373",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• หน้าชำระเงินแบบใหม่ เข้าใจง่ายขึ้น\n• สมาชิก LINE ใช้เครดิต/วอลเล็ตชำระได้ (เปิดทีละขั้น)"
+  "changelog": "• ปรับปรุงการบันทึกการพิมพ์ซ้ำ"
 }
