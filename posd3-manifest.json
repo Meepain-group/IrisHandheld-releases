@@ -1,11 +1,11 @@
 {
-  "versionCode": 432,
-  "versionName": "0.1.432-posD3",
+  "versionCode": 433,
+  "versionName": "0.1.433-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v432/app-posD3-debug.apk",
-  "sha256": "99a1fd10047411b97bc656526edc9019a65b18c7b55954818dbd5dd6b0933373",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v433/app-posD3-debug.apk",
+  "sha256": "47d5755e786e9a217d354d14b9179d9c3d7fc5e364c6a8c7962fcc434711c1a6",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ปรับปรุงการบันทึกการพิมพ์ซ้ำ"
+  "changelog": "• เครื่องที่อยู่ในรายการอื่นแล้วจะเลือกซ้ำไม่ได้"
 }
