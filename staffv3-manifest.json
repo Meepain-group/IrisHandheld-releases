@@ -1,11 +1,11 @@
 {
-  "versionCode": 428,
-  "versionName": "0.1.428-staffV3",
+  "versionCode": 434,
+  "versionName": "0.1.434-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v428/app-staffV3-debug.apk",
-  "sha256": "57ebe92371e7c2edccd101f811bd0263e16113a87603578c2505a6ba549e45e9",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v434/app-staffV3-debug.apk",
+  "sha256": "5e3c62f813e021499ba87f4e86a5d6434752d249c69f16a1bb155453f950a8ae",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้หน้าขายสินค้าปิดตัวเองทันทีที่เปิด"
+  "changelog": "• หน้าชำระเงินขายสินค้าแบบเดียวกับ WDF\n• เพิ่มเวลาอบ (ร้านออกให้) เลือกเป็นนาที ต้องระบุเหตุผล และแจ้งผลสำเร็จ/ไม่สำเร็จ\n• ใบงานพิมพ์หมายเหตุลูกค้า\n• Service mode เลือกบิลได้แล้ว"
 }
