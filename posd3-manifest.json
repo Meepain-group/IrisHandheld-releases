@@ -1,11 +1,11 @@
 {
-  "versionCode": 433,
-  "versionName": "0.1.433-posD3",
+  "versionCode": 435,
+  "versionName": "0.1.435-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v433/app-posD3-debug.apk",
-  "sha256": "47d5755e786e9a217d354d14b9179d9c3d7fc5e364c6a8c7962fcc434711c1a6",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v435/app-posD3-debug.apk",
+  "sha256": "fc61f9b8bb452699feb6e85369c817bc400358b3bc834c41b45919f5bef5c781",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เครื่องที่อยู่ในรายการอื่นแล้วจะเลือกซ้ำไม่ได้"
+  "changelog": "• แก้: ยกเลิก QR ที่ยังไม่จ่ายแล้วเลือกเครื่องที่ผ้าอยู่ได้อีกครั้ง"
 }
