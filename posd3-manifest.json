@@ -1,11 +1,11 @@
 {
-  "versionCode": 435,
-  "versionName": "0.1.435-posD3",
+  "versionCode": 436,
+  "versionName": "0.1.436-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v435/app-posD3-debug.apk",
-  "sha256": "fc61f9b8bb452699feb6e85369c817bc400358b3bc834c41b45919f5bef5c781",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v436/app-posD3-debug.apk",
+  "sha256": "790f3f5b2821eeadf654240ceecdb4f38c3a85a0f2ee2519bff0254fb86d9972",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้: ยกเลิก QR ที่ยังไม่จ่ายแล้วเลือกเครื่องที่ผ้าอยู่ได้อีกครั้ง"
+  "changelog": "• รองรับการขายน้ำยาในตะกร้าฝากซัก (เปิดใช้จาก backoffice)"
 }
