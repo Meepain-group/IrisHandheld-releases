@@ -1,11 +1,11 @@
 {
-  "versionCode": 436,
-  "versionName": "0.1.436-posD3",
+  "versionCode": 437,
+  "versionName": "0.1.437-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v436/app-posD3-debug.apk",
-  "sha256": "790f3f5b2821eeadf654240ceecdb4f38c3a85a0f2ee2519bff0254fb86d9972",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v437/app-posD3-debug.apk",
+  "sha256": "7f125065c40eef2757ba615b6d09eb781d90f1ad1997aaf49082e9332be83ec3",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• รองรับการขายน้ำยาในตะกร้าฝากซัก (เปิดใช้จาก backoffice)"
+  "changelog": "• บิล ฿0 รองรับการยืนยันโดยพนักงาน (เปิดใช้จาก backoffice)"
 }
