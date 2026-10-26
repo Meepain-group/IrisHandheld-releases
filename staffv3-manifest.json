@@ -1,11 +1,11 @@
 {
-  "versionCode": 440,
-  "versionName": "0.1.440-staffV3",
+  "versionCode": 443,
+  "versionName": "0.1.443-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v440/app-staffV3-debug.apk",
-  "sha256": "e4ea7356504a2f62ee1183e48a56f6cc5a2f50c1c8f38f127bea7015e4673ca6",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v443/app-staffV3-debug.apk",
+  "sha256": "5c9ab1c2854a08a31f0f507a04291e5d831de18f1de85dda25fb91e1d7857e37",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• บิลที่ยกเลิกหายจากแท็บรอชำระเงินทันที\n• แท็บยกเลิกแสดงสาเหตุที่ยกเลิก แทนป้ายค้างจ่าย"
+  "changelog": "• ใบงานภาษาไทย และชื่อสาขาจริงบนใบงาน/ใบเสร็จ\n• พิมพ์ใบงานซ้ำของบิลที่ยังไม่จ่าย แสดงว่า ยังไม่ชำระ"
 }
