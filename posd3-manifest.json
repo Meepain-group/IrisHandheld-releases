@@ -1,11 +1,11 @@
 {
-  "versionCode": 439,
-  "versionName": "0.1.439-posD3",
+  "versionCode": 441,
+  "versionName": "0.1.441-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v439/app-posD3-debug.apk",
-  "sha256": "a478d84fe5b37afdc5d9240ee8ab7927d09d21afb3fd4b7d97a22b86185d37d2",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v441/app-posD3-debug.apk",
+  "sha256": "13151cc684db243a4feaf7864ed5be7edc3609c73e817c67cff01021af87b8b2",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้: บิลที่พนักงานยกเลิกจะปล่อยเครื่องให้เลือกได้ทันที"
+  "changelog": "• แก้: บิล ฿0 ไม่ค้างหน้าจอ"
 }
