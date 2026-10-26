@@ -1,11 +1,11 @@
 {
-  "versionCode": 438,
-  "versionName": "0.1.438-staffV3",
+  "versionCode": 440,
+  "versionName": "0.1.440-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v438/app-staffV3-debug.apk",
-  "sha256": "8b7f79fc25c984cd26067dbd9752420b34d444af3902183e1950ef050eade8f7",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v440/app-staffV3-debug.apk",
+  "sha256": "e4ea7356504a2f62ee1183e48a56f6cc5a2f50c1c8f38f127bea7015e4673ca6",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ยกเลิกรายการที่ยังไม่รับเงินด้วย PIN ประจำตัว\n• ใบ ฿0 จากตู้: ยืนยันผ้าอยู่ในเครื่อง\n• ปุ่มยืนยันเครื่องทำงานเสร็จ ต้องยืนยันชื่อเครื่องก่อน\n• ปรับการเสนอเครื่อง และหยุดลองซ้ำเมื่อผูกเครื่องไม่ได้"
+  "changelog": "• บิลที่ยกเลิกหายจากแท็บรอชำระเงินทันที\n• แท็บยกเลิกแสดงสาเหตุที่ยกเลิก แทนป้ายค้างจ่าย"
 }
