@@ -1,11 +1,11 @@
 {
-  "versionCode": 441,
-  "versionName": "0.1.441-posD3",
+  "versionCode": 442,
+  "versionName": "0.1.442-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v441/app-posD3-debug.apk",
-  "sha256": "13151cc684db243a4feaf7864ed5be7edc3609c73e817c67cff01021af87b8b2",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v442/app-posD3-debug.apk",
+  "sha256": "e907c57fa92c6ec1d185a9968a48c9b64e843f4e1fb4a055ce9750c2a565efb2",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้: บิล ฿0 ไม่ค้างหน้าจอ"
+  "changelog": "• ใบงานและใบเสร็จเป็นภาษาไทย พร้อมชื่อสาขา"
 }
