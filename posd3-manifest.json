@@ -1,11 +1,11 @@
 {
-  "versionCode": 442,
-  "versionName": "0.1.442-posD3",
+  "versionCode": 444,
+  "versionName": "0.1.444-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v442/app-posD3-debug.apk",
-  "sha256": "e907c57fa92c6ec1d185a9968a48c9b64e843f4e1fb4a055ce9750c2a565efb2",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v444/app-posD3-debug.apk",
+  "sha256": "f8d61d081ced9500aa073da72b648823933a2265daf6471445e76277e281096c",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ใบงานและใบเสร็จเป็นภาษาไทย พร้อมชื่อสาขา"
+  "changelog": "• หน้าจอตู้แสดงช่วงฝากผ้าเมื่อแม่บ้านยังไม่เปิดกะ"
 }
