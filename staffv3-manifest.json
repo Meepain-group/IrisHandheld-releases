@@ -1,11 +1,11 @@
 {
-  "versionCode": 443,
-  "versionName": "0.1.443-staffV3",
+  "versionCode": 446,
+  "versionName": "0.1.446-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v443/app-staffV3-debug.apk",
-  "sha256": "5c9ab1c2854a08a31f0f507a04291e5d831de18f1de85dda25fb91e1d7857e37",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v446/app-staffV3-debug.apk",
+  "sha256": "0f19f49869bd40d60a3d0543d3d42c7ba790b7dfe227d043292a0c1fc4e18e97",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ใบงานภาษาไทย และชื่อสาขาจริงบนใบงาน/ใบเสร็จ\n• พิมพ์ใบงานซ้ำของบิลที่ยังไม่จ่าย แสดงว่า ยังไม่ชำระ"
+  "changelog": "• แจ้งเตือนแม่บ้านเมื่องานฝากซักคาดว่าจะเสร็จเกินเวลาเลิกงาน (ยังปิดอยู่จนกว่าจะเปิดใน backoffice)"
 }
