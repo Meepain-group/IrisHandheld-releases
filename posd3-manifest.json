@@ -1,11 +1,11 @@
 {
-  "versionCode": 445,
-  "versionName": "0.1.445-posD3",
+  "versionCode": 447,
+  "versionName": "0.1.447-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v445/app-posD3-debug.apk",
-  "sha256": "b7f92ea12ab90c24c67e15100c336e30a065107960903e4cba70b7399384282a",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v447/app-posD3-debug.apk",
+  "sha256": "8e58b45bfe44622a73f3ace642635d9f25d8e260b415f5d6013df5a0516040db",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เตรียมระบบแจ้งเวลารอคิวต่อขนาดเครื่อง (ยังไม่เปิดใช้)"
+  "changelog": "• ลบโค้ดข้อความคิวรอที่ยกเลิก (ไม่มีผลกับหน้าจอ)"
 }
