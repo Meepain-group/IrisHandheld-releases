@@ -1,11 +1,11 @@
 {
-  "versionCode": 446,
-  "versionName": "0.1.446-staffV3",
+  "versionCode": 448,
+  "versionName": "0.1.448-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v446/app-staffV3-debug.apk",
-  "sha256": "0f19f49869bd40d60a3d0543d3d42c7ba790b7dfe227d043292a0c1fc4e18e97",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v448/app-staffV3-debug.apk",
+  "sha256": "22e19b5c6f9f9f512149ebce664053b82ae5c9ea534d3616b7b2b50a45e90e8d",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แจ้งเตือนแม่บ้านเมื่องานฝากซักคาดว่าจะเสร็จเกินเวลาเลิกงาน (ยังปิดอยู่จนกว่าจะเปิดใน backoffice)"
+  "changelog": "• เครื่องว่างไม่หายจากรายการให้เลือกอีก (แก้การลืมสถานะเครื่อง) · ไม่แนะนำเครื่องที่ออฟไลน์ · แสดงเครื่องที่ไม่ทราบสถานะ"
 }
