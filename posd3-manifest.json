@@ -1,11 +1,11 @@
 {
-  "versionCode": 447,
-  "versionName": "0.1.447-posD3",
+  "versionCode": 450,
+  "versionName": "0.1.450-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v447/app-posD3-debug.apk",
-  "sha256": "8e58b45bfe44622a73f3ace642635d9f25d8e260b415f5d6013df5a0516040db",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v450/app-posD3-debug.apk",
+  "sha256": "0aa75802bd291cde0379b62d56ab48626ab8eafb8c18d6ecabe0b8d1c0c2102c",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ลบโค้ดข้อความคิวรอที่ยกเลิก (ไม่มีผลกับหน้าจอ)"
+  "changelog": "• จอเลือกเครื่องที่ใส่ผ้าเอง: แยกตามขนาดถัง · บอกน้ำ/ความร้อนและยอดที่จ่าย · เครื่องที่มีบิลแล้วเป็นสีเทา\n• popup ทบทวนรายการเมื่อมีแค่ซักหรือแค่อบ\n• แถบเตือนเมื่อตู้ไม่มีอินเทอร์เน็ต\n• แก้การขอซ้ำหลังปิดบิล"
 }
