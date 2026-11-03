@@ -1,11 +1,11 @@
 {
-  "versionCode": 451,
-  "versionName": "0.1.451-posD3",
+  "versionCode": 454,
+  "versionName": "0.1.454-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v451/app-posD3-debug.apk",
-  "sha256": "0153717cb7a92fa8f7924470b04a850465785e18760c4aae34cbc3e45bd573df",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v454/app-posD3-debug.apk",
+  "sha256": "0bf9bde6df5bfde08e0b35772a56bd1a6c2da030130176e3022907e0b28a0787",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• หน้าเลือกเครื่องที่ใส่ผ้าเอง: ปุ่ม 'ไม่เจอเครื่องของฉัน' + คำถามยืนยันว่าเครื่องกำลังหมุน\n• รายการเครื่องไม่กระโดด"
+  "changelog": "• การ์ดน้ำยาแถวละ 2 ช่อง รูปสินค้าใหญ่ การ์ดเตี้ยลง"
 }
