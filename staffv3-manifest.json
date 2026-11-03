@@ -1,11 +1,11 @@
 {
-  "versionCode": 452,
-  "versionName": "0.1.452-staffV3",
+  "versionCode": 453,
+  "versionName": "0.1.453-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v452/app-staffV3-debug.apk",
-  "sha256": "8525e745024064eb7ca23fa7a875feca5d1dca1b33a1c68eadb0e4b2431ac7eb",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v453/app-staffV3-debug.apk",
+  "sha256": "4382725ed643f843638fc1a284933cc52d92e3eee2d9ad11abf4200fbe511774",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เครดิตจ่ายคู่ wallet ของลูกค้าเท่านั้น (เลิกเครดิต+เงินสด)\n• เครดิต+QR ปิดไว้ชั่วคราว"
+  "changelog": "• แก้ไขรายการ WDF หลังชำระเงิน (เปิดใช้เมื่อระบบพร้อม) • เครื่องที่ไม่ทราบขนาดแสดงและเลือกได้"
 }
