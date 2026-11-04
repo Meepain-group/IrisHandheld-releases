@@ -1,11 +1,11 @@
 {
-  "versionCode": 455,
-  "versionName": "0.1.455-staffV3",
+  "versionCode": 456,
+  "versionName": "0.1.456-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v455/app-staffV3-debug.apk",
-  "sha256": "78031f5ea2194cbe367dc53ff5eea3382181e3cc893f2c6f5264de05201aebd5",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v456/app-staffV3-debug.apk",
+  "sha256": "d563265f6b672abfbee41fb7236dc60e6ece16244a48f8b92418ff2b069df89a",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ใบเสร็จไม่แสดง cashback สำหรับบิลที่ใช้ส่วนลด/เครดิต"
+  "changelog": "• แสดงชื่อสาขาบนหน้าแรกและหน้าตั้งค่า • ย้ายสาขาปลอดภัย (ไม่พาข้อมูลสาขาเดิม) • เตรียมเครดิตคู่ QR (ยังไม่เปิด)"
 }
