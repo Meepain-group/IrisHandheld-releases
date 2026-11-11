@@ -1,11 +1,11 @@
 {
-  "versionCode": 460,
-  "versionName": "0.1.460-staffV3",
+  "versionCode": 461,
+  "versionName": "0.1.461-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v460/app-staffV3-debug.apk",
-  "sha256": "e6013b9b60d545209158b7d6e61afb45efeeef8a3f51d46027be39f8aab1c878",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v461/app-staffV3-debug.apk",
+  "sha256": "cbb5a309c5b3ae425493efc1a19d178e7754b86800bdbe24619942987ad92ea5",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "•"
+  "changelog": "• แก้การปิดงานเมื่อเครื่องทำงานแล้วแต่ระบบยังไม่ผูก และรายการที่ผู้จัดการยืนยันแล้วแสดงว่าเสร็จ"
 }
