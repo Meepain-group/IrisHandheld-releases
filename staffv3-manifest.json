@@ -1,11 +1,11 @@
 {
-  "versionCode": 459,
-  "versionName": "0.1.459-staffV3",
+  "versionCode": 460,
+  "versionName": "0.1.460-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v459/app-staffV3-debug.apk",
-  "sha256": "a4a2ec565d837ce097a9db59866359a4a003df5a84cf83aab5a846fe60c3fc0a",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v460/app-staffV3-debug.apk",
+  "sha256": "e6013b9b60d545209158b7d6e61afb45efeeef8a3f51d46027be39f8aab1c878",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เพิ่มบันทึกออนไลน์สำหรับตรวจปัญหา QR และการเชื่อมต่อ Edge (ไม่เปลี่ยนการทำงาน)"
+  "changelog": "•"
 }
