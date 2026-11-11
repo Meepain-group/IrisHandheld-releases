@@ -1,11 +1,11 @@
 {
-  "versionCode": 454,
-  "versionName": "0.1.454-posD3",
+  "versionCode": 462,
+  "versionName": "0.1.462-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v454/app-posD3-debug.apk",
-  "sha256": "0bf9bde6df5bfde08e0b35772a56bd1a6c2da030130176e3022907e0b28a0787",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v462/app-posD3-debug.apk",
+  "sha256": "4aa16e1e5c7867b0517b17bdad9d5bae71a676c96a1ca91969ba3874e78774c3",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• การ์ดน้ำยาแถวละ 2 ช่อง รูปสินค้าใหญ่ การ์ดเตี้ยลง"
+  "changelog": "• ตู้ไม่ขึ้นแถบ 'ไม่มีอินเทอร์เน็ต' ผิด ๆ ขณะเชื่อมต่อได้\n• เครื่องที่ลูกค้าโหลดผ้าเองไม่ถูกซ่อนจากบิลที่ยังไม่จ่าย"
 }
