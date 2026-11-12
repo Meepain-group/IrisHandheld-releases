@@ -1,11 +1,11 @@
 {
-  "versionCode": 464,
-  "versionName": "0.1.464-staffV3",
+  "versionCode": 465,
+  "versionName": "0.1.465-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v464/app-staffV3-debug.apk",
-  "sha256": "2408b2a87cb8e35477300115eafb713736819e6a06d09851103ec0fe2d5e0fd3",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v465/app-staffV3-debug.apk",
+  "sha256": "ff54255965c88d34b9ec8f20efbfc9f7349f7d641279b8304c45eeeb47c63b76",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ลดการส่งซ้ำของระบบซ่อมสถานะจ่ายเงิน เก็บบันทึกการพิมพ์ไว้ไม่ลบ และแจ้งเตือนเวลาเครื่องเฉพาะเครื่องอบ"
+  "changelog": "• เมื่อระบบยังยืนยันการทำงานของเครื่องไม่ได้ จะแสดง \"ระบบกำลังยืนยัน ไม่ต้องกดสั่งซ้ำ\" แทนข้อความแดง"
 }
