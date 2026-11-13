@@ -1,11 +1,11 @@
 {
-  "versionCode": 465,
-  "versionName": "0.1.465-staffV3",
+  "versionCode": 466,
+  "versionName": "0.1.466-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v465/app-staffV3-debug.apk",
-  "sha256": "ff54255965c88d34b9ec8f20efbfc9f7349f7d641279b8304c45eeeb47c63b76",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v466/app-staffV3-debug.apk",
+  "sha256": "fd49d80ad7118e04a0daaaac8c52765ff7401b36de9087ea8127101f2b305f07",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เมื่อระบบยังยืนยันการทำงานของเครื่องไม่ได้ จะแสดง \"ระบบกำลังยืนยัน ไม่ต้องกดสั่งซ้ำ\" แทนข้อความแดง"
+  "changelog": "• หน้าใส่ PIN ใหม่ทุกหน้า บอกชัดว่า PIN ส่วนตัวหรือ PIN เครื่อง • แก้ไขรายการเป็น 4 ขั้น มีหน้าตรวจรายการเดิมกับรายการใหม่ก่อนยืนยัน"
 }
