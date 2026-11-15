@@ -1,11 +1,11 @@
 {
-  "versionCode": 462,
-  "versionName": "0.1.462-posD3",
+  "versionCode": 467,
+  "versionName": "0.1.467-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v462/app-posD3-debug.apk",
-  "sha256": "4aa16e1e5c7867b0517b17bdad9d5bae71a676c96a1ca91969ba3874e78774c3",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v467/app-posD3-debug.apk",
+  "sha256": "471f5604a6f2ef3d94a76bc84343c780a89cadb83bd0a9bafe43cb0f784bf6bf",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ตู้ไม่ขึ้นแถบ 'ไม่มีอินเทอร์เน็ต' ผิด ๆ ขณะเชื่อมต่อได้\n• เครื่องที่ลูกค้าโหลดผ้าเองไม่ถูกซ่อนจากบิลที่ยังไม่จ่าย"
+  "changelog": "• เตรียมหน้าจอเลือกเครื่องและจ่ายรายเครื่อง (ยังไม่เปิดใช้)\n• ปรับปรุงภายใน"
 }
