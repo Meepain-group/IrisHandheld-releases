@@ -1,11 +1,11 @@
 {
-  "versionCode": 467,
-  "versionName": "0.1.467-posD3",
+  "versionCode": 471,
+  "versionName": "0.1.471-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v467/app-posD3-debug.apk",
-  "sha256": "471f5604a6f2ef3d94a76bc84343c780a89cadb83bd0a9bafe43cb0f784bf6bf",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v471/app-posD3-debug.apk",
+  "sha256": "e318f82f04702562a7fa64a35a3d4f25d9a8616dc5f44bf2d94196f9193d114a",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เตรียมหน้าจอเลือกเครื่องและจ่ายรายเครื่อง (ยังไม่เปิดใช้)\n• ปรับปรุงภายใน"
+  "changelog": "• หน้าจ่ายรายเครื่องแบบใหม่: แบ่งเครื่องตามขนาด เลือกน้ำ / ความร้อนแบบเดียวกับหน้าซัก-อบ (ยังไม่เปิดใช้)"
 }
