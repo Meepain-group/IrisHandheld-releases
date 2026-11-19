@@ -1,11 +1,11 @@
 {
-  "versionCode": 471,
-  "versionName": "0.1.471-posD3",
+  "versionCode": 473,
+  "versionName": "0.1.473-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v471/app-posD3-debug.apk",
-  "sha256": "e318f82f04702562a7fa64a35a3d4f25d9a8616dc5f44bf2d94196f9193d114a",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v473/app-posD3-debug.apk",
+  "sha256": "5be7348189ed1082f3c0f96e0ce79f2bcbe93418114b89548413b109657da359",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• หน้าจ่ายรายเครื่องแบบใหม่: แบ่งเครื่องตามขนาด เลือกน้ำ / ความร้อนแบบเดียวกับหน้าซัก-อบ (ยังไม่เปิดใช้)"
+  "changelog": "• หน้าแรกบอกว่าตู้มีหลายบริการ และหน้าเลือกบริการแยก ซัก/อบด้วยตัวเอง กับ ฝากซัก อบ พับ"
 }
