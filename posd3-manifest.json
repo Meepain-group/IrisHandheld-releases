@@ -1,11 +1,11 @@
 {
-  "versionCode": 473,
-  "versionName": "0.1.473-posD3",
+  "versionCode": 475,
+  "versionName": "0.1.475-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v473/app-posD3-debug.apk",
-  "sha256": "5be7348189ed1082f3c0f96e0ce79f2bcbe93418114b89548413b109657da359",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v475/app-posD3-debug.apk",
+  "sha256": "206c081b2b4b53bf8903523e680880a7de1b65f81a1f86a6f68b9517e8689b87",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• หน้าแรกบอกว่าตู้มีหลายบริการ และหน้าเลือกบริการแยก ซัก/อบด้วยตัวเอง กับ ฝากซัก อบ พับ"
+  "changelog": "• แก้หน้าเลือกบริการไม่ให้ขึ้นแบบเก่าก่อน"
 }
