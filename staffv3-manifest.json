@@ -1,11 +1,11 @@
 {
-  "versionCode": 469,
-  "versionName": "0.1.469-staffV3",
+  "versionCode": 483,
+  "versionName": "0.1.483-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v469/app-staffV3-debug.apk",
-  "sha256": "372a51fa382de5ea07740d3141453186fbf70e269cbd40ac6987d46d03180ce5",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v483/app-staffV3-debug.apk",
+  "sha256": "2f3c31677999fd3c2090f11b2b5582a89ba9eec26f9e4ee77fb7c07060796d36",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• เครื่องอบ: บอกชัดว่าเครื่องรับโปรแกรมแล้วหรือยัง เตือน \"ยังไม่เริ่ม\" หลัง 5 นาที และมีปุ่มผู้จัดการเคลียร์เครื่อง • สัญญาณช้า: ไม่ขึ้นแถบแดงเมื่อสั่งเครื่องไปแล้ว • ข้อความไทยเมื่อระบบราคายังไม่พร้อม"
+  "changelog": "• แก้รายการบิลแบบเก็บส่วนต่างได้ (ยังปิดอยู่ จนกว่าจะเปิดทีละร้าน) • ข้อความปิดงานเป็นภาษาไทยชัดขึ้น • ไม่ขึ้น 'Job was cancelled'"
 }
