@@ -1,11 +1,11 @@
 {
-  "versionCode": 479,
-  "versionName": "0.1.479-posD3",
+  "versionCode": 485,
+  "versionName": "0.1.485-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v479/app-posD3-debug.apk",
-  "sha256": "cad7c83af232eec9accc666e800da63ec296e55d094b52efba0969efd3bf4ca4",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v485/app-posD3-debug.apk",
+  "sha256": "2273b73bd708743ff2ca2e163aa332e66ac6cd480ffbc50df5fa82a24994e872",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• ปรับหน้าสมาชิกให้ใช้ง่ายขึ้น"
+  "changelog": "• ปรับปรุงหน้าชำระเงินให้ใช้ง่ายขึ้น\n• เพิ่มความปลอดภัยของข้อมูลสมาชิก"
 }
