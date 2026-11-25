@@ -1,11 +1,11 @@
 {
-  "versionCode": 483,
-  "versionName": "0.1.483-staffV3",
+  "versionCode": 487,
+  "versionName": "0.1.487-staffV3",
   "applicationId": "com.aboutyoucnx.irishandheld.staff",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v483/app-staffV3-debug.apk",
-  "sha256": "2f3c31677999fd3c2090f11b2b5582a89ba9eec26f9e4ee77fb7c07060796d36",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/staffv3-v487/app-staffV3-debug.apk",
+  "sha256": "3c591f917ce342320801b8df0d79102d28f2463b9480045b0398e91294492282",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• แก้รายการบิลแบบเก็บส่วนต่างได้ (ยังปิดอยู่ จนกว่าจะเปิดทีละร้าน) • ข้อความปิดงานเป็นภาษาไทยชัดขึ้น • ไม่ขึ้น 'Job was cancelled'"
+  "changelog": "• แก้การตรวจซ้ำบิลที่ชำระแล้วให้เบาลง (ไม่ไล่บิลเก่าเกินกำหนด)\n• บันทึกข้อมูลหน้าแก้รายการ เพื่อใช้ติดตามปัญหา\n• แสดงยอดเงินตั้งแต่ ฿1,000 มีจุลภาค"
 }
