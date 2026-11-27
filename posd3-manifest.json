@@ -1,11 +1,11 @@
 {
-  "versionCode": 489,
-  "versionName": "0.1.489-posD3",
+  "versionCode": 493,
+  "versionName": "0.1.493-posD3",
   "applicationId": "com.aboutyoucnx.irishandheld.kiosk.d3",
-  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v489/app-posD3-debug.apk",
-  "sha256": "4dbee68776d2a3cc58dae89a8d638bab89288b3d66404ed63a3b18b81ea2981b",
+  "apkUrl": "https://github.com/Meepain-group/IrisHandheld-releases/releases/download/posd3-v493/app-posD3-debug.apk",
+  "sha256": "549c8b0da0a815eb165cf23b0ffc58cb4eb5e883aa7f8e82de6a472cdb9c0f91",
   "minSupportedVersionCode": 1,
   "mandatory": false,
   "allowDowngrade": false,
-  "changelog": "• หน้าเลือกบริการแบบใหม่ ดูง่ายขึ้น\n• หน้าซัก / อบ ด้วยตัวเอง เปิดเร็วขึ้น\n• QR พร้อมเพย์แสดงโลโก้ชัดเจน"
+  "changelog": "• หน้าจอพักตู้และหน้าเลือกบริการแบบใหม่ ดูง่ายขึ้น"
 }
